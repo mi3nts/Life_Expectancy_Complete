@@ -1,0 +1,16 @@
+name: Weather_Prediction
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - dask
+  - netcdf4
+  - bottleneck
+  - xarray
+  - geopandas
+  - scikit-learn
+  - cartopy
+  - regionmask
+  - rioxarray
+prefix: C:\Users\Shisir\.conda\envs\Weather_Prediction
