@@ -1,0 +1,3128 @@
+location_name,fips,year,MeanLifeExpectency
+Autauga County (Alabama),1001,2019,76.59326514
+Baldwin County (Alabama),1003,2019,78.29352234
+Barbour County (Alabama),1005,2019,74.81453209
+Bibb County (Alabama),1007,2019,73.9200538
+Blount County (Alabama),1009,2019,75.02918555
+Bullock County (Alabama),1011,2019,73.94932889
+Butler County (Alabama),1013,2019,74.1389189
+Calhoun County (Alabama),1015,2019,73.56290669
+Chambers County (Alabama),1017,2019,74.70264642
+Cherokee County (Alabama),1019,2019,74.61315029
+Chilton County (Alabama),1021,2019,74.58596981
+Choctaw County (Alabama),1023,2019,74.62843559
+Clarke County (Alabama),1025,2019,75.09994349
+Clay County (Alabama),1027,2019,74.70194898
+Cleburne County (Alabama),1029,2019,74.75586384
+Coffee County (Alabama),1031,2019,76.39972647
+Colbert County (Alabama),1033,2019,74.53317896
+Conecuh County (Alabama),1035,2019,73.88417682
+Coosa County (Alabama),1037,2019,75.73848145
+Covington County (Alabama),1039,2019,74.21158951
+Crenshaw County (Alabama),1041,2019,74.35480481
+Cullman County (Alabama),1043,2019,74.56265406
+Dale County (Alabama),1045,2019,75.58183682
+Dallas County (Alabama),1047,2019,72.47625241
+DeKalb County (Alabama),1049,2019,74.94324979
+Elmore County (Alabama),1051,2019,76.21585678
+Escambia County (Alabama),1053,2019,73.31316878
+Etowah County (Alabama),1055,2019,73.36049263
+Fayette County (Alabama),1057,2019,74.0421749
+Franklin County (Alabama),1059,2019,74.06617034
+Geneva County (Alabama),1061,2019,74.39813555
+Greene County (Alabama),1063,2019,74.05441806
+Hale County (Alabama),1065,2019,74.19538089
+Henry County (Alabama),1067,2019,75.64474004
+Houston County (Alabama),1069,2019,76.24303253
+Jackson County (Alabama),1071,2019,73.68285533
+Jefferson County (Alabama),1073,2019,74.86215418
+Lamar County (Alabama),1075,2019,74.86831492
+Lauderdale County (Alabama),1077,2019,76.29694054
+Lawrence County (Alabama),1079,2019,74.04502274
+Lee County (Alabama),1081,2019,77.91395767
+Limestone County (Alabama),1083,2019,77.66758285
+Lowndes County (Alabama),1085,2019,72.07411817
+Macon County (Alabama),1087,2019,73.25760325
+Madison County (Alabama),1089,2019,77.76419162
+Marengo County (Alabama),1091,2019,73.52543475
+Marion County (Alabama),1093,2019,74.62586958
+Marshall County (Alabama),1095,2019,74.58778635
+Mobile County (Alabama),1097,2019,75.33680609
+Monroe County (Alabama),1099,2019,75.127077
+Montgomery County (Alabama),1101,2019,76.42162755
+Morgan County (Alabama),1103,2019,75.48636353
+Perry County (Alabama),1105,2019,73.17425321
+Pickens County (Alabama),1107,2019,74.81424484
+Pike County (Alabama),1109,2019,75.24221686
+Randolph County (Alabama),1111,2019,74.64019837
+Russell County (Alabama),1113,2019,73.81797828
+Saint Clair County (Alabama),1115,2019,75.25538956
+Shelby County (Alabama),1117,2019,80.46419381
+Sumter County (Alabama),1119,2019,74.98046194
+Talladega County (Alabama),1121,2019,73.86959963
+Tallapoosa County (Alabama),1123,2019,75.17408485
+Tuscaloosa County (Alabama),1125,2019,76.68898935
+Walker County (Alabama),1127,2019,70.6271115
+Washington County (Alabama),1129,2019,74.83651498
+Wilcox County (Alabama),1131,2019,71.87080914
+Winston County (Alabama),1133,2019,74.94014761
+Anchorage Municipality (Alaska),2020,2019,79.38651942
+Bethel Census Area (Alaska),2050,2019,72.79502431
+Bristol Bay Borough (Alaska),2060,2019,76.63324669
+Fairbanks North Star Borough (Alaska),2090,2019,80.62625036
+Haines Borough (Alaska),2100,2019,83.01505215
+Juneau City and Borough (Alaska),2110,2019,81.22613767
+Kenai Peninsula Borough (Alaska),2122,2019,78.92046623
+Kodiak Island Borough (Alaska),2150,2019,80.79009896
+Matanuska-Susitna Borough (Alaska),2170,2019,79.18984066
+Nome Census Area (Alaska),2180,2019,70.84535553
+North Slope Borough (Alaska),2185,2019,75.95462911
+Sitka City and Borough (Alaska),2220,2019,80.85181446
+Southeast Fairbanks Census Area (Alaska),2240,2019,77.97944108
+Chugach Census Area (Alaska),2063,2019,79.57441805
+Copper River Census Area (Alaska),2066,2019,79.57441805
+Valdez-Cordova Census Area (Alaska),2261,2019,79.57441805
+Kusilvak Census Area (Alaska),2158,2019,68.5618045
+Wade Hampton Census Area (Alaska),2270,2019,68.5618045
+Kobuk Census Area (Alaska),2140,2019,72.78627038
+Northwest Arctic Borough (Alaska),2188,2019,72.78627038
+Aleutian Islands Census Area (Alaska),2010,2019,84.86388013
+Aleutians East Borough (Alaska),2013,2019,84.86388013
+Aleutians West Census Area (Alaska),2016,2019,84.86388013
+Dillingham Census Area (Alaska),2070,2019,74.55024133
+Lake and Peninsula Borough (Alaska),2164,2019,74.55024133
+Denali Borough (Alaska),2068,2019,74.9741404
+Yukon-Koyukuk Census Area (Alaska),2290,2019,74.9741404
+Hoonah-Angoon Census Area (Alaska),2105,2019,81.54565435
+Skagway Municipality (Alaska),2230,2019,81.54565435
+Skagway-Yakutat-Angoon Census Area (Alaska),2231,2019,81.54565435
+Skagway-Hoonah-Angoon Census Area (Alaska),2232,2019,81.54565435
+Yakutat City and Borough (Alaska),2282,2019,81.54565435
+Ketchikan Gateway Borough (Alaska),2130,2019,79.75389237
+Petersburg Borough (Alaska),2195,2019,79.75389237
+Prince of Wales-Hyder Census Area (Alaska),2198,2019,79.75389237
+Prince of Wales-Outer Ketchikan Census Area (Alaska),2201,2019,79.75389237
+Wrangell City and Borough (Alaska),2275,2019,79.75389237
+Wrangell-Petersburg Census Area (Alaska),2280,2019,79.75389237
+Apache County (Arizona),4001,2019,72.32845483
+Cochise County (Arizona),4003,2019,77.77950138
+Coconino County (Arizona),4005,2019,78.79049043
+Gila County (Arizona),4007,2019,74.34783367
+Graham County (Arizona),4009,2019,77.20679234
+Greenlee County (Arizona),4011,2019,78.4893303
+Maricopa County (Arizona),4013,2019,79.7635827
+Mohave County (Arizona),4015,2019,75.22913493
+Navajo County (Arizona),4017,2019,73.69824288
+Pima County (Arizona),4019,2019,78.82733781
+Pinal County (Arizona),4021,2019,81.47014459
+Santa Cruz County (Arizona),4023,2019,82.03946307
+Yavapai County (Arizona),4025,2019,78.18465645
+La Paz County (Arizona),4012,2019,81.43539017
+Yuma County (Arizona),4027,2019,81.43539017
+Arkansas County (Arkansas),5001,2019,74.02514976
+Ashley County (Arkansas),5003,2019,74.28950519
+Baxter County (Arkansas),5005,2019,76.25012396
+Benton County (Arkansas),5007,2019,79.69562751
+Boone County (Arkansas),5009,2019,76.46069512
+Bradley County (Arkansas),5011,2019,74.07873192
+Calhoun County (Arkansas),5013,2019,75.02150942
+Carroll County (Arkansas),5015,2019,77.28421604
+Chicot County (Arkansas),5017,2019,73.68615734
+Clark County (Arkansas),5019,2019,76.0630306
+Clay County (Arkansas),5021,2019,73.19024753
+Cleburne County (Arkansas),5023,2019,75.97188038
+Cleveland County (Arkansas),5025,2019,75.17167575
+Columbia County (Arkansas),5027,2019,74.55587983
+Conway County (Arkansas),5029,2019,74.92305008
+Craighead County (Arkansas),5031,2019,76.45864347
+Crawford County (Arkansas),5033,2019,76.09947008
+Crittenden County (Arkansas),5035,2019,73.02678488
+Cross County (Arkansas),5037,2019,73.45248043
+Dallas County (Arkansas),5039,2019,73.99588688
+Desha County (Arkansas),5041,2019,72.72201783
+Drew County (Arkansas),5043,2019,75.32218474
+Faulkner County (Arkansas),5045,2019,76.6906424
+Franklin County (Arkansas),5047,2019,74.83827956
+Fulton County (Arkansas),5049,2019,75.03563746
+Garland County (Arkansas),5051,2019,74.85622569
+Grant County (Arkansas),5053,2019,75.6041086
+Greene County (Arkansas),5055,2019,74.33580694
+Hempstead County (Arkansas),5057,2019,75.53110369
+Hot Spring County (Arkansas),5059,2019,74.48336858
+Howard County (Arkansas),5061,2019,74.37088847
+Independence County (Arkansas),5063,2019,76.16799105
+Izard County (Arkansas),5065,2019,75.61573705
+Jackson County (Arkansas),5067,2019,73.47178051
+Jefferson County (Arkansas),5069,2019,73.42618991
+Johnson County (Arkansas),5071,2019,75.98362141
+Lafayette County (Arkansas),5073,2019,74.97076974
+Lawrence County (Arkansas),5075,2019,74.16196473
+Lee County (Arkansas),5077,2019,73.65506321
+Lincoln County (Arkansas),5079,2019,75.11746014
+Little River County (Arkansas),5081,2019,74.22964809
+Logan County (Arkansas),5083,2019,74.53905197
+Lonoke County (Arkansas),5085,2019,75.15301275
+Madison County (Arkansas),5087,2019,75.8570085
+Marion County (Arkansas),5089,2019,75.65459864
+Miller County (Arkansas),5091,2019,75.0245849
+Mississippi County (Arkansas),5093,2019,71.60473924
+Monroe County (Arkansas),5095,2019,72.50850087
+Montgomery County (Arkansas),5097,2019,75.82608676
+Nevada County (Arkansas),5099,2019,74.3619053
+Newton County (Arkansas),5101,2019,77.42026865
+Ouachita County (Arkansas),5103,2019,73.45911124
+Perry County (Arkansas),5105,2019,75.19148332
+Phillips County (Arkansas),5107,2019,71.38728068
+Pike County (Arkansas),5109,2019,75.25432448
+Poinsett County (Arkansas),5111,2019,71.44832347
+Polk County (Arkansas),5113,2019,75.31887933
+Pope County (Arkansas),5115,2019,76.76488667
+Prairie County (Arkansas),5117,2019,76.31005959
+Pulaski County (Arkansas),5119,2019,76.27033236
+Randolph County (Arkansas),5121,2019,74.59346826
+Saint Francis County (Arkansas),5123,2019,74.28256296
+Saline County (Arkansas),5125,2019,77.30556663
+Scott County (Arkansas),5127,2019,74.86360363
+Searcy County (Arkansas),5129,2019,75.41590737
+Sebastian County (Arkansas),5131,2019,76.16567631
+Sevier County (Arkansas),5133,2019,75.69753657
+Sharp County (Arkansas),5135,2019,73.87159526
+Stone County (Arkansas),5137,2019,76.30935217
+Union County (Arkansas),5139,2019,73.55061213
+Van Buren County (Arkansas),5141,2019,76.0940936
+Washington County (Arkansas),5143,2019,78.09911384
+White County (Arkansas),5145,2019,75.55674145
+Woodruff County (Arkansas),5147,2019,72.94807662
+Yell County (Arkansas),5149,2019,74.92353187
+Alameda County (California),6001,2019,82.75759992
+Alpine County (California),6003,2019,78.64857885
+Amador County (California),6005,2019,79.88623332
+Butte County (California),6007,2019,77.74205625
+Calaveras County (California),6009,2019,79.65223348
+Colusa County (California),6011,2019,79.85195175
+Contra Costa County (California),6013,2019,82.3343582
+Del Norte County (California),6015,2019,75.64237353
+El Dorado County (California),6017,2019,81.9417323
+Fresno County (California),6019,2019,78.7315724
+Glenn County (California),6021,2019,77.49850916
+Humboldt County (California),6023,2019,77.10323188
+Imperial County (California),6025,2019,81.00435875
+Inyo County (California),6027,2019,79.70781888
+Kern County (California),6029,2019,77.29370323
+Kings County (California),6031,2019,79.61464936
+Lake County (California),6033,2019,74.99121751
+Lassen County (California),6035,2019,78.2284119
+Los Angeles County (California),6037,2019,81.97255831
+Madera County (California),6039,2019,79.39745319
+Marin County (California),6041,2019,85.14944742
+Mariposa County (California),6043,2019,80.18010568
+Mendocino County (California),6045,2019,79.07723302
+Merced County (California),6047,2019,78.8420147
+Modoc County (California),6049,2019,77.2373425
+Mono County (California),6051,2019,85.48524384
+Monterey County (California),6053,2019,82.25375443
+Napa County (California),6055,2019,81.66511693
+Nevada County (California),6057,2019,81.30418588
+Orange County (California),6059,2019,82.9944118
+Placer County (California),6061,2019,82.08879261
+Plumas County (California),6063,2019,78.6325377
+Riverside County (California),6065,2019,80.71912906
+Sacramento County (California),6067,2019,79.49351372
+San Benito County (California),6069,2019,81.92867725
+San Bernardino County (California),6071,2019,78.5801557
+San Diego County (California),6073,2019,82.01707566
+San Francisco County (California),6075,2019,83.51381586
+San Joaquin County (California),6077,2019,78.39151511
+San Luis Obispo County (California),6079,2019,81.50521059
+San Mateo County (California),6081,2019,84.70234428
+Santa Barbara County (California),6083,2019,81.81669074
+Santa Clara County (California),6085,2019,84.50631207
+Santa Cruz County (California),6087,2019,82.71776731
+Shasta County (California),6089,2019,76.23901193
+Sierra County (California),6091,2019,78.87755884
+Siskiyou County (California),6093,2019,76.26909596
+Solano County (California),6095,2019,80.04363618
+Sonoma County (California),6097,2019,82.08204483
+Stanislaus County (California),6099,2019,77.89662156
+Sutter County (California),6101,2019,78.60268197
+Tehama County (California),6103,2019,77.32209828
+Trinity County (California),6105,2019,76.60034381
+Tulare County (California),6107,2019,78.44131702
+Tuolumne County (California),6109,2019,78.84066286
+Ventura County (California),6111,2019,82.28206141
+Yolo County (California),6113,2019,81.31599407
+Yuba County (California),6115,2019,76.07729174
+Alamosa County (Colorado),8003,2019,75.81226639
+Archuleta County (Colorado),8007,2019,82.18535979
+Baca County (Colorado),8009,2019,77.5452423
+Bent County (Colorado),8011,2019,76.0410177
+Chaffee County (Colorado),8015,2019,81.6805627
+Cheyenne County (Colorado),8017,2019,78.62417392
+Clear Creek County (Colorado),8019,2019,83.00324673
+Conejos County (Colorado),8021,2019,76.5610929
+Costilla County (Colorado),8023,2019,77.32349171
+Crowley County (Colorado),8025,2019,76.91188218
+Custer County (Colorado),8027,2019,81.59402757
+Delta County (Colorado),8029,2019,78.14268221
+Dolores County (Colorado),8033,2019,79.6458321
+Douglas County (Colorado),8035,2019,83.79824287
+Eagle County (Colorado),8037,2019,89.03776587
+Elbert County (Colorado),8039,2019,82.00850577
+El Paso County (Colorado),8041,2019,78.86297628
+Fremont County (Colorado),8043,2019,77.38401091
+Garfield County (Colorado),8045,2019,80.77471881
+Gilpin County (Colorado),8047,2019,82.14694829
+Grand County (Colorado),8049,2019,84.32552815
+Gunnison County (Colorado),8051,2019,83.01097174
+Huerfano County (Colorado),8055,2019,75.37649618
+Jackson County (Colorado),8057,2019,79.70536196
+Kiowa County (Colorado),8061,2019,77.43174063
+Kit Carson County (Colorado),8063,2019,79.57118676
+Lake County (Colorado),8065,2019,82.50924328
+La Plata County (Colorado),8067,2019,82.28316737
+Larimer County (Colorado),8069,2019,81.74099179
+Las Animas County (Colorado),8071,2019,76.78426217
+Lincoln County (Colorado),8073,2019,78.35883267
+Logan County (Colorado),8075,2019,79.67495515
+Mesa County (Colorado),8077,2019,78.64794634
+Moffat County (Colorado),8081,2019,78.60654656
+Montezuma County (Colorado),8083,2019,77.63626245
+Montrose County (Colorado),8085,2019,79.62821185
+Morgan County (Colorado),8087,2019,78.36839628
+Otero County (Colorado),8089,2019,75.24613817
+Ouray County (Colorado),8091,2019,84.49454021
+Park County (Colorado),8093,2019,83.14133598
+Phillips County (Colorado),8095,2019,80.83770235
+Pitkin County (Colorado),8097,2019,91.95337715
+Prowers County (Colorado),8099,2019,77.08284927
+Pueblo County (Colorado),8101,2019,76.43592095
+Rio Blanco County (Colorado),8103,2019,78.92946193
+Rio Grande County (Colorado),8105,2019,76.97445491
+Routt County (Colorado),8107,2019,83.7251627
+Saguache County (Colorado),8109,2019,79.73953656
+San Miguel County (Colorado),8113,2019,86.84050024
+Sedgwick County (Colorado),8115,2019,78.00423858
+Summit County (Colorado),8117,2019,92.25385836
+Teller County (Colorado),8119,2019,80.85942271
+Washington County (Colorado),8121,2019,79.57916248
+Yuma County (Colorado),8125,2019,79.18199103
+Adams County (Colorado),8001,2019,80.77767707
+Arapahoe County (Colorado),8005,2019,80.77767707
+Boulder County (Colorado),8013,2019,80.77767707
+Broomfield County (Colorado),8014,2019,80.77767707
+Denver County (Colorado),8031,2019,80.77767707
+Jefferson County (Colorado),8059,2019,80.77767707
+Weld County (Colorado),8123,2019,80.77767707
+Fairfield County (Connecticut),9001,2019,83.06367075
+Hartford County (Connecticut),9003,2019,80.32457056
+Litchfield County (Connecticut),9005,2019,80.47828061
+Middlesex County (Connecticut),9007,2019,81.25556721
+New Haven County (Connecticut),9009,2019,80.23866132
+New London County (Connecticut),9011,2019,80.0120061
+Tolland County (Connecticut),9013,2019,81.85062132
+Windham County (Connecticut),9015,2019,78.81375534
+Kent County (Delaware),10001,2019,77.35660809
+New Castle County (Delaware),10003,2019,78.42334536
+Sussex County (Delaware),10005,2019,78.72432671
+District of Columbia,11001,2019,78.56357855
+Alachua County (Florida),12001,2019,78.43409313
+Baker County (Florida),12003,2019,75.12846002
+Bay County (Florida),12005,2019,75.85164409
+Bradford County (Florida),12007,2019,74.94716362
+Brevard County (Florida),12009,2019,77.15350959
+Broward County (Florida),12011,2019,80.64568832
+Calhoun County (Florida),12013,2019,74.74556232
+Charlotte County (Florida),12015,2019,80.20288266
+Citrus County (Florida),12017,2019,75.22655934
+Clay County (Florida),12019,2019,77.31862397
+Collier County (Florida),12021,2019,85.30062749
+Columbia County (Florida),12023,2019,75.00762094
+Dade County (Florida),12025,2019,81.21333989
+Miami-Dade County (Florida),12086,2019,81.21333989
+DeSoto County (Florida),12027,2019,79.35392361
+Dixie County (Florida),12029,2019,74.56289191
+Duval County (Florida),12031,2019,75.68106728
+Escambia County (Florida),12033,2019,74.88587202
+Flagler County (Florida),12035,2019,78.80477444
+Franklin County (Florida),12037,2019,76.24435448
+Gadsden County (Florida),12039,2019,75.44088444
+Gilchrist County (Florida),12041,2019,76.80415464
+Glades County (Florida),12043,2019,80.44221557
+Gulf County (Florida),12045,2019,76.6890536
+Hamilton County (Florida),12047,2019,75.14054179
+Hardee County (Florida),12049,2019,78.36641514
+Hendry County (Florida),12051,2019,77.10249464
+Hernando County (Florida),12053,2019,76.47078709
+Highlands County (Florida),12055,2019,78.46119471
+Hillsborough County (Florida),12057,2019,78.90683295
+Holmes County (Florida),12059,2019,72.85249216
+Indian River County (Florida),12061,2019,80.08660668
+Jackson County (Florida),12063,2019,74.38336096
+Jefferson County (Florida),12065,2019,77.06129885
+Lafayette County (Florida),12067,2019,77.13068538
+Lake County (Florida),12069,2019,78.23131349
+Lee County (Florida),12071,2019,81.82029753
+Leon County (Florida),12073,2019,79.11653791
+Levy County (Florida),12075,2019,74.82043564
+Liberty County (Florida),12077,2019,75.78412475
+Madison County (Florida),12079,2019,75.02097731
+Manatee County (Florida),12081,2019,80.55823544
+Marion County (Florida),12083,2019,75.85881848
+Martin County (Florida),12085,2019,81.54580249
+Monroe County (Florida),12087,2019,80.04537061
+Nassau County (Florida),12089,2019,77.35069595
+Okaloosa County (Florida),12091,2019,77.45272298
+Okeechobee County (Florida),12093,2019,76.04760153
+Orange County (Florida),12095,2019,79.80017086
+Osceola County (Florida),12097,2019,78.89945874
+Palm Beach County (Florida),12099,2019,81.59037691
+Pasco County (Florida),12101,2019,77.24852049
+Pinellas County (Florida),12103,2019,78.58667487
+Polk County (Florida),12105,2019,77.80845077
+Putnam County (Florida),12107,2019,73.82942079
+Saint Johns County (Florida),12109,2019,80.82657608
+Saint Lucie County (Florida),12111,2019,79.58253681
+Santa Rosa County (Florida),12113,2019,77.28183358
+Sarasota County (Florida),12115,2019,81.19623142
+Seminole County (Florida),12117,2019,79.9067588
+Sumter County (Florida),12119,2019,80.64048913
+Suwannee County (Florida),12121,2019,75.52326679
+Taylor County (Florida),12123,2019,74.64060526
+Union County (Florida),12125,2019,67.77765296
+Volusia County (Florida),12127,2019,76.27448483
+Wakulla County (Florida),12129,2019,76.39070872
+Walton County (Florida),12131,2019,77.78039372
+Washington County (Florida),12133,2019,72.66850669
+Appling County (Georgia),13001,2019,74.12998401
+Atkinson County (Georgia),13003,2019,73.61064285
+Bacon County (Georgia),13005,2019,72.71538516
+Baker County (Georgia),13007,2019,77.22655238
+Baldwin County (Georgia),13009,2019,75.95872688
+Banks County (Georgia),13011,2019,76.77479538
+Barrow County (Georgia),13013,2019,76.89069567
+Bartow County (Georgia),13015,2019,76.65740008
+Ben Hill County (Georgia),13017,2019,73.10772525
+Berrien County (Georgia),13019,2019,74.40304467
+Bibb County (Georgia),13021,2019,74.04792309
+Bleckley County (Georgia),13023,2019,76.03324174
+Brantley County (Georgia),13025,2019,74.6044083
+Brooks County (Georgia),13027,2019,74.90150876
+Bryan County (Georgia),13029,2019,76.2530588
+Bulloch County (Georgia),13031,2019,77.2098952
+Burke County (Georgia),13033,2019,73.99605481
+Butts County (Georgia),13035,2019,74.19900856
+Calhoun County (Georgia),13037,2019,74.44270836
+Camden County (Georgia),13039,2019,78.25904277
+Candler County (Georgia),13043,2019,73.76504104
+Carroll County (Georgia),13045,2019,75.56389515
+Catoosa County (Georgia),13047,2019,77.93445418
+Charlton County (Georgia),13049,2019,76.48684549
+Chatham County (Georgia),13051,2019,77.88886604
+Chattahoochee County (Georgia),13053,2019,77.40402538
+Chattooga County (Georgia),13055,2019,73.66867532
+Cherokee County (Georgia),13057,2019,80.26256712
+Clarke County (Georgia),13059,2019,79.0362592
+Clay County (Georgia),13061,2019,73.81112179
+Clayton County (Georgia),13063,2019,76.89905156
+Clinch County (Georgia),13065,2019,72.5517469
+Cobb County (Georgia),13067,2019,80.64076844
+Coffee County (Georgia),13069,2019,74.5050115
+Colquitt County (Georgia),13071,2019,74.15612818
+Columbia County (Georgia),13073,2019,80.3603128
+Cook County (Georgia),13075,2019,74.50269875
+Coweta County (Georgia),13077,2019,78.80381231
+Crawford County (Georgia),13079,2019,75.67248062
+Crisp County (Georgia),13081,2019,74.72209373
+Dade County (Georgia),13083,2019,75.31147016
+Dawson County (Georgia),13085,2019,78.30336625
+Decatur County (Georgia),13087,2019,73.66015622
+DeKalb County (Georgia),13089,2019,80.44483538
+Dodge County (Georgia),13091,2019,75.54686661
+Dooly County (Georgia),13093,2019,78.5020483
+Dougherty County (Georgia),13095,2019,74.33907132
+Douglas County (Georgia),13097,2019,77.84676646
+Early County (Georgia),13099,2019,73.5795569
+Echols County (Georgia),13101,2019,77.49048657
+Effingham County (Georgia),13103,2019,76.71157416
+Elbert County (Georgia),13105,2019,74.48363003
+Emanuel County (Georgia),13107,2019,72.88204101
+Evans County (Georgia),13109,2019,75.2129516
+Fannin County (Georgia),13111,2019,77.79824306
+Fayette County (Georgia),13113,2019,81.15919645
+Floyd County (Georgia),13115,2019,75.30844237
+Forsyth County (Georgia),13117,2019,82.16295152
+Franklin County (Georgia),13119,2019,74.07436821
+Fulton County (Georgia),13121,2019,79.62294458
+Gilmer County (Georgia),13123,2019,78.36978214
+Glascock County (Georgia),13125,2019,73.55607391
+Glynn County (Georgia),13127,2019,77.65138576
+Gordon County (Georgia),13129,2019,75.77771926
+Grady County (Georgia),13131,2019,75.67450961
+Greene County (Georgia),13133,2019,78.47129004
+Gwinnett County (Georgia),13135,2019,81.01677616
+Habersham County (Georgia),13137,2019,77.45255365
+Hall County (Georgia),13139,2019,79.24506465
+Hancock County (Georgia),13141,2019,75.38136851
+Haralson County (Georgia),13143,2019,73.57745244
+Harris County (Georgia),13145,2019,79.56257766
+Hart County (Georgia),13147,2019,77.16443757
+Heard County (Georgia),13149,2019,75.07562278
+Henry County (Georgia),13151,2019,77.57796595
+Houston County (Georgia),13153,2019,77.58794541
+Irwin County (Georgia),13155,2019,75.06028167
+Jackson County (Georgia),13157,2019,76.64078323
+Jasper County (Georgia),13159,2019,76.13537652
+Jeff Davis County (Georgia),13161,2019,73.50098615
+Jefferson County (Georgia),13163,2019,72.64595629
+Jenkins County (Georgia),13165,2019,73.47324765
+Johnson County (Georgia),13167,2019,76.19421247
+Jones County (Georgia),13169,2019,78.06178065
+Lamar County (Georgia),13171,2019,74.95937001
+Lanier County (Georgia),13173,2019,75.69352335
+Laurens County (Georgia),13175,2019,74.65796767
+Lee County (Georgia),13177,2019,76.77432958
+Liberty County (Georgia),13179,2019,76.48746513
+Lincoln County (Georgia),13181,2019,76.52559418
+Long County (Georgia),13183,2019,79.05868469
+Lowndes County (Georgia),13185,2019,76.12710474
+Lumpkin County (Georgia),13187,2019,77.9066524
+McDuffie County (Georgia),13189,2019,74.02986017
+McIntosh County (Georgia),13191,2019,80.41041855
+Macon County (Georgia),13193,2019,73.74645098
+Madison County (Georgia),13195,2019,76.26442533
+Marion County (Georgia),13197,2019,76.59799286
+Meriwether County (Georgia),13199,2019,74.82123496
+Miller County (Georgia),13201,2019,73.1234787
+Mitchell County (Georgia),13205,2019,73.97578112
+Monroe County (Georgia),13207,2019,78.25850178
+Montgomery County (Georgia),13209,2019,75.18537906
+Morgan County (Georgia),13211,2019,77.80079382
+Murray County (Georgia),13213,2019,75.12194877
+Muscogee County (Georgia),13215,2019,74.22968497
+Newton County (Georgia),13217,2019,76.43845321
+Oconee County (Georgia),13219,2019,81.46133693
+Oglethorpe County (Georgia),13221,2019,77.94796097
+Paulding County (Georgia),13223,2019,78.92418956
+Peach County (Georgia),13225,2019,73.80470588
+Pickens County (Georgia),13227,2019,77.38609572
+Pierce County (Georgia),13229,2019,74.43419475
+Pike County (Georgia),13231,2019,75.76346477
+Polk County (Georgia),13233,2019,73.59880396
+Pulaski County (Georgia),13235,2019,78.2225247
+Putnam County (Georgia),13237,2019,78.12860678
+Quitman County (Georgia),13239,2019,76.24450684
+Rabun County (Georgia),13241,2019,77.21568001
+Randolph County (Georgia),13243,2019,75.08948373
+Richmond County (Georgia),13245,2019,74.06296706
+Rockdale County (Georgia),13247,2019,77.72228361
+Schley County (Georgia),13249,2019,77.27966186
+Screven County (Georgia),13251,2019,74.78236029
+Seminole County (Georgia),13253,2019,73.60928054
+Spalding County (Georgia),13255,2019,74.6017277
+Stephens County (Georgia),13257,2019,73.77536542
+Stewart County (Georgia),13259,2019,74.45627076
+Sumter County (Georgia),13261,2019,74.32260063
+Talbot County (Georgia),13263,2019,74.76489885
+Taliaferro County (Georgia),13265,2019,74.70256316
+Tattnall County (Georgia),13267,2019,75.15318857
+Taylor County (Georgia),13269,2019,74.50780415
+Telfair County (Georgia),13271,2019,77.65011968
+Terrell County (Georgia),13273,2019,74.14067611
+Thomas County (Georgia),13275,2019,75.35609424
+Tift County (Georgia),13277,2019,74.53738759
+Toombs County (Georgia),13279,2019,74.39582706
+Towns County (Georgia),13281,2019,78.22806987
+Treutlen County (Georgia),13283,2019,75.161008
+Troup County (Georgia),13285,2019,75.34434147
+Turner County (Georgia),13287,2019,72.81116187
+Twiggs County (Georgia),13289,2019,74.15401893
+Union County (Georgia),13291,2019,79.01935421
+Upson County (Georgia),13293,2019,73.08571597
+Walker County (Georgia),13295,2019,75.23692049
+Walton County (Georgia),13297,2019,76.77529796
+Ware County (Georgia),13299,2019,73.51100733
+Warren County (Georgia),13301,2019,74.72395117
+Washington County (Georgia),13303,2019,75.53712309
+Wayne County (Georgia),13305,2019,73.99988244
+Webster County (Georgia),13307,2019,78.70501745
+Wheeler County (Georgia),13309,2019,78.01308752
+White County (Georgia),13311,2019,79.14719426
+Whitfield County (Georgia),13313,2019,77.65880734
+Wilcox County (Georgia),13315,2019,75.59555572
+Wilkes County (Georgia),13317,2019,74.71098218
+Wilkinson County (Georgia),13319,2019,74.21346105
+Worth County (Georgia),13321,2019,75.28238943
+Hawaii County (Hawaii),15001,2019,80.25683527
+Honolulu County (Hawaii),15003,2019,81.81533934
+Kauai County (Hawaii),15007,2019,81.67413632
+Kalawao County (Hawaii),15005,2019,81.98744842
+Maui County (Hawaii),15009,2019,81.98744842
+Ada County (Idaho),16001,2019,80.93601464
+Adams County (Idaho),16003,2019,80.73420532
+Bannock County (Idaho),16005,2019,77.21229142
+Bear Lake County (Idaho),16007,2019,79.06132078
+Benewah County (Idaho),16009,2019,76.24613735
+Bingham County (Idaho),16011,2019,77.9455324
+Blaine County (Idaho),16013,2019,83.5860558
+Boise County (Idaho),16015,2019,82.09894251
+Bonner County (Idaho),16017,2019,79.74518838
+Bonneville County (Idaho),16019,2019,78.37436349
+Boundary County (Idaho),16021,2019,79.60316334
+Butte County (Idaho),16023,2019,78.90516133
+Camas County (Idaho),16025,2019,80.67876254
+Canyon County (Idaho),16027,2019,79.17811373
+Caribou County (Idaho),16029,2019,78.0709706
+Cassia County (Idaho),16031,2019,78.10392698
+Clearwater County (Idaho),16035,2019,78.93771088
+Custer County (Idaho),16037,2019,80.31468285
+Elmore County (Idaho),16039,2019,78.11767292
+Franklin County (Idaho),16041,2019,79.2301784
+Fremont County (Idaho),16043,2019,79.82358323
+Gem County (Idaho),16045,2019,77.90580119
+Gooding County (Idaho),16047,2019,78.7387199
+Idaho County (Idaho),16049,2019,80.21782643
+Jefferson County (Idaho),16051,2019,79.56699579
+Jerome County (Idaho),16053,2019,78.47002085
+Kootenai County (Idaho),16055,2019,79.43594466
+Latah County (Idaho),16057,2019,82.11282666
+Lemhi County (Idaho),16059,2019,78.77938985
+Lewis County (Idaho),16061,2019,78.63813384
+Lincoln County (Idaho),16063,2019,78.03621944
+Madison County (Idaho),16065,2019,80.68893955
+Minidoka County (Idaho),16067,2019,78.60527316
+Nez Perce County (Idaho),16069,2019,77.70391771
+Oneida County (Idaho),16071,2019,79.4799737
+Owyhee County (Idaho),16073,2019,79.16776318
+Payette County (Idaho),16075,2019,77.90394799
+Power County (Idaho),16077,2019,78.06403886
+Shoshone County (Idaho),16079,2019,75.38332447
+Teton County (Idaho),16081,2019,83.06030396
+Twin Falls County (Idaho),16083,2019,78.34884946
+Valley County (Idaho),16085,2019,82.15159788
+Washington County (Idaho),16087,2019,78.43992579
+Adams County (Illinois),17001,2019,78.41082414
+Alexander County (Illinois),17003,2019,74.13334526
+Bond County (Illinois),17005,2019,78.57134011
+Boone County (Illinois),17007,2019,79.94285827
+Brown County (Illinois),17009,2019,78.17772819
+Bureau County (Illinois),17011,2019,78.54406194
+Calhoun County (Illinois),17013,2019,78.80433942
+Carroll County (Illinois),17015,2019,78.89102924
+Cass County (Illinois),17017,2019,76.82809648
+Champaign County (Illinois),17019,2019,80.62632747
+Christian County (Illinois),17021,2019,76.92752402
+Clark County (Illinois),17023,2019,76.89525279
+Clay County (Illinois),17025,2019,77.00932019
+Clinton County (Illinois),17027,2019,79.51351513
+Coles County (Illinois),17029,2019,78.3813214
+Cook County (Illinois),17031,2019,79.64594095
+Crawford County (Illinois),17033,2019,77.36389852
+Cumberland County (Illinois),17035,2019,78.80243571
+DeKalb County (Illinois),17037,2019,79.76648378
+De Witt County (Illinois),17039,2019,76.94473826
+Douglas County (Illinois),17041,2019,78.95876871
+DuPage County (Illinois),17043,2019,82.47476459
+Edgar County (Illinois),17045,2019,76.58095207
+Edwards County (Illinois),17047,2019,77.28418358
+Effingham County (Illinois),17049,2019,78.22849705
+Fayette County (Illinois),17051,2019,78.15145433
+Ford County (Illinois),17053,2019,76.47817506
+Franklin County (Illinois),17055,2019,75.26415963
+Fulton County (Illinois),17057,2019,76.58945026
+Gallatin County (Illinois),17059,2019,73.95440526
+Greene County (Illinois),17061,2019,76.70434833
+Grundy County (Illinois),17063,2019,78.43519722
+Hamilton County (Illinois),17065,2019,77.24726985
+Hancock County (Illinois),17067,2019,79.63506628
+Hardin County (Illinois),17069,2019,74.51359463
+Henderson County (Illinois),17071,2019,78.48596129
+Henry County (Illinois),17073,2019,79.20133485
+Iroquois County (Illinois),17075,2019,76.14771425
+Jackson County (Illinois),17077,2019,78.58785345
+Jasper County (Illinois),17079,2019,79.04015614
+Jefferson County (Illinois),17081,2019,76.72219427
+Jersey County (Illinois),17083,2019,76.94079753
+Jo Daviess County (Illinois),17085,2019,81.02962492
+Johnson County (Illinois),17087,2019,78.29454228
+Kane County (Illinois),17089,2019,81.6486766
+Kankakee County (Illinois),17091,2019,77.19808384
+Kendall County (Illinois),17093,2019,81.46921311
+Knox County (Illinois),17095,2019,76.50448724
+Lake County (Illinois),17097,2019,81.55919544
+LaSalle County (Illinois),17099,2019,77.10795753
+Lawrence County (Illinois),17101,2019,76.02695195
+Lee County (Illinois),17103,2019,78.0134732
+Livingston County (Illinois),17105,2019,76.73329041
+Logan County (Illinois),17107,2019,77.40082932
+McDonough County (Illinois),17109,2019,78.44444785
+McHenry County (Illinois),17111,2019,80.75319948
+McLean County (Illinois),17113,2019,79.97620092
+Macon County (Illinois),17115,2019,77.09902278
+Macoupin County (Illinois),17117,2019,77.2591203
+Madison County (Illinois),17119,2019,76.73240625
+Marion County (Illinois),17121,2019,75.14210503
+Marshall County (Illinois),17123,2019,76.91419905
+Mason County (Illinois),17125,2019,76.42369329
+Massac County (Illinois),17127,2019,75.22199923
+Menard County (Illinois),17129,2019,78.65889998
+Mercer County (Illinois),17131,2019,78.59404615
+Monroe County (Illinois),17133,2019,80.93919972
+Montgomery County (Illinois),17135,2019,77.36022079
+Morgan County (Illinois),17137,2019,77.27230855
+Moultrie County (Illinois),17139,2019,77.79296912
+Ogle County (Illinois),17141,2019,78.7416951
+Peoria County (Illinois),17143,2019,77.53537224
+Perry County (Illinois),17145,2019,77.10321847
+Piatt County (Illinois),17147,2019,79.21998669
+Pike County (Illinois),17149,2019,77.6917174
+Pope County (Illinois),17151,2019,78.22120718
+Pulaski County (Illinois),17153,2019,74.55136073
+Putnam County (Illinois),17155,2019,79.03759846
+Randolph County (Illinois),17157,2019,77.65812712
+Richland County (Illinois),17159,2019,77.53596301
+Rock Island County (Illinois),17161,2019,78.17195489
+Saint Clair County (Illinois),17163,2019,76.60524036
+Saline County (Illinois),17165,2019,74.24512692
+Sangamon County (Illinois),17167,2019,77.97182698
+Schuyler County (Illinois),17169,2019,77.65024359
+Scott County (Illinois),17171,2019,77.55952251
+Shelby County (Illinois),17173,2019,79.65375424
+Stark County (Illinois),17175,2019,76.76228232
+Stephenson County (Illinois),17177,2019,79.04861795
+Tazewell County (Illinois),17179,2019,78.69341835
+Union County (Illinois),17181,2019,76.29997753
+Vermilion County (Illinois),17183,2019,75.35873347
+Wabash County (Illinois),17185,2019,78.06920224
+Warren County (Illinois),17187,2019,78.16008679
+Washington County (Illinois),17189,2019,78.89755897
+Wayne County (Illinois),17191,2019,77.38706502
+White County (Illinois),17193,2019,75.426719
+Whiteside County (Illinois),17195,2019,77.97874316
+Will County (Illinois),17197,2019,79.87334039
+Williamson County (Illinois),17199,2019,77.14593316
+Winnebago County (Illinois),17201,2019,76.92620918
+Woodford County (Illinois),17203,2019,79.98484301
+Adams County (Indiana),18001,2019,78.51344794
+Allen County (Indiana),18003,2019,77.18610866
+Bartholomew County (Indiana),18005,2019,78.13627883
+Benton County (Indiana),18007,2019,77.72526183
+Blackford County (Indiana),18009,2019,75.62510863
+Boone County (Indiana),18011,2019,78.67680465
+Brown County (Indiana),18013,2019,79.26160801
+Carroll County (Indiana),18015,2019,79.19512964
+Cass County (Indiana),18017,2019,76.48950059
+Clark County (Indiana),18019,2019,75.28924622
+Clay County (Indiana),18021,2019,76.31441003
+Clinton County (Indiana),18023,2019,76.63835254
+Crawford County (Indiana),18025,2019,74.83204768
+Daviess County (Indiana),18027,2019,76.52191302
+Dearborn County (Indiana),18029,2019,77.4086282
+Decatur County (Indiana),18031,2019,76.92939283
+DeKalb County (Indiana),18033,2019,77.02467186
+Delaware County (Indiana),18035,2019,75.23734109
+Dubois County (Indiana),18037,2019,78.8383448
+Elkhart County (Indiana),18039,2019,78.36552192
+Fayette County (Indiana),18041,2019,73.31788045
+Floyd County (Indiana),18043,2019,76.46343225
+Fountain County (Indiana),18045,2019,76.37554658
+Franklin County (Indiana),18047,2019,78.08932229
+Fulton County (Indiana),18049,2019,75.89569152
+Gibson County (Indiana),18051,2019,77.40477342
+Grant County (Indiana),18053,2019,74.75901122
+Greene County (Indiana),18055,2019,76.26441405
+Hamilton County (Indiana),18057,2019,81.88465057
+Hancock County (Indiana),18059,2019,78.52295111
+Harrison County (Indiana),18061,2019,77.02885871
+Hendricks County (Indiana),18063,2019,79.5668269
+Henry County (Indiana),18065,2019,75.15361156
+Howard County (Indiana),18067,2019,74.94890472
+Huntington County (Indiana),18069,2019,76.89331003
+Jackson County (Indiana),18071,2019,75.72488958
+Jasper County (Indiana),18073,2019,77.23150779
+Jay County (Indiana),18075,2019,75.35279505
+Jefferson County (Indiana),18077,2019,75.30824698
+Jennings County (Indiana),18079,2019,74.24410768
+Johnson County (Indiana),18081,2019,78.16060309
+Knox County (Indiana),18083,2019,75.8089688
+Kosciusko County (Indiana),18085,2019,78.22581636
+LaGrange County (Indiana),18087,2019,79.01609065
+Lake County (Indiana),18089,2019,76.31652407
+LaPorte County (Indiana),18091,2019,75.99476975
+Lawrence County (Indiana),18093,2019,76.22608684
+Madison County (Indiana),18095,2019,75.64085379
+Marion County (Indiana),18097,2019,76.02319182
+Marshall County (Indiana),18099,2019,78.54793765
+Martin County (Indiana),18101,2019,77.4485912
+Miami County (Indiana),18103,2019,76.61489104
+Monroe County (Indiana),18105,2019,80.20199809
+Montgomery County (Indiana),18107,2019,77.07705514
+Morgan County (Indiana),18109,2019,76.55100038
+Newton County (Indiana),18111,2019,76.54671403
+Noble County (Indiana),18113,2019,77.14332175
+Ohio County (Indiana),18115,2019,77.28403598
+Orange County (Indiana),18117,2019,75.89758618
+Owen County (Indiana),18119,2019,76.30915921
+Parke County (Indiana),18121,2019,78.12759391
+Perry County (Indiana),18123,2019,77.11258031
+Pike County (Indiana),18125,2019,76.49821444
+Porter County (Indiana),18127,2019,78.41286607
+Posey County (Indiana),18129,2019,78.42577655
+Pulaski County (Indiana),18131,2019,75.58425138
+Putnam County (Indiana),18133,2019,77.8172275
+Randolph County (Indiana),18135,2019,76.00688041
+Ripley County (Indiana),18137,2019,77.01920007
+Rush County (Indiana),18139,2019,75.7847689
+Saint Joseph County (Indiana),18141,2019,76.94245768
+Scott County (Indiana),18143,2019,71.88526864
+Shelby County (Indiana),18145,2019,76.9623904
+Spencer County (Indiana),18147,2019,78.26400508
+Starke County (Indiana),18149,2019,74.08509068
+Steuben County (Indiana),18151,2019,78.98070847
+Sullivan County (Indiana),18153,2019,75.54071649
+Switzerland County (Indiana),18155,2019,75.64981188
+Tippecanoe County (Indiana),18157,2019,79.30868013
+Tipton County (Indiana),18159,2019,78.28445431
+Union County (Indiana),18161,2019,75.97583721
+Vanderburgh County (Indiana),18163,2019,76.40962227
+Vermillion County (Indiana),18165,2019,75.12707808
+Vigo County (Indiana),18167,2019,76.14685854
+Wabash County (Indiana),18169,2019,76.01708185
+Warren County (Indiana),18171,2019,78.86634344
+Warrick County (Indiana),18173,2019,78.74870873
+Washington County (Indiana),18175,2019,74.88252257
+Wayne County (Indiana),18177,2019,74.17336124
+Wells County (Indiana),18179,2019,78.05174997
+White County (Indiana),18181,2019,77.020349
+Whitley County (Indiana),18183,2019,78.9871284
+Adair County (Iowa),19001,2019,78.25511214
+Adams County (Iowa),19003,2019,78.77181158
+Allamakee County (Iowa),19005,2019,79.36694014
+Appanoose County (Iowa),19007,2019,76.66074258
+Audubon County (Iowa),19009,2019,78.42736172
+Benton County (Iowa),19011,2019,80.59214176
+Black Hawk County (Iowa),19013,2019,78.84271028
+Boone County (Iowa),19015,2019,78.73122819
+Bremer County (Iowa),19017,2019,81.65334173
+Buchanan County (Iowa),19019,2019,79.19371601
+Buena Vista County (Iowa),19021,2019,80.10051675
+Butler County (Iowa),19023,2019,78.91032844
+Calhoun County (Iowa),19025,2019,78.6128029
+Carroll County (Iowa),19027,2019,79.80968577
+Cass County (Iowa),19029,2019,77.21745693
+Cedar County (Iowa),19031,2019,81.37487557
+Cerro Gordo County (Iowa),19033,2019,78.67757829
+Cherokee County (Iowa),19035,2019,79.46494324
+Chickasaw County (Iowa),19037,2019,79.74928606
+Clarke County (Iowa),19039,2019,77.54065623
+Clay County (Iowa),19041,2019,79.78096983
+Clayton County (Iowa),19043,2019,80.45728211
+Clinton County (Iowa),19045,2019,77.98459951
+Crawford County (Iowa),19047,2019,79.02910869
+Dallas County (Iowa),19049,2019,82.50923211
+Davis County (Iowa),19051,2019,79.2836063
+Decatur County (Iowa),19053,2019,78.59274468
+Delaware County (Iowa),19055,2019,80.48202881
+Des Moines County (Iowa),19057,2019,78.17355523
+Dickinson County (Iowa),19059,2019,81.02498566
+Dubuque County (Iowa),19061,2019,80.42077385
+Emmet County (Iowa),19063,2019,78.83938909
+Fayette County (Iowa),19065,2019,78.67727281
+Floyd County (Iowa),19067,2019,79.68544742
+Franklin County (Iowa),19069,2019,79.63890751
+Fremont County (Iowa),19071,2019,78.09990043
+Greene County (Iowa),19073,2019,78.73466241
+Grundy County (Iowa),19075,2019,80.61452895
+Guthrie County (Iowa),19077,2019,79.5641665
+Hamilton County (Iowa),19079,2019,80.16092841
+Hancock County (Iowa),19081,2019,80.91010505
+Hardin County (Iowa),19083,2019,79.14353308
+Harrison County (Iowa),19085,2019,77.37725227
+Henry County (Iowa),19087,2019,78.72862483
+Howard County (Iowa),19089,2019,79.1943402
+Humboldt County (Iowa),19091,2019,79.6320542
+Ida County (Iowa),19093,2019,78.05700326
+Iowa County (Iowa),19095,2019,79.41382524
+Jackson County (Iowa),19097,2019,79.32222763
+Jasper County (Iowa),19099,2019,79.34724547
+Jefferson County (Iowa),19101,2019,80.09654798
+Johnson County (Iowa),19103,2019,82.69925431
+Jones County (Iowa),19105,2019,80.86922343
+Keokuk County (Iowa),19107,2019,79.85752987
+Kossuth County (Iowa),19109,2019,80.56644514
+Lee County (Iowa),19111,2019,76.33650518
+Linn County (Iowa),19113,2019,80.4994812
+Louisa County (Iowa),19115,2019,78.84592647
+Lucas County (Iowa),19117,2019,78.53894296
+Lyon County (Iowa),19119,2019,81.24137459
+Madison County (Iowa),19121,2019,79.49183593
+Mahaska County (Iowa),19123,2019,78.71286606
+Marion County (Iowa),19125,2019,78.90011295
+Marshall County (Iowa),19127,2019,77.28723664
+Mills County (Iowa),19129,2019,78.5358047
+Mitchell County (Iowa),19131,2019,80.12717445
+Monona County (Iowa),19133,2019,76.88707769
+Monroe County (Iowa),19135,2019,76.74185531
+Montgomery County (Iowa),19137,2019,77.30064328
+Muscatine County (Iowa),19139,2019,79.00587484
+O'Brien County (Iowa),19141,2019,78.98032488
+Osceola County (Iowa),19143,2019,80.0390506
+Page County (Iowa),19145,2019,78.4607097
+Palo Alto County (Iowa),19147,2019,79.11564867
+Plymouth County (Iowa),19149,2019,80.10082648
+Pocahontas County (Iowa),19151,2019,77.6750053
+Polk County (Iowa),19153,2019,79.05659516
+Pottawattamie County (Iowa),19155,2019,77.93247666
+Poweshiek County (Iowa),19157,2019,79.20537926
+Ringgold County (Iowa),19159,2019,78.1406976
+Sac County (Iowa),19161,2019,78.92824564
+Scott County (Iowa),19163,2019,79.21531821
+Shelby County (Iowa),19165,2019,79.95610737
+Sioux County (Iowa),19167,2019,83.18789546
+Story County (Iowa),19169,2019,82.18764776
+Tama County (Iowa),19171,2019,78.20316311
+Taylor County (Iowa),19173,2019,78.8306243
+Union County (Iowa),19175,2019,77.83650104
+Van Buren County (Iowa),19177,2019,77.42239285
+Wapello County (Iowa),19179,2019,76.80823838
+Warren County (Iowa),19181,2019,79.81635355
+Washington County (Iowa),19183,2019,79.47889054
+Wayne County (Iowa),19185,2019,77.20080087
+Webster County (Iowa),19187,2019,77.13162264
+Winnebago County (Iowa),19189,2019,79.60696927
+Winneshiek County (Iowa),19191,2019,82.18183937
+Woodbury County (Iowa),19193,2019,77.57121417
+Worth County (Iowa),19195,2019,78.80625261
+Wright County (Iowa),19197,2019,79.26024359
+Allen County (Kansas),20001,2019,76.29644218
+Anderson County (Kansas),20003,2019,77.49787664
+Atchison County (Kansas),20005,2019,77.1218929
+Barber County (Kansas),20007,2019,75.88517992
+Barton County (Kansas),20009,2019,77.69435222
+Bourbon County (Kansas),20011,2019,75.7805827
+Brown County (Kansas),20013,2019,76.21276618
+Butler County (Kansas),20015,2019,77.48940998
+Chase County (Kansas),20017,2019,77.43131748
+Chautauqua County (Kansas),20019,2019,75.94177827
+Cherokee County (Kansas),20021,2019,74.53686973
+Cheyenne County (Kansas),20023,2019,80.27408769
+Clark County (Kansas),20025,2019,78.54638008
+Clay County (Kansas),20027,2019,79.29869985
+Cloud County (Kansas),20029,2019,76.98393855
+Coffey County (Kansas),20031,2019,77.33876663
+Comanche County (Kansas),20033,2019,74.65351971
+Cowley County (Kansas),20035,2019,75.43330204
+Crawford County (Kansas),20037,2019,75.88455818
+Decatur County (Kansas),20039,2019,78.70339798
+Dickinson County (Kansas),20041,2019,77.72678989
+Doniphan County (Kansas),20043,2019,78.33550548
+Douglas County (Kansas),20045,2019,80.5409003
+Edwards County (Kansas),20047,2019,75.55522743
+Elk County (Kansas),20049,2019,75.45315704
+Ellis County (Kansas),20051,2019,79.34735695
+Ellsworth County (Kansas),20053,2019,77.42802804
+Finney County (Kansas),20055,2019,78.78690747
+Ford County (Kansas),20057,2019,77.899523
+Franklin County (Kansas),20059,2019,76.94438616
+Geary County (Kansas),20061,2019,75.87900947
+Gove County (Kansas),20063,2019,79.41948375
+Graham County (Kansas),20065,2019,79.24080437
+Grant County (Kansas),20067,2019,77.74193156
+Gray County (Kansas),20069,2019,78.64480178
+Greeley County (Kansas),20071,2019,77.86673727
+Greenwood County (Kansas),20073,2019,76.0257498
+Hamilton County (Kansas),20075,2019,77.09756417
+Harper County (Kansas),20077,2019,74.81493804
+Harvey County (Kansas),20079,2019,78.56757787
+Haskell County (Kansas),20081,2019,78.66680056
+Hodgeman County (Kansas),20083,2019,79.52467849
+Jackson County (Kansas),20085,2019,78.04194806
+Jefferson County (Kansas),20087,2019,78.52903647
+Jewell County (Kansas),20089,2019,78.80806319
+Johnson County (Kansas),20091,2019,81.65272151
+Kearny County (Kansas),20093,2019,77.53027948
+Kingman County (Kansas),20095,2019,74.62789014
+Kiowa County (Kansas),20097,2019,79.06851677
+Labette County (Kansas),20099,2019,74.76288922
+Lane County (Kansas),20101,2019,76.1659049
+Leavenworth County (Kansas),20103,2019,79.04066566
+Lincoln County (Kansas),20105,2019,78.82451537
+Linn County (Kansas),20107,2019,77.73551967
+Logan County (Kansas),20109,2019,78.30434496
+Lyon County (Kansas),20111,2019,78.73252595
+McPherson County (Kansas),20113,2019,78.25870856
+Marion County (Kansas),20115,2019,78.32045311
+Marshall County (Kansas),20117,2019,78.73332538
+Meade County (Kansas),20119,2019,78.09965315
+Miami County (Kansas),20121,2019,79.47473036
+Mitchell County (Kansas),20123,2019,78.13307264
+Montgomery County (Kansas),20125,2019,75.02100957
+Morris County (Kansas),20127,2019,78.58730826
+Morton County (Kansas),20129,2019,76.42033227
+Nemaha County (Kansas),20131,2019,79.34806547
+Neosho County (Kansas),20133,2019,76.76412534
+Ness County (Kansas),20135,2019,77.70210215
+Norton County (Kansas),20137,2019,78.47096565
+Osage County (Kansas),20139,2019,76.95649051
+Osborne County (Kansas),20141,2019,78.07007902
+Ottawa County (Kansas),20143,2019,77.12662607
+Pawnee County (Kansas),20145,2019,76.62677264
+Phillips County (Kansas),20147,2019,77.9499875
+Pottawatomie County (Kansas),20149,2019,80.0065828
+Pratt County (Kansas),20151,2019,77.21969946
+Rawlins County (Kansas),20153,2019,78.56801301
+Reno County (Kansas),20155,2019,77.49023973
+Republic County (Kansas),20157,2019,78.06262665
+Rice County (Kansas),20159,2019,76.54951522
+Riley County (Kansas),20161,2019,80.64031136
+Rooks County (Kansas),20163,2019,77.96012809
+Rush County (Kansas),20165,2019,77.14812835
+Russell County (Kansas),20167,2019,78.37127691
+Saline County (Kansas),20169,2019,77.98657115
+Scott County (Kansas),20171,2019,78.76611025
+Sedgwick County (Kansas),20173,2019,77.44573775
+Seward County (Kansas),20175,2019,78.0703858
+Shawnee County (Kansas),20177,2019,77.12366931
+Sheridan County (Kansas),20179,2019,79.10718051
+Sherman County (Kansas),20181,2019,77.72536804
+Smith County (Kansas),20183,2019,78.37759378
+Stafford County (Kansas),20185,2019,76.97456056
+Stanton County (Kansas),20187,2019,78.66277032
+Stevens County (Kansas),20189,2019,77.77803767
+Sumner County (Kansas),20191,2019,76.70027874
+Thomas County (Kansas),20193,2019,78.1227494
+Trego County (Kansas),20195,2019,77.92263855
+Wabaunsee County (Kansas),20197,2019,78.86742303
+Wallace County (Kansas),20199,2019,80.40320389
+Washington County (Kansas),20201,2019,79.27834207
+Wichita County (Kansas),20203,2019,78.98830397
+Wilson County (Kansas),20205,2019,75.78059191
+Woodson County (Kansas),20207,2019,75.40621806
+Wyandotte County (Kansas),20209,2019,75.78372167
+Adair County (Kentucky),21001,2019,76.6118722
+Allen County (Kentucky),21003,2019,75.19249592
+Anderson County (Kentucky),21005,2019,75.94852751
+Ballard County (Kentucky),21007,2019,75.00086244
+Barren County (Kentucky),21009,2019,75.61830891
+Bath County (Kentucky),21011,2019,73.1148194
+Bell County (Kentucky),21013,2019,71.02101647
+Boone County (Kentucky),21015,2019,78.81029854
+Bourbon County (Kentucky),21017,2019,75.85732895
+Boyd County (Kentucky),21019,2019,74.20021679
+Boyle County (Kentucky),21021,2019,76.80413699
+Bracken County (Kentucky),21023,2019,73.78378227
+Breathitt County (Kentucky),21025,2019,69.93971316
+Breckinridge County (Kentucky),21027,2019,75.56766566
+Bullitt County (Kentucky),21029,2019,78.15797732
+Butler County (Kentucky),21031,2019,74.92493434
+Caldwell County (Kentucky),21033,2019,75.02719842
+Calloway County (Kentucky),21035,2019,77.12989719
+Campbell County (Kentucky),21037,2019,77.46643378
+Carlisle County (Kentucky),21039,2019,75.16039006
+Carroll County (Kentucky),21041,2019,72.15109846
+Carter County (Kentucky),21043,2019,73.98607805
+Casey County (Kentucky),21045,2019,74.97535943
+Christian County (Kentucky),21047,2019,75.26414198
+Clark County (Kentucky),21049,2019,74.6367568
+Clay County (Kentucky),21051,2019,70.84587476
+Clinton County (Kentucky),21053,2019,73.96536111
+Crittenden County (Kentucky),21055,2019,74.4597431
+Cumberland County (Kentucky),21057,2019,73.60128432
+Daviess County (Kentucky),21059,2019,76.88680908
+Edmonson County (Kentucky),21061,2019,76.38536938
+Elliott County (Kentucky),21063,2019,75.49909643
+Estill County (Kentucky),21065,2019,71.88166647
+Fayette County (Kentucky),21067,2019,78.42019986
+Fleming County (Kentucky),21069,2019,73.38761872
+Floyd County (Kentucky),21071,2019,70.66387892
+Franklin County (Kentucky),21073,2019,76.12704594
+Fulton County (Kentucky),21075,2019,72.24752123
+Gallatin County (Kentucky),21077,2019,72.57486067
+Garrard County (Kentucky),21079,2019,77.06814234
+Grant County (Kentucky),21081,2019,74.12695652
+Graves County (Kentucky),21083,2019,75.23586672
+Grayson County (Kentucky),21085,2019,73.69091517
+Green County (Kentucky),21087,2019,75.45609702
+Greenup County (Kentucky),21089,2019,74.44030059
+Hancock County (Kentucky),21091,2019,76.18345361
+Hardin County (Kentucky),21093,2019,77.11123444
+Harlan County (Kentucky),21095,2019,70.24780184
+Harrison County (Kentucky),21097,2019,74.07601933
+Hart County (Kentucky),21099,2019,74.8229392
+Henderson County (Kentucky),21101,2019,75.86964562
+Henry County (Kentucky),21103,2019,74.4950175
+Hickman County (Kentucky),21105,2019,77.01181303
+Hopkins County (Kentucky),21107,2019,74.29179645
+Jackson County (Kentucky),21109,2019,72.74085304
+Jefferson County (Kentucky),21111,2019,75.99406799
+Jessamine County (Kentucky),21113,2019,77.26254749
+Johnson County (Kentucky),21115,2019,72.11853734
+Kenton County (Kentucky),21117,2019,76.10896017
+Knott County (Kentucky),21119,2019,71.97223793
+Knox County (Kentucky),21121,2019,72.31915054
+Larue County (Kentucky),21123,2019,75.26240393
+Laurel County (Kentucky),21125,2019,74.61291475
+Lawrence County (Kentucky),21127,2019,71.88523763
+Lee County (Kentucky),21129,2019,70.90634424
+Leslie County (Kentucky),21131,2019,70.08860904
+Letcher County (Kentucky),21133,2019,71.09123269
+Lewis County (Kentucky),21135,2019,72.75919776
+Lincoln County (Kentucky),21137,2019,74.40578078
+Livingston County (Kentucky),21139,2019,74.94324616
+Logan County (Kentucky),21141,2019,75.36916846
+Lyon County (Kentucky),21143,2019,76.49611305
+McCracken County (Kentucky),21145,2019,76.22397755
+McCreary County (Kentucky),21147,2019,71.66211303
+McLean County (Kentucky),21149,2019,74.92286998
+Madison County (Kentucky),21151,2019,76.46017167
+Magoffin County (Kentucky),21153,2019,71.82133417
+Marion County (Kentucky),21155,2019,75.47747992
+Marshall County (Kentucky),21157,2019,75.75771433
+Martin County (Kentucky),21159,2019,72.25296093
+Mason County (Kentucky),21161,2019,73.78712313
+Meade County (Kentucky),21163,2019,76.38086969
+Menifee County (Kentucky),21165,2019,73.57134299
+Mercer County (Kentucky),21167,2019,74.69646987
+Metcalfe County (Kentucky),21169,2019,74.27120343
+Monroe County (Kentucky),21171,2019,73.15659161
+Montgomery County (Kentucky),21173,2019,74.53103993
+Morgan County (Kentucky),21175,2019,75.18786841
+Muhlenberg County (Kentucky),21177,2019,74.58011198
+Nelson County (Kentucky),21179,2019,76.37638515
+Nicholas County (Kentucky),21181,2019,71.86830383
+Ohio County (Kentucky),21183,2019,75.44023435
+Oldham County (Kentucky),21185,2019,79.50138464
+Owen County (Kentucky),21187,2019,74.97312869
+Owsley County (Kentucky),21189,2019,69.74851898
+Pendleton County (Kentucky),21191,2019,73.98018866
+Perry County (Kentucky),21193,2019,68.74494939
+Pike County (Kentucky),21195,2019,72.32983517
+Powell County (Kentucky),21197,2019,70.38535573
+Pulaski County (Kentucky),21199,2019,74.1096954
+Robertson County (Kentucky),21201,2019,73.98218201
+Rockcastle County (Kentucky),21203,2019,73.80928678
+Rowan County (Kentucky),21205,2019,75.18918672
+Russell County (Kentucky),21207,2019,74.35569381
+Scott County (Kentucky),21209,2019,77.01206835
+Shelby County (Kentucky),21211,2019,78.26025557
+Simpson County (Kentucky),21213,2019,74.71272326
+Spencer County (Kentucky),21215,2019,77.52138904
+Taylor County (Kentucky),21217,2019,75.51479853
+Todd County (Kentucky),21219,2019,75.15423351
+Trigg County (Kentucky),21221,2019,76.18350534
+Trimble County (Kentucky),21223,2019,74.42110959
+Union County (Kentucky),21225,2019,74.2169067
+Warren County (Kentucky),21227,2019,77.1508016
+Washington County (Kentucky),21229,2019,76.33522687
+Wayne County (Kentucky),21231,2019,75.88139711
+Webster County (Kentucky),21233,2019,74.3369783
+Whitley County (Kentucky),21235,2019,71.39945736
+Wolfe County (Kentucky),21237,2019,70.01323707
+Woodford County (Kentucky),21239,2019,77.64291267
+Acadia Parish (Louisiana),22001,2019,74.5671405
+Allen Parish (Louisiana),22003,2019,75.34349377
+Ascension Parish (Louisiana),22005,2019,78.87450439
+Assumption Parish (Louisiana),22007,2019,76.70879311
+Avoyelles Parish (Louisiana),22009,2019,73.74489417
+Beauregard Parish (Louisiana),22011,2019,75.0655811
+Bienville Parish (Louisiana),22013,2019,73.72573629
+Bossier Parish (Louisiana),22015,2019,77.19262628
+Caddo Parish (Louisiana),22017,2019,74.69252306
+Calcasieu Parish (Louisiana),22019,2019,74.90466763
+Caldwell Parish (Louisiana),22021,2019,73.92572906
+Cameron Parish (Louisiana),22023,2019,78.83389896
+Catahoula Parish (Louisiana),22025,2019,72.71238618
+Claiborne Parish (Louisiana),22027,2019,75.49329446
+Concordia Parish (Louisiana),22029,2019,73.15163565
+De Soto Parish (Louisiana),22031,2019,75.22911642
+East Baton Rouge Parish (Louisiana),22033,2019,75.82182966
+East Carroll Parish (Louisiana),22035,2019,71.61264847
+East Feliciana Parish (Louisiana),22037,2019,72.92082378
+Evangeline Parish (Louisiana),22039,2019,73.02746454
+Franklin Parish (Louisiana),22041,2019,73.49259137
+Grant Parish (Louisiana),22043,2019,74.79097518
+Iberia Parish (Louisiana),22045,2019,74.69892134
+Iberville Parish (Louisiana),22047,2019,75.40847556
+Jackson Parish (Louisiana),22049,2019,75.4287176
+Jefferson Parish (Louisiana),22051,2019,77.15906703
+Jefferson Davis Parish (Louisiana),22053,2019,73.94474689
+Lafayette Parish (Louisiana),22055,2019,78.43734554
+Lafourche Parish (Louisiana),22057,2019,76.89883148
+LaSalle Parish (Louisiana),22059,2019,74.70519231
+Lincoln Parish (Louisiana),22061,2019,77.15365177
+Livingston Parish (Louisiana),22063,2019,76.31479829
+Madison Parish (Louisiana),22065,2019,72.06738903
+Morehouse Parish (Louisiana),22067,2019,71.91821906
+Natchitoches Parish (Louisiana),22069,2019,74.95076063
+Orleans Parish (Louisiana),22071,2019,76.78350619
+Ouachita Parish (Louisiana),22073,2019,74.7241366
+Plaquemines Parish (Louisiana),22075,2019,77.55757229
+Pointe Coupee Parish (Louisiana),22077,2019,75.50429527
+Rapides Parish (Louisiana),22079,2019,74.14771125
+Red River Parish (Louisiana),22081,2019,74.07946514
+Richland Parish (Louisiana),22083,2019,74.03949309
+Sabine Parish (Louisiana),22085,2019,75.52332152
+Saint Bernard Parish (Louisiana),22087,2019,74.94976408
+Saint Charles Parish (Louisiana),22089,2019,77.37163087
+Saint Helena Parish (Louisiana),22091,2019,74.72989385
+Saint James Parish (Louisiana),22093,2019,76.8807284
+Saint John the Baptist Parish (Louisiana),22095,2019,74.96651222
+Saint Landry Parish (Louisiana),22097,2019,72.76644762
+Saint Martin Parish (Louisiana),22099,2019,75.79480084
+Saint Mary Parish (Louisiana),22101,2019,74.81167054
+Saint Tammany Parish (Louisiana),22103,2019,78.18218869
+Tangipahoa Parish (Louisiana),22105,2019,74.57027713
+Tensas Parish (Louisiana),22107,2019,74.31235488
+Terrebonne Parish (Louisiana),22109,2019,75.54654349
+Union Parish (Louisiana),22111,2019,75.07793144
+Vermilion Parish (Louisiana),22113,2019,76.64554945
+Vernon Parish (Louisiana),22115,2019,74.83962479
+Washington Parish (Louisiana),22117,2019,72.15961002
+Webster Parish (Louisiana),22119,2019,73.9843353
+West Baton Rouge Parish (Louisiana),22121,2019,76.99449713
+West Carroll Parish (Louisiana),22123,2019,74.63286193
+West Feliciana Parish (Louisiana),22125,2019,77.39159779
+Winn Parish (Louisiana),22127,2019,74.86564845
+Androscoggin County (Maine),23001,2019,77.34728622
+Aroostook County (Maine),23003,2019,78.23518957
+Cumberland County (Maine),23005,2019,80.19753512
+Franklin County (Maine),23007,2019,78.18388247
+Hancock County (Maine),23009,2019,79.34099261
+Kennebec County (Maine),23011,2019,78.23855163
+Knox County (Maine),23013,2019,78.80269708
+Lincoln County (Maine),23015,2019,79.73539032
+Oxford County (Maine),23017,2019,77.8165106
+Penobscot County (Maine),23019,2019,77.77106831
+Piscataquis County (Maine),23021,2019,76.83109826
+Sagadahoc County (Maine),23023,2019,80.02728308
+Somerset County (Maine),23025,2019,76.69350612
+Waldo County (Maine),23027,2019,78.69489467
+Washington County (Maine),23029,2019,76.24383024
+York County (Maine),23031,2019,79.21740731
+Allegany County (Maryland),24001,2019,76.72498998
+Anne Arundel County (Maryland),24003,2019,79.43419847
+Baltimore County (Maryland),24005,2019,78.10131018
+Calvert County (Maryland),24009,2019,79.55669639
+Caroline County (Maryland),24011,2019,76.3645776
+Carroll County (Maryland),24013,2019,78.85602405
+Cecil County (Maryland),24015,2019,76.06180747
+Charles County (Maryland),24017,2019,78.94211469
+Dorchester County (Maryland),24019,2019,76.64715766
+Frederick County (Maryland),24021,2019,80.44391375
+Garrett County (Maryland),24023,2019,78.40558125
+Harford County (Maryland),24025,2019,79.02974432
+Howard County (Maryland),24027,2019,83.026423
+Kent County (Maryland),24029,2019,78.89785411
+Queen Anne's County (Maryland),24035,2019,79.7450613
+Saint Mary's County (Maryland),24037,2019,78.80317628
+Somerset County (Maryland),24039,2019,76.33900746
+Talbot County (Maryland),24041,2019,81.10631849
+Washington County (Maryland),24043,2019,77.16059676
+Wicomico County (Maryland),24045,2019,76.63028665
+Worcester County (Maryland),24047,2019,79.43245516
+Baltimore City (Maryland),24510,2019,72.84438267
+Montgomery County (Maryland),24031,2019,82.19688849
+Prince George's County (Maryland),24033,2019,82.19688849
+Barnstable County (Massachusetts),25001,2019,79.72103761
+Berkshire County (Massachusetts),25003,2019,79.08311476
+Bristol County (Massachusetts),25005,2019,78.78849031
+Dukes County (Massachusetts),25007,2019,81.75397723
+Essex County (Massachusetts),25009,2019,80.20877868
+Franklin County (Massachusetts),25011,2019,80.00923553
+Hampden County (Massachusetts),25013,2019,78.36290514
+Hampshire County (Massachusetts),25015,2019,81.05999829
+Middlesex County (Massachusetts),25017,2019,82.21972517
+Nantucket County (Massachusetts),25019,2019,82.39349495
+Norfolk County (Massachusetts),25021,2019,81.68404321
+Plymouth County (Massachusetts),25023,2019,79.65903258
+Suffolk County (Massachusetts),25025,2019,81.5850714
+Worcester County (Massachusetts),25027,2019,79.36958694
+Alcona County (Michigan),26001,2019,77.2527562
+Alger County (Michigan),26003,2019,78.88771713
+Allegan County (Michigan),26005,2019,79.03369292
+Alpena County (Michigan),26007,2019,77.71523627
+Antrim County (Michigan),26009,2019,80.18646406
+Arenac County (Michigan),26011,2019,76.37986897
+Baraga County (Michigan),26013,2019,77.18417949
+Barry County (Michigan),26015,2019,79.48734986
+Bay County (Michigan),26017,2019,77.15246868
+Benzie County (Michigan),26019,2019,79.85353461
+Berrien County (Michigan),26021,2019,77.80721146
+Branch County (Michigan),26023,2019,77.12861248
+Calhoun County (Michigan),26025,2019,76.14903094
+Cass County (Michigan),26027,2019,78.35695791
+Charlevoix County (Michigan),26029,2019,80.0218504
+Cheboygan County (Michigan),26031,2019,78.85930314
+Chippewa County (Michigan),26033,2019,78.78651447
+Clare County (Michigan),26035,2019,75.50073728
+Clinton County (Michigan),26037,2019,81.07857923
+Crawford County (Michigan),26039,2019,77.39379335
+Delta County (Michigan),26041,2019,79.04051271
+Dickinson County (Michigan),26043,2019,79.52300898
+Eaton County (Michigan),26045,2019,79.34780496
+Emmet County (Michigan),26047,2019,79.67925592
+Genesee County (Michigan),26049,2019,75.76041464
+Gladwin County (Michigan),26051,2019,77.05042408
+Gogebic County (Michigan),26053,2019,78.83479666
+Grand Traverse County (Michigan),26055,2019,80.49073608
+Gratiot County (Michigan),26057,2019,77.70556215
+Hillsdale County (Michigan),26059,2019,77.64055448
+Houghton County (Michigan),26061,2019,78.79315066
+Huron County (Michigan),26063,2019,77.56592366
+Ingham County (Michigan),26065,2019,78.75054728
+Ionia County (Michigan),26067,2019,78.53251658
+Iosco County (Michigan),26069,2019,76.28210696
+Iron County (Michigan),26071,2019,78.0726274
+Isabella County (Michigan),26073,2019,79.1429462
+Jackson County (Michigan),26075,2019,77.19828806
+Kalamazoo County (Michigan),26077,2019,79.28326185
+Kalkaska County (Michigan),26079,2019,76.35502022
+Kent County (Michigan),26081,2019,80.10383596
+Keweenaw County (Michigan),26083,2019,80.90605681
+Lake County (Michigan),26085,2019,77.31306929
+Lapeer County (Michigan),26087,2019,77.89600087
+Leelanau County (Michigan),26089,2019,82.87442274
+Lenawee County (Michigan),26091,2019,77.89329249
+Livingston County (Michigan),26093,2019,80.87252911
+Luce County (Michigan),26095,2019,78.49457204
+Mackinac County (Michigan),26097,2019,78.38042027
+Macomb County (Michigan),26099,2019,78.22052142
+Manistee County (Michigan),26101,2019,78.34133354
+Marquette County (Michigan),26103,2019,78.90876335
+Mason County (Michigan),26105,2019,78.72392306
+Mecosta County (Michigan),26107,2019,78.7460063
+Menominee County (Michigan),26109,2019,79.03600952
+Midland County (Michigan),26111,2019,80.76293818
+Missaukee County (Michigan),26113,2019,77.97266291
+Monroe County (Michigan),26115,2019,77.98025607
+Montcalm County (Michigan),26117,2019,77.83852755
+Montmorency County (Michigan),26119,2019,76.60627132
+Muskegon County (Michigan),26121,2019,77.40324579
+Newaygo County (Michigan),26123,2019,78.08713838
+Oakland County (Michigan),26125,2019,80.56545971
+Oceana County (Michigan),26127,2019,78.94679083
+Ogemaw County (Michigan),26129,2019,75.60784376
+Ontonagon County (Michigan),26131,2019,77.92874087
+Osceola County (Michigan),26133,2019,78.26547793
+Oscoda County (Michigan),26135,2019,76.06247263
+Otsego County (Michigan),26137,2019,78.41520029
+Ottawa County (Michigan),26139,2019,81.75321779
+Presque Isle County (Michigan),26141,2019,78.61496828
+Roscommon County (Michigan),26143,2019,76.31243761
+Saginaw County (Michigan),26145,2019,77.31547356
+Saint Clair County (Michigan),26147,2019,77.17532624
+Saint Joseph County (Michigan),26149,2019,76.87188444
+Sanilac County (Michigan),26151,2019,77.52124312
+Schoolcraft County (Michigan),26153,2019,78.45965991
+Shiawassee County (Michigan),26155,2019,77.57959134
+Tuscola County (Michigan),26157,2019,77.35437462
+Van Buren County (Michigan),26159,2019,77.80502975
+Washtenaw County (Michigan),26161,2019,81.62812259
+Wayne County (Michigan),26163,2019,75.75676549
+Wexford County (Michigan),26165,2019,77.74640599
+Aitkin County (Minnesota),27001,2019,79.69298849
+Anoka County (Minnesota),27003,2019,81.42074536
+Becker County (Minnesota),27005,2019,78.41977508
+Beltrami County (Minnesota),27007,2019,78.23232186
+Benton County (Minnesota),27009,2019,78.91021945
+Big Stone County (Minnesota),27011,2019,78.81337214
+Blue Earth County (Minnesota),27013,2019,80.74596275
+Brown County (Minnesota),27015,2019,80.51320053
+Carlton County (Minnesota),27017,2019,78.18578744
+Carver County (Minnesota),27019,2019,83.08921071
+Cass County (Minnesota),27021,2019,78.45029891
+Chippewa County (Minnesota),27023,2019,79.40453898
+Chisago County (Minnesota),27025,2019,79.87922536
+Clay County (Minnesota),27027,2019,79.83236697
+Clearwater County (Minnesota),27029,2019,77.86678033
+Cook County (Minnesota),27031,2019,82.46779055
+Cottonwood County (Minnesota),27033,2019,80.57463868
+Crow Wing County (Minnesota),27035,2019,79.77618973
+Dakota County (Minnesota),27037,2019,82.16281722
+Dodge County (Minnesota),27039,2019,80.83338126
+Douglas County (Minnesota),27041,2019,80.38812671
+Faribault County (Minnesota),27043,2019,79.34455942
+Fillmore County (Minnesota),27045,2019,80.76131021
+Freeborn County (Minnesota),27047,2019,80.00976831
+Goodhue County (Minnesota),27049,2019,80.08744245
+Grant County (Minnesota),27051,2019,79.76479687
+Hennepin County (Minnesota),27053,2019,81.17595245
+Houston County (Minnesota),27055,2019,81.48883597
+Hubbard County (Minnesota),27057,2019,80.42556889
+Isanti County (Minnesota),27059,2019,79.93391735
+Itasca County (Minnesota),27061,2019,79.00472184
+Jackson County (Minnesota),27063,2019,81.55255952
+Kanabec County (Minnesota),27065,2019,79.84923766
+Kandiyohi County (Minnesota),27067,2019,81.14767914
+Kittson County (Minnesota),27069,2019,79.06422186
+Koochiching County (Minnesota),27071,2019,79.02775977
+Lac qui Parle County (Minnesota),27073,2019,81.37401544
+Lake County (Minnesota),27075,2019,80.11326228
+Lake of the Woods County (Minnesota),27077,2019,79.57522395
+Le Sueur County (Minnesota),27079,2019,80.90254878
+Lincoln County (Minnesota),27081,2019,80.03785677
+Lyon County (Minnesota),27083,2019,80.45897555
+McLeod County (Minnesota),27085,2019,80.75865455
+Mahnomen County (Minnesota),27087,2019,74.8058555
+Marshall County (Minnesota),27089,2019,82.23174164
+Martin County (Minnesota),27091,2019,80.12793475
+Meeker County (Minnesota),27093,2019,80.35425074
+Mille Lacs County (Minnesota),27095,2019,77.31588306
+Morrison County (Minnesota),27097,2019,79.95448588
+Mower County (Minnesota),27099,2019,80.68207809
+Murray County (Minnesota),27101,2019,81.24348222
+Nicollet County (Minnesota),27103,2019,81.73170564
+Nobles County (Minnesota),27105,2019,81.33903647
+Norman County (Minnesota),27107,2019,77.44730184
+Olmsted County (Minnesota),27109,2019,82.37916134
+Otter Tail County (Minnesota),27111,2019,80.33640776
+Pennington County (Minnesota),27113,2019,79.87404975
+Pine County (Minnesota),27115,2019,79.19384868
+Pipestone County (Minnesota),27117,2019,80.09969399
+Polk County (Minnesota),27119,2019,78.3953036
+Pope County (Minnesota),27121,2019,80.39548479
+Ramsey County (Minnesota),27123,2019,79.87955429
+Red Lake County (Minnesota),27125,2019,80.54890921
+Redwood County (Minnesota),27127,2019,79.64280397
+Renville County (Minnesota),27129,2019,78.900991
+Rice County (Minnesota),27131,2019,80.83606394
+Rock County (Minnesota),27133,2019,79.41686927
+Roseau County (Minnesota),27135,2019,79.93916608
+Saint Louis County (Minnesota),27137,2019,79.21594639
+Scott County (Minnesota),27139,2019,82.28422422
+Sherburne County (Minnesota),27141,2019,80.59071267
+Sibley County (Minnesota),27143,2019,80.88389046
+Stearns County (Minnesota),27145,2019,82.22833655
+Steele County (Minnesota),27147,2019,81.3440803
+Stevens County (Minnesota),27149,2019,81.84416945
+Swift County (Minnesota),27151,2019,80.24542666
+Todd County (Minnesota),27153,2019,81.29755661
+Traverse County (Minnesota),27155,2019,79.21309078
+Wabasha County (Minnesota),27157,2019,82.01199612
+Wadena County (Minnesota),27159,2019,76.73948871
+Waseca County (Minnesota),27161,2019,80.75659176
+Washington County (Minnesota),27163,2019,82.14096808
+Watonwan County (Minnesota),27165,2019,80.2013878
+Wilkin County (Minnesota),27167,2019,79.00225197
+Winona County (Minnesota),27169,2019,80.82871245
+Wright County (Minnesota),27171,2019,81.02907276
+Yellow Medicine County (Minnesota),27173,2019,80.22101597
+Adams County (Mississippi),28001,2019,73.46629106
+Alcorn County (Mississippi),28003,2019,73.53967616
+Amite County (Mississippi),28005,2019,75.90423893
+Attala County (Mississippi),28007,2019,72.85769098
+Benton County (Mississippi),28009,2019,73.57936889
+Bolivar County (Mississippi),28011,2019,71.09222228
+Calhoun County (Mississippi),28013,2019,74.34559442
+Carroll County (Mississippi),28015,2019,76.39824396
+Chickasaw County (Mississippi),28017,2019,74.67501558
+Choctaw County (Mississippi),28019,2019,75.71917557
+Claiborne County (Mississippi),28021,2019,72.58000802
+Clarke County (Mississippi),28023,2019,73.53755089
+Clay County (Mississippi),28025,2019,74.74059502
+Coahoma County (Mississippi),28027,2019,70.26289088
+Copiah County (Mississippi),28029,2019,74.35621694
+Covington County (Mississippi),28031,2019,72.85128053
+DeSoto County (Mississippi),28033,2019,76.87432465
+Forrest County (Mississippi),28035,2019,73.81917738
+Franklin County (Mississippi),28037,2019,74.56550558
+George County (Mississippi),28039,2019,72.56571815
+Greene County (Mississippi),28041,2019,74.88223377
+Grenada County (Mississippi),28043,2019,71.60343134
+Hancock County (Mississippi),28045,2019,76.60750958
+Harrison County (Mississippi),28047,2019,74.81868019
+Hinds County (Mississippi),28049,2019,74.97912019
+Holmes County (Mississippi),28051,2019,71.07038574
+Humphreys County (Mississippi),28053,2019,72.08531858
+Issaquena County (Mississippi),28055,2019,74.00414736
+Itawamba County (Mississippi),28057,2019,73.90530974
+Jackson County (Mississippi),28059,2019,75.61658303
+Jasper County (Mississippi),28061,2019,74.77000533
+Jefferson County (Mississippi),28063,2019,72.93022926
+Jefferson Davis County (Mississippi),28065,2019,72.94761286
+Jones County (Mississippi),28067,2019,74.59672206
+Kemper County (Mississippi),28069,2019,76.18643475
+Lafayette County (Mississippi),28071,2019,78.01141112
+Lamar County (Mississippi),28073,2019,78.84584421
+Lauderdale County (Mississippi),28075,2019,74.48944837
+Lawrence County (Mississippi),28077,2019,73.44622374
+Leake County (Mississippi),28079,2019,74.36948964
+Lee County (Mississippi),28081,2019,74.54057438
+Leflore County (Mississippi),28083,2019,71.10465839
+Lincoln County (Mississippi),28085,2019,73.66143213
+Lowndes County (Mississippi),28087,2019,75.14738194
+Madison County (Mississippi),28089,2019,75.8046594
+Marion County (Mississippi),28091,2019,72.39915129
+Marshall County (Mississippi),28093,2019,73.74351829
+Monroe County (Mississippi),28095,2019,75.11321662
+Montgomery County (Mississippi),28097,2019,73.48591149
+Neshoba County (Mississippi),28099,2019,71.1271806
+Newton County (Mississippi),28101,2019,73.66075758
+Noxubee County (Mississippi),28103,2019,74.53358817
+Oktibbeha County (Mississippi),28105,2019,77.75969
+Panola County (Mississippi),28107,2019,72.79073173
+Pearl River County (Mississippi),28109,2019,74.19440293
+Perry County (Mississippi),28111,2019,74.26521863
+Pike County (Mississippi),28113,2019,72.10588481
+Pontotoc County (Mississippi),28115,2019,76.45721583
+Prentiss County (Mississippi),28117,2019,74.26341396
+Quitman County (Mississippi),28119,2019,70.49533266
+Rankin County (Mississippi),28121,2019,78.73959615
+Scott County (Mississippi),28123,2019,74.25664328
+Sharkey County (Mississippi),28125,2019,72.0815016
+Simpson County (Mississippi),28127,2019,74.03989307
+Smith County (Mississippi),28129,2019,75.22029566
+Stone County (Mississippi),28131,2019,74.06235385
+Sunflower County (Mississippi),28133,2019,70.95050779
+Tallahatchie County (Mississippi),28135,2019,73.14455968
+Tate County (Mississippi),28137,2019,74.84924635
+Tippah County (Mississippi),28139,2019,73.61144609
+Tishomingo County (Mississippi),28141,2019,72.64698679
+Tunica County (Mississippi),28143,2019,70.8525428
+Union County (Mississippi),28145,2019,75.38997552
+Walthall County (Mississippi),28147,2019,73.94213237
+Warren County (Mississippi),28149,2019,73.96054733
+Washington County (Mississippi),28151,2019,70.87989743
+Wayne County (Mississippi),28153,2019,75.28820069
+Webster County (Mississippi),28155,2019,72.58966485
+Wilkinson County (Mississippi),28157,2019,71.94588843
+Winston County (Mississippi),28159,2019,74.18318695
+Yalobusha County (Mississippi),28161,2019,72.36444975
+Yazoo County (Mississippi),28163,2019,73.49818672
+Adair County (Missouri),29001,2019,77.81017536
+Andrew County (Missouri),29003,2019,79.25291981
+Atchison County (Missouri),29005,2019,77.76365937
+Audrain County (Missouri),29007,2019,76.3200596
+Barry County (Missouri),29009,2019,75.99404129
+Barton County (Missouri),29011,2019,77.35585962
+Bates County (Missouri),29013,2019,76.32724605
+Benton County (Missouri),29015,2019,76.27450547
+Bollinger County (Missouri),29017,2019,76.36464908
+Boone County (Missouri),29019,2019,79.88949713
+Buchanan County (Missouri),29021,2019,76.49503224
+Butler County (Missouri),29023,2019,73.57473476
+Caldwell County (Missouri),29025,2019,77.48583304
+Callaway County (Missouri),29027,2019,77.48432729
+Camden County (Missouri),29029,2019,79.30947343
+Cape Girardeau County (Missouri),29031,2019,77.90954393
+Carroll County (Missouri),29033,2019,76.77496568
+Carter County (Missouri),29035,2019,74.04412915
+Cass County (Missouri),29037,2019,78.80868336
+Cedar County (Missouri),29039,2019,75.30768692
+Chariton County (Missouri),29041,2019,79.29453786
+Christian County (Missouri),29043,2019,79.31022377
+Clark County (Missouri),29045,2019,77.02950762
+Clay County (Missouri),29047,2019,79.56195639
+Clinton County (Missouri),29049,2019,76.5996092
+Cole County (Missouri),29051,2019,79.043376
+Cooper County (Missouri),29053,2019,77.86779246
+Crawford County (Missouri),29055,2019,74.90070822
+Dade County (Missouri),29057,2019,75.83851491
+Dallas County (Missouri),29059,2019,75.95507772
+Daviess County (Missouri),29061,2019,77.58241983
+DeKalb County (Missouri),29063,2019,78.88348831
+Dent County (Missouri),29065,2019,76.1551299
+Douglas County (Missouri),29067,2019,76.41428227
+Dunklin County (Missouri),29069,2019,72.07444636
+Franklin County (Missouri),29071,2019,76.85288115
+Gasconade County (Missouri),29073,2019,76.78480795
+Gentry County (Missouri),29075,2019,77.76922787
+Greene County (Missouri),29077,2019,77.11596972
+Grundy County (Missouri),29079,2019,77.56226143
+Harrison County (Missouri),29081,2019,77.99798701
+Henry County (Missouri),29083,2019,75.44205204
+Hickory County (Missouri),29085,2019,76.44146048
+Holt County (Missouri),29087,2019,79.24757039
+Howard County (Missouri),29089,2019,78.21672749
+Howell County (Missouri),29091,2019,75.0834866
+Iron County (Missouri),29093,2019,73.13219569
+Jackson County (Missouri),29095,2019,77.43355068
+Jasper County (Missouri),29097,2019,76.15223412
+Jefferson County (Missouri),29099,2019,76.336662
+Johnson County (Missouri),29101,2019,78.28904266
+Knox County (Missouri),29103,2019,77.16874642
+Laclede County (Missouri),29105,2019,74.9871796
+Lafayette County (Missouri),29107,2019,77.28147233
+Lawrence County (Missouri),29109,2019,75.49374548
+Lewis County (Missouri),29111,2019,76.5584722
+Lincoln County (Missouri),29113,2019,76.60510177
+Linn County (Missouri),29115,2019,76.11159615
+Livingston County (Missouri),29117,2019,77.60846901
+McDonald County (Missouri),29119,2019,74.37503382
+Macon County (Missouri),29121,2019,76.93280972
+Madison County (Missouri),29123,2019,75.19825238
+Maries County (Missouri),29125,2019,76.80560073
+Marion County (Missouri),29127,2019,76.46449388
+Mercer County (Missouri),29129,2019,78.55075577
+Miller County (Missouri),29131,2019,76.70643173
+Mississippi County (Missouri),29133,2019,73.46657438
+Moniteau County (Missouri),29135,2019,78.04579909
+Monroe County (Missouri),29137,2019,77.89648565
+Montgomery County (Missouri),29139,2019,75.38926293
+Morgan County (Missouri),29141,2019,75.28557384
+New Madrid County (Missouri),29143,2019,73.00943311
+Newton County (Missouri),29145,2019,76.17332385
+Nodaway County (Missouri),29147,2019,79.76241839
+Oregon County (Missouri),29149,2019,75.57797095
+Osage County (Missouri),29151,2019,78.5809147
+Ozark County (Missouri),29153,2019,75.90566651
+Pemiscot County (Missouri),29155,2019,71.27763172
+Perry County (Missouri),29157,2019,78.18790868
+Pettis County (Missouri),29159,2019,77.22762558
+Phelps County (Missouri),29161,2019,76.54512753
+Pike County (Missouri),29163,2019,76.82890349
+Platte County (Missouri),29165,2019,80.54783615
+Polk County (Missouri),29167,2019,76.13242652
+Pulaski County (Missouri),29169,2019,76.48784226
+Putnam County (Missouri),29171,2019,77.11836346
+Ralls County (Missouri),29173,2019,78.65015383
+Randolph County (Missouri),29175,2019,75.75470025
+Ray County (Missouri),29177,2019,76.3053657
+Reynolds County (Missouri),29179,2019,74.95833823
+Ripley County (Missouri),29181,2019,73.40857496
+Saint Charles County (Missouri),29183,2019,80.23344273
+Saint Clair County (Missouri),29185,2019,76.37879922
+Sainte Genevieve County (Missouri),29186,2019,78.67651018
+Saint Francois County (Missouri),29187,2019,74.34893767
+Saint Louis County (Missouri),29189,2019,78.05303242
+Saline County (Missouri),29195,2019,77.10586107
+Schuyler County (Missouri),29197,2019,77.27882373
+Scotland County (Missouri),29199,2019,77.04281566
+Scott County (Missouri),29201,2019,75.15793702
+Shannon County (Missouri),29203,2019,76.48882152
+Shelby County (Missouri),29205,2019,77.40477191
+Stoddard County (Missouri),29207,2019,75.11907481
+Stone County (Missouri),29209,2019,78.22953666
+Sullivan County (Missouri),29211,2019,76.33143215
+Taney County (Missouri),29213,2019,77.56630927
+Texas County (Missouri),29215,2019,76.41727389
+Vernon County (Missouri),29217,2019,76.24475585
+Warren County (Missouri),29219,2019,78.43703197
+Washington County (Missouri),29221,2019,73.5707549
+Wayne County (Missouri),29223,2019,74.42770874
+Webster County (Missouri),29225,2019,77.17797662
+Worth County (Missouri),29227,2019,78.02333342
+Wright County (Missouri),29229,2019,74.23339754
+Saint Louis City (Missouri),29510,2019,74.31563102
+Beaverhead County (Montana),30001,2019,81.26116813
+Big Horn County (Montana),30003,2019,72.15379822
+Blaine County (Montana),30005,2019,75.94227193
+Broadwater County (Montana),30007,2019,80.7688094
+Carbon County (Montana),30009,2019,81.02258983
+Carter County (Montana),30011,2019,79.41194092
+Cascade County (Montana),30013,2019,77.9830038
+Chouteau County (Montana),30015,2019,79.65081206
+Custer County (Montana),30017,2019,77.52022989
+Daniels County (Montana),30019,2019,78.81198766
+Dawson County (Montana),30021,2019,79.05180963
+Deer Lodge County (Montana),30023,2019,76.77407896
+Fallon County (Montana),30025,2019,78.66690261
+Fergus County (Montana),30027,2019,78.1449096
+Flathead County (Montana),30029,2019,79.62110123
+Gallatin County (Montana),30031,2019,82.55138677
+Garfield County (Montana),30033,2019,78.69361688
+Glacier County (Montana),30035,2019,72.63186244
+Granite County (Montana),30039,2019,81.80169963
+Hill County (Montana),30041,2019,77.5620419
+Jefferson County (Montana),30043,2019,79.339628
+Judith Basin County (Montana),30045,2019,80.41932833
+Lake County (Montana),30047,2019,78.54623238
+Lewis and Clark County (Montana),30049,2019,79.66888865
+Liberty County (Montana),30051,2019,81.78808306
+Lincoln County (Montana),30053,2019,78.69970429
+McCone County (Montana),30055,2019,78.61914663
+Madison County (Montana),30057,2019,81.00127811
+Meagher County (Montana),30059,2019,79.8336836
+Mineral County (Montana),30061,2019,78.35647666
+Missoula County (Montana),30063,2019,80.11129639
+Musselshell County (Montana),30065,2019,76.58655853
+Phillips County (Montana),30071,2019,77.5958297
+Pondera County (Montana),30073,2019,78.78826426
+Powder River County (Montana),30075,2019,80.35098698
+Powell County (Montana),30077,2019,77.76298585
+Prairie County (Montana),30079,2019,78.59360377
+Ravalli County (Montana),30081,2019,80.04596164
+Richland County (Montana),30083,2019,77.90074166
+Roosevelt County (Montana),30085,2019,70.10829594
+Rosebud County (Montana),30087,2019,74.92569764
+Sanders County (Montana),30089,2019,78.29135821
+Sheridan County (Montana),30091,2019,77.14793283
+Silver Bow County (Montana),30093,2019,76.99943113
+Stillwater County (Montana),30095,2019,80.04769051
+Sweet Grass County (Montana),30097,2019,81.07862617
+Teton County (Montana),30099,2019,80.29752631
+Toole County (Montana),30101,2019,78.19898096
+Valley County (Montana),30105,2019,78.62301451
+Wheatland County (Montana),30107,2019,78.79268288
+Wibaux County (Montana),30109,2019,77.44194119
+Yellowstone County (Montana),30111,2019,78.41935298
+Park County (Montana),30067,2019,80.05451858
+Yellowstone National Park (Montana),30113,2019,80.05451858
+Adams County (Nebraska),31001,2019,79.34705476
+Antelope County (Nebraska),31003,2019,80.58768079
+Boone County (Nebraska),31011,2019,81.02410674
+Box Butte County (Nebraska),31013,2019,78.03862169
+Boyd County (Nebraska),31015,2019,78.55800529
+Brown County (Nebraska),31017,2019,79.72154542
+Buffalo County (Nebraska),31019,2019,80.58650601
+Burt County (Nebraska),31021,2019,78.07082437
+Butler County (Nebraska),31023,2019,79.08488496
+Cass County (Nebraska),31025,2019,79.4937286
+Cedar County (Nebraska),31027,2019,80.54282208
+Chase County (Nebraska),31029,2019,78.69237533
+Cherry County (Nebraska),31031,2019,78.64996558
+Cheyenne County (Nebraska),31033,2019,79.05601874
+Clay County (Nebraska),31035,2019,78.48570248
+Colfax County (Nebraska),31037,2019,80.18282844
+Cuming County (Nebraska),31039,2019,81.70469014
+Custer County (Nebraska),31041,2019,79.34011785
+Dakota County (Nebraska),31043,2019,78.10950244
+Dawes County (Nebraska),31045,2019,79.05448377
+Dawson County (Nebraska),31047,2019,79.06995077
+Deuel County (Nebraska),31049,2019,78.14173679
+Dixon County (Nebraska),31051,2019,79.41037131
+Dodge County (Nebraska),31053,2019,78.10612168
+Douglas County (Nebraska),31055,2019,79.21774304
+Dundy County (Nebraska),31057,2019,77.68323545
+Fillmore County (Nebraska),31059,2019,78.18043475
+Franklin County (Nebraska),31061,2019,78.36425774
+Frontier County (Nebraska),31063,2019,82.45162491
+Furnas County (Nebraska),31065,2019,78.24587165
+Gage County (Nebraska),31067,2019,78.11254623
+Garden County (Nebraska),31069,2019,78.37069983
+Garfield County (Nebraska),31071,2019,79.66818175
+Gosper County (Nebraska),31073,2019,80.97530166
+Greeley County (Nebraska),31077,2019,80.44052676
+Hall County (Nebraska),31079,2019,78.69508988
+Hamilton County (Nebraska),31081,2019,80.516555
+Harlan County (Nebraska),31083,2019,80.24576741
+Hitchcock County (Nebraska),31087,2019,78.6479011
+Holt County (Nebraska),31089,2019,79.60784214
+Howard County (Nebraska),31093,2019,79.86912842
+Jefferson County (Nebraska),31095,2019,77.86398384
+Johnson County (Nebraska),31097,2019,78.17275932
+Kearney County (Nebraska),31099,2019,78.71816399
+Keith County (Nebraska),31101,2019,78.84503831
+Kimball County (Nebraska),31105,2019,77.58911005
+Knox County (Nebraska),31107,2019,79.57444485
+Lancaster County (Nebraska),31109,2019,80.26630412
+Lincoln County (Nebraska),31111,2019,78.79216519
+Madison County (Nebraska),31119,2019,78.75683885
+Merrick County (Nebraska),31121,2019,78.9913687
+Morrill County (Nebraska),31123,2019,77.70224882
+Nance County (Nebraska),31125,2019,77.97753247
+Nemaha County (Nebraska),31127,2019,78.42129101
+Nuckolls County (Nebraska),31129,2019,79.3433657
+Otoe County (Nebraska),31131,2019,79.41055758
+Pawnee County (Nebraska),31133,2019,79.62592765
+Perkins County (Nebraska),31135,2019,80.23317738
+Phelps County (Nebraska),31137,2019,79.60443632
+Pierce County (Nebraska),31139,2019,80.34656301
+Platte County (Nebraska),31141,2019,80.51037907
+Polk County (Nebraska),31143,2019,80.33513973
+Red Willow County (Nebraska),31145,2019,78.38815996
+Richardson County (Nebraska),31147,2019,77.54302185
+Rock County (Nebraska),31149,2019,78.91242949
+Saline County (Nebraska),31151,2019,77.85816581
+Sarpy County (Nebraska),31153,2019,81.54486197
+Saunders County (Nebraska),31155,2019,79.41181555
+Scotts Bluff County (Nebraska),31157,2019,77.5186624
+Seward County (Nebraska),31159,2019,79.13083441
+Sheridan County (Nebraska),31161,2019,77.93863756
+Sherman County (Nebraska),31163,2019,79.50177642
+Sioux County (Nebraska),31165,2019,83.04528965
+Stanton County (Nebraska),31167,2019,80.93678155
+Thayer County (Nebraska),31169,2019,78.44293263
+Thurston County (Nebraska),31173,2019,73.54611199
+Valley County (Nebraska),31175,2019,80.17314132
+Washington County (Nebraska),31177,2019,80.08577163
+Wayne County (Nebraska),31179,2019,82.78142275
+Webster County (Nebraska),31181,2019,77.60328196
+York County (Nebraska),31185,2019,79.76305122
+Churchill County (Nevada),32001,2019,75.87370251
+Clark County (Nevada),32003,2019,78.84713701
+Douglas County (Nevada),32005,2019,81.40134906
+Elko County (Nevada),32007,2019,78.87769807
+Eureka County (Nevada),32011,2019,77.75577679
+Humboldt County (Nevada),32013,2019,77.17834721
+Lander County (Nevada),32015,2019,77.12950286
+Lincoln County (Nevada),32017,2019,78.4082226
+Lyon County (Nevada),32019,2019,76.3076746
+Mineral County (Nevada),32021,2019,74.64852099
+Nye County (Nevada),32023,2019,73.97141599
+Pershing County (Nevada),32027,2019,78.59329552
+Storey County (Nevada),32029,2019,83.10020652
+Washoe County (Nevada),32031,2019,78.5228695
+White Pine County (Nevada),32033,2019,77.67468888
+Carson City (Nevada),32510,2019,75.17026546
+Belknap County (New Hampshire),33001,2019,77.95062165
+Carroll County (New Hampshire),33003,2019,79.64840688
+Cheshire County (New Hampshire),33005,2019,79.34011604
+Coos County (New Hampshire),33007,2019,76.54472488
+Grafton County (New Hampshire),33009,2019,80.45572151
+Hillsborough County (New Hampshire),33011,2019,79.50807519
+Merrimack County (New Hampshire),33013,2019,79.28210116
+Rockingham County (New Hampshire),33015,2019,80.4150133
+Strafford County (New Hampshire),33017,2019,78.03345559
+Sullivan County (New Hampshire),33019,2019,78.82404472
+Atlantic County (New Jersey),34001,2019,77.64437446
+Bergen County (New Jersey),34003,2019,83.37653583
+Burlington County (New Jersey),34005,2019,79.79098147
+Camden County (New Jersey),34007,2019,77.68789856
+Cape May County (New Jersey),34009,2019,77.53240279
+Cumberland County (New Jersey),34011,2019,75.68458211
+Essex County (New Jersey),34013,2019,80.10886355
+Gloucester County (New Jersey),34015,2019,78.241649
+Hudson County (New Jersey),34017,2019,82.77722697
+Hunterdon County (New Jersey),34019,2019,83.77787826
+Mercer County (New Jersey),34021,2019,80.70837924
+Middlesex County (New Jersey),34023,2019,81.95841339
+Monmouth County (New Jersey),34025,2019,81.03452881
+Morris County (New Jersey),34027,2019,82.85815091
+Ocean County (New Jersey),34029,2019,79.41557605
+Passaic County (New Jersey),34031,2019,80.98835796
+Salem County (New Jersey),34033,2019,76.28946101
+Somerset County (New Jersey),34035,2019,82.91024633
+Sussex County (New Jersey),34037,2019,79.98498362
+Union County (New Jersey),34039,2019,81.82109738
+Warren County (New Jersey),34041,2019,80.20539938
+Bernalillo County (New Mexico),35001,2019,78.58568942
+Catron County (New Mexico),35003,2019,79.96659049
+Chaves County (New Mexico),35005,2019,75.88130622
+Colfax County (New Mexico),35007,2019,78.11210135
+Curry County (New Mexico),35009,2019,76.95699177
+De Baca County (New Mexico),35011,2019,75.53406483
+Dona Ana County (New Mexico),35013,2019,80.22681916
+Eddy County (New Mexico),35015,2019,75.44677752
+Grant County (New Mexico),35017,2019,77.93801761
+Guadalupe County (New Mexico),35019,2019,76.58384068
+Hidalgo County (New Mexico),35023,2019,76.65534078
+Lea County (New Mexico),35025,2019,76.14662443
+Lincoln County (New Mexico),35027,2019,79.91283292
+Los Alamos County (New Mexico),35028,2019,83.71224812
+Luna County (New Mexico),35029,2019,75.61712346
+McKinley County (New Mexico),35031,2019,72.39197978
+Mora County (New Mexico),35033,2019,78.17585912
+Otero County (New Mexico),35035,2019,77.9990391
+Quay County (New Mexico),35037,2019,75.61820192
+Rio Arriba County (New Mexico),35039,2019,74.13070028
+Roosevelt County (New Mexico),35041,2019,77.99937681
+Sandoval County (New Mexico),35043,2019,79.27522413
+San Juan County (New Mexico),35045,2019,76.33485553
+San Miguel County (New Mexico),35047,2019,77.14783113
+Santa Fe County (New Mexico),35049,2019,81.32379965
+Sierra County (New Mexico),35051,2019,73.80335718
+Socorro County (New Mexico),35053,2019,76.41076732
+Taos County (New Mexico),35055,2019,79.48691687
+Torrance County (New Mexico),35057,2019,76.83907419
+Union County (New Mexico),35059,2019,76.92138743
+Cibola County (New Mexico),35006,2019,76.96613181
+Valencia County (New Mexico),35061,2019,76.96613181
+Albany County (New York),36001,2019,80.27556359
+Allegany County (New York),36003,2019,78.56048178
+Bronx County (New York),36005,2019,80.85050836
+Broome County (New York),36007,2019,78.97192345
+Cattaraugus County (New York),36009,2019,77.93302906
+Cayuga County (New York),36011,2019,79.82335475
+Chautauqua County (New York),36013,2019,78.23641794
+Chemung County (New York),36015,2019,77.42785804
+Chenango County (New York),36017,2019,77.83078554
+Clinton County (New York),36019,2019,79.60485341
+Columbia County (New York),36021,2019,80.14302982
+Cortland County (New York),36023,2019,78.8058446
+Delaware County (New York),36025,2019,79.44122123
+Dutchess County (New York),36027,2019,81.17445862
+Erie County (New York),36029,2019,78.78716219
+Essex County (New York),36031,2019,80.14190687
+Franklin County (New York),36033,2019,79.14606501
+Fulton County (New York),36035,2019,78.44536213
+Genesee County (New York),36037,2019,78.91822607
+Greene County (New York),36039,2019,79.06762183
+Hamilton County (New York),36041,2019,78.75459662
+Herkimer County (New York),36043,2019,79.21291615
+Jefferson County (New York),36045,2019,78.48857977
+Kings County (New York),36047,2019,83.1532241
+Lewis County (New York),36049,2019,79.78633428
+Livingston County (New York),36051,2019,80.19330853
+Madison County (New York),36053,2019,80.86904054
+Monroe County (New York),36055,2019,80.16046729
+Montgomery County (New York),36057,2019,78.1388643
+Nassau County (New York),36059,2019,83.19365249
+New York County (New York),36061,2019,85.29697772
+Niagara County (New York),36063,2019,78.08495627
+Oneida County (New York),36065,2019,78.52858059
+Onondaga County (New York),36067,2019,79.68922898
+Ontario County (New York),36069,2019,80.16752009
+Orange County (New York),36071,2019,80.59755979
+Orleans County (New York),36073,2019,78.31923071
+Oswego County (New York),36075,2019,78.36983897
+Otsego County (New York),36077,2019,80.33735129
+Putnam County (New York),36079,2019,82.78675784
+Queens County (New York),36081,2019,84.1019475
+Rensselaer County (New York),36083,2019,79.39280006
+Richmond County (New York),36085,2019,81.32119384
+Rockland County (New York),36087,2019,83.32693555
+Saint Lawrence County (New York),36089,2019,79.41893786
+Saratoga County (New York),36091,2019,81.48354978
+Schenectady County (New York),36093,2019,79.16412334
+Schoharie County (New York),36095,2019,80.85329751
+Schuyler County (New York),36097,2019,78.8768831
+Seneca County (New York),36099,2019,78.71368407
+Steuben County (New York),36101,2019,78.78408068
+Suffolk County (New York),36103,2019,81.13187662
+Sullivan County (New York),36105,2019,78.43153271
+Tioga County (New York),36107,2019,80.21225075
+Tompkins County (New York),36109,2019,81.20734956
+Ulster County (New York),36111,2019,80.20787961
+Warren County (New York),36113,2019,79.60239547
+Washington County (New York),36115,2019,78.98717734
+Wayne County (New York),36117,2019,79.19085168
+Westchester County (New York),36119,2019,83.86645386
+Wyoming County (New York),36121,2019,78.97757894
+Yates County (New York),36123,2019,79.01920452
+Alamance County (North Carolina),37001,2019,77.17145606
+Alexander County (North Carolina),37003,2019,77.40998418
+Alleghany County (North Carolina),37005,2019,77.52569855
+Anson County (North Carolina),37007,2019,74.01346245
+Ashe County (North Carolina),37009,2019,77.5876101
+Avery County (North Carolina),37011,2019,77.13822852
+Beaufort County (North Carolina),37013,2019,75.91019716
+Bertie County (North Carolina),37015,2019,75.90328231
+Bladen County (North Carolina),37017,2019,75.11665897
+Brunswick County (North Carolina),37019,2019,78.85910248
+Buncombe County (North Carolina),37021,2019,78.6532218
+Burke County (North Carolina),37023,2019,76.58944019
+Cabarrus County (North Carolina),37025,2019,78.77506839
+Caldwell County (North Carolina),37027,2019,75.9646948
+Camden County (North Carolina),37029,2019,78.51254784
+Carteret County (North Carolina),37031,2019,77.59248529
+Caswell County (North Carolina),37033,2019,76.70586679
+Catawba County (North Carolina),37035,2019,76.78267046
+Chatham County (North Carolina),37037,2019,81.29193287
+Cherokee County (North Carolina),37039,2019,76.65158463
+Chowan County (North Carolina),37041,2019,76.47311169
+Clay County (North Carolina),37043,2019,77.55776847
+Cleveland County (North Carolina),37045,2019,74.48198611
+Columbus County (North Carolina),37047,2019,73.74346031
+Craven County (North Carolina),37049,2019,76.72524206
+Cumberland County (North Carolina),37051,2019,76.01140804
+Currituck County (North Carolina),37053,2019,77.93467764
+Dare County (North Carolina),37055,2019,78.66288472
+Davidson County (North Carolina),37057,2019,76.21053143
+Davie County (North Carolina),37059,2019,78.16928527
+Duplin County (North Carolina),37061,2019,78.24474758
+Durham County (North Carolina),37063,2019,80.10097849
+Edgecombe County (North Carolina),37065,2019,73.85069889
+Forsyth County (North Carolina),37067,2019,77.89177609
+Franklin County (North Carolina),37069,2019,77.60170125
+Gaston County (North Carolina),37071,2019,75.59047845
+Gates County (North Carolina),37073,2019,76.99380361
+Graham County (North Carolina),37075,2019,76.15238852
+Granville County (North Carolina),37077,2019,77.98702918
+Greene County (North Carolina),37079,2019,76.5588187
+Guilford County (North Carolina),37081,2019,78.11594703
+Halifax County (North Carolina),37083,2019,74.25429176
+Harnett County (North Carolina),37085,2019,76.80176204
+Haywood County (North Carolina),37087,2019,77.16780754
+Henderson County (North Carolina),37089,2019,79.24386617
+Hertford County (North Carolina),37091,2019,76.0624245
+Hoke County (North Carolina),37093,2019,76.18060958
+Hyde County (North Carolina),37095,2019,75.98376821
+Iredell County (North Carolina),37097,2019,77.98593076
+Jackson County (North Carolina),37099,2019,78.39445179
+Johnston County (North Carolina),37101,2019,77.63388765
+Jones County (North Carolina),37103,2019,75.85631807
+Lee County (North Carolina),37105,2019,76.46842481
+Lenoir County (North Carolina),37107,2019,74.37527647
+Lincoln County (North Carolina),37109,2019,77.59811949
+McDowell County (North Carolina),37111,2019,76.81330855
+Macon County (North Carolina),37113,2019,77.87000578
+Madison County (North Carolina),37115,2019,77.86099163
+Martin County (North Carolina),37117,2019,74.91723542
+Mecklenburg County (North Carolina),37119,2019,80.3875109
+Mitchell County (North Carolina),37121,2019,75.62159559
+Montgomery County (North Carolina),37123,2019,76.28118147
+Moore County (North Carolina),37125,2019,79.5030022
+Nash County (North Carolina),37127,2019,75.27052877
+New Hanover County (North Carolina),37129,2019,79.31071413
+Northampton County (North Carolina),37131,2019,76.51296318
+Onslow County (North Carolina),37133,2019,76.34549767
+Orange County (North Carolina),37135,2019,81.93925008
+Pamlico County (North Carolina),37137,2019,77.33861259
+Pasquotank County (North Carolina),37139,2019,76.2372105
+Pender County (North Carolina),37141,2019,77.72595176
+Perquimans County (North Carolina),37143,2019,78.34377986
+Person County (North Carolina),37145,2019,76.43412478
+Pitt County (North Carolina),37147,2019,78.32093018
+Polk County (North Carolina),37149,2019,79.50380367
+Randolph County (North Carolina),37151,2019,76.03432639
+Richmond County (North Carolina),37153,2019,73.70098242
+Robeson County (North Carolina),37155,2019,72.74127099
+Rockingham County (North Carolina),37157,2019,75.05232437
+Rowan County (North Carolina),37159,2019,75.32567828
+Rutherford County (North Carolina),37161,2019,75.54121472
+Sampson County (North Carolina),37163,2019,75.48178683
+Scotland County (North Carolina),37165,2019,74.27330969
+Stanly County (North Carolina),37167,2019,76.06858062
+Stokes County (North Carolina),37169,2019,76.24099472
+Surry County (North Carolina),37171,2019,75.57414436
+Swain County (North Carolina),37173,2019,72.75091878
+Transylvania County (North Carolina),37175,2019,80.39640131
+Tyrrell County (North Carolina),37177,2019,77.12698909
+Union County (North Carolina),37179,2019,79.84498184
+Vance County (North Carolina),37181,2019,74.03061572
+Wake County (North Carolina),37183,2019,81.61698997
+Warren County (North Carolina),37185,2019,76.77698267
+Washington County (North Carolina),37187,2019,76.21674483
+Watauga County (North Carolina),37189,2019,81.61241882
+Wayne County (North Carolina),37191,2019,75.86943142
+Wilkes County (North Carolina),37193,2019,76.50942486
+Wilson County (North Carolina),37195,2019,75.89120939
+Yadkin County (North Carolina),37197,2019,76.40268083
+Yancey County (North Carolina),37199,2019,77.4762363
+Adams County (North Dakota),38001,2019,79.9474718
+Barnes County (North Dakota),38003,2019,79.24636256
+Benson County (North Dakota),38005,2019,73.77433455
+Bottineau County (North Dakota),38009,2019,78.75941443
+Bowman County (North Dakota),38011,2019,79.49647561
+Burke County (North Dakota),38013,2019,79.99082342
+Burleigh County (North Dakota),38015,2019,81.70568412
+Cass County (North Dakota),38017,2019,80.94341221
+Cavalier County (North Dakota),38019,2019,80.69568432
+Dickey County (North Dakota),38021,2019,79.61235775
+Divide County (North Dakota),38023,2019,79.89044703
+Dunn County (North Dakota),38025,2019,80.22385698
+Eddy County (North Dakota),38027,2019,76.4673559
+Emmons County (North Dakota),38029,2019,79.31917053
+Foster County (North Dakota),38031,2019,79.36896943
+Golden Valley County (North Dakota),38033,2019,84.32851396
+Grand Forks County (North Dakota),38035,2019,79.70703831
+Grant County (North Dakota),38037,2019,79.1057003
+Griggs County (North Dakota),38039,2019,79.76425359
+Hettinger County (North Dakota),38041,2019,79.52273029
+Kidder County (North Dakota),38043,2019,81.32505435
+LaMoure County (North Dakota),38045,2019,81.95393545
+Logan County (North Dakota),38047,2019,80.25567161
+McHenry County (North Dakota),38049,2019,80.01903623
+McIntosh County (North Dakota),38051,2019,79.4819337
+McKenzie County (North Dakota),38053,2019,79.4819957
+McLean County (North Dakota),38055,2019,79.30873187
+Mercer County (North Dakota),38057,2019,80.4307848
+Morton County (North Dakota),38059,2019,79.08536855
+Mountrail County (North Dakota),38061,2019,75.65871753
+Nelson County (North Dakota),38063,2019,76.94312527
+Oliver County (North Dakota),38065,2019,83.21952511
+Pembina County (North Dakota),38067,2019,80.0938183
+Pierce County (North Dakota),38069,2019,79.66894115
+Ramsey County (North Dakota),38071,2019,78.47670493
+Ransom County (North Dakota),38073,2019,78.09949868
+Renville County (North Dakota),38075,2019,79.26122298
+Richland County (North Dakota),38077,2019,80.80862953
+Rolette County (North Dakota),38079,2019,72.88547305
+Sargent County (North Dakota),38081,2019,80.78762373
+Sheridan County (North Dakota),38083,2019,83.17467616
+Sioux County (North Dakota),38085,2019,68.40290779
+Stark County (North Dakota),38089,2019,80.60599487
+Steele County (North Dakota),38091,2019,82.03604871
+Stutsman County (North Dakota),38093,2019,78.62790129
+Towner County (North Dakota),38095,2019,78.2434874
+Traill County (North Dakota),38097,2019,79.8325487
+Walsh County (North Dakota),38099,2019,77.83227846
+Ward County (North Dakota),38101,2019,80.67057519
+Wells County (North Dakota),38103,2019,78.99626596
+Williams County (North Dakota),38105,2019,78.84409978
+Adams County (Ohio),39001,2019,73.25657604
+Allen County (Ohio),39003,2019,77.00536306
+Ashland County (Ohio),39005,2019,77.85325382
+Ashtabula County (Ohio),39007,2019,75.38180503
+Athens County (Ohio),39009,2019,77.52227818
+Auglaize County (Ohio),39011,2019,78.55511051
+Belmont County (Ohio),39013,2019,76.68452328
+Brown County (Ohio),39015,2019,74.90867928
+Butler County (Ohio),39017,2019,76.99784106
+Carroll County (Ohio),39019,2019,77.54117448
+Champaign County (Ohio),39021,2019,76.55323658
+Clark County (Ohio),39023,2019,74.36206945
+Clermont County (Ohio),39025,2019,77.84848345
+Clinton County (Ohio),39027,2019,75.7453888
+Columbiana County (Ohio),39029,2019,76.22350869
+Coshocton County (Ohio),39031,2019,76.79572748
+Crawford County (Ohio),39033,2019,75.59304343
+Cuyahoga County (Ohio),39035,2019,77.0580342
+Darke County (Ohio),39037,2019,76.80609574
+Defiance County (Ohio),39039,2019,77.57912147
+Delaware County (Ohio),39041,2019,82.16100067
+Erie County (Ohio),39043,2019,76.9125534
+Fairfield County (Ohio),39045,2019,78.37240401
+Fayette County (Ohio),39047,2019,73.92597773
+Franklin County (Ohio),39049,2019,77.31580076
+Fulton County (Ohio),39051,2019,77.84309991
+Gallia County (Ohio),39053,2019,73.70102969
+Geauga County (Ohio),39055,2019,81.13635263
+Greene County (Ohio),39057,2019,78.96966538
+Guernsey County (Ohio),39059,2019,75.75260783
+Hamilton County (Ohio),39061,2019,76.77508594
+Hancock County (Ohio),39063,2019,77.98704233
+Hardin County (Ohio),39065,2019,76.21793673
+Harrison County (Ohio),39067,2019,75.55336676
+Henry County (Ohio),39069,2019,78.38530753
+Highland County (Ohio),39071,2019,75.16595762
+Hocking County (Ohio),39073,2019,76.00017682
+Holmes County (Ohio),39075,2019,78.9782883
+Huron County (Ohio),39077,2019,76.42417547
+Jackson County (Ohio),39079,2019,72.62769809
+Jefferson County (Ohio),39081,2019,74.71929966
+Knox County (Ohio),39083,2019,78.0451854
+Lake County (Ohio),39085,2019,78.45883549
+Lawrence County (Ohio),39087,2019,72.86694134
+Licking County (Ohio),39089,2019,77.69038555
+Logan County (Ohio),39091,2019,76.4504478
+Lorain County (Ohio),39093,2019,77.77509733
+Lucas County (Ohio),39095,2019,75.90784501
+Madison County (Ohio),39097,2019,76.56748497
+Mahoning County (Ohio),39099,2019,76.33678824
+Marion County (Ohio),39101,2019,75.67627856
+Medina County (Ohio),39103,2019,80.16043648
+Meigs County (Ohio),39105,2019,74.45513855
+Mercer County (Ohio),39107,2019,78.78196978
+Miami County (Ohio),39109,2019,77.55838539
+Monroe County (Ohio),39111,2019,77.32782667
+Montgomery County (Ohio),39113,2019,75.15587929
+Morgan County (Ohio),39115,2019,77.01427833
+Morrow County (Ohio),39117,2019,77.72133909
+Muskingum County (Ohio),39119,2019,75.98854789
+Noble County (Ohio),39121,2019,80.97747541
+Ottawa County (Ohio),39123,2019,78.4715475
+Paulding County (Ohio),39125,2019,77.19826636
+Perry County (Ohio),39127,2019,76.28437436
+Pickaway County (Ohio),39129,2019,76.13507479
+Pike County (Ohio),39131,2019,73.05500061
+Portage County (Ohio),39133,2019,78.14174506
+Preble County (Ohio),39135,2019,75.84251887
+Putnam County (Ohio),39137,2019,79.56719585
+Richland County (Ohio),39139,2019,76.30487998
+Ross County (Ohio),39141,2019,75.07850868
+Sandusky County (Ohio),39143,2019,76.76880894
+Scioto County (Ohio),39145,2019,72.69800997
+Seneca County (Ohio),39147,2019,77.16015185
+Shelby County (Ohio),39149,2019,77.88003028
+Stark County (Ohio),39151,2019,77.10059428
+Summit County (Ohio),39153,2019,77.09692435
+Trumbull County (Ohio),39155,2019,75.86116665
+Tuscarawas County (Ohio),39157,2019,77.54064248
+Union County (Ohio),39159,2019,79.32548902
+Van Wert County (Ohio),39161,2019,77.59253508
+Vinton County (Ohio),39163,2019,74.68978151
+Warren County (Ohio),39165,2019,79.4757882
+Washington County (Ohio),39167,2019,77.13874839
+Wayne County (Ohio),39169,2019,78.10104554
+Williams County (Ohio),39171,2019,77.63428433
+Wood County (Ohio),39173,2019,78.56502618
+Wyandot County (Ohio),39175,2019,77.74011999
+Adair County (Oklahoma),40001,2019,73.54652876
+Alfalfa County (Oklahoma),40003,2019,77.56986676
+Atoka County (Oklahoma),40005,2019,75.4589806
+Beaver County (Oklahoma),40007,2019,77.87072426
+Beckham County (Oklahoma),40009,2019,73.86667631
+Blaine County (Oklahoma),40011,2019,74.28937503
+Bryan County (Oklahoma),40013,2019,75.62367581
+Caddo County (Oklahoma),40015,2019,72.82175078
+Canadian County (Oklahoma),40017,2019,78.32434486
+Carter County (Oklahoma),40019,2019,74.31407426
+Cherokee County (Oklahoma),40021,2019,75.68417717
+Choctaw County (Oklahoma),40023,2019,72.82443946
+Cimarron County (Oklahoma),40025,2019,77.24235957
+Cleveland County (Oklahoma),40027,2019,78.99571514
+Coal County (Oklahoma),40029,2019,73.1742785
+Comanche County (Oklahoma),40031,2019,76.22791685
+Cotton County (Oklahoma),40033,2019,74.50542106
+Craig County (Oklahoma),40035,2019,74.08198162
+Creek County (Oklahoma),40037,2019,74.7701936
+Custer County (Oklahoma),40039,2019,74.68137104
+Delaware County (Oklahoma),40041,2019,76.36327288
+Dewey County (Oklahoma),40043,2019,74.77034666
+Ellis County (Oklahoma),40045,2019,75.95016076
+Garfield County (Oklahoma),40047,2019,75.64195628
+Garvin County (Oklahoma),40049,2019,73.42359425
+Grady County (Oklahoma),40051,2019,76.33653656
+Grant County (Oklahoma),40053,2019,75.73211305
+Greer County (Oklahoma),40055,2019,75.32169799
+Harmon County (Oklahoma),40057,2019,75.86276036
+Harper County (Oklahoma),40059,2019,76.57484372
+Haskell County (Oklahoma),40061,2019,74.36755191
+Hughes County (Oklahoma),40063,2019,72.79094003
+Jackson County (Oklahoma),40065,2019,75.53463566
+Jefferson County (Oklahoma),40067,2019,73.88731713
+Johnston County (Oklahoma),40069,2019,73.56792554
+Kay County (Oklahoma),40071,2019,74.36029174
+Kingfisher County (Oklahoma),40073,2019,77.45230299
+Kiowa County (Oklahoma),40075,2019,72.42438638
+Latimer County (Oklahoma),40077,2019,75.1780346
+Le Flore County (Oklahoma),40079,2019,73.81397505
+Lincoln County (Oklahoma),40081,2019,75.65096034
+Logan County (Oklahoma),40083,2019,78.88691189
+Love County (Oklahoma),40085,2019,75.40148339
+McClain County (Oklahoma),40087,2019,76.88583734
+McCurtain County (Oklahoma),40089,2019,73.13513383
+McIntosh County (Oklahoma),40091,2019,73.95724708
+Major County (Oklahoma),40093,2019,76.44666982
+Marshall County (Oklahoma),40095,2019,76.65770961
+Mayes County (Oklahoma),40097,2019,74.82286508
+Murray County (Oklahoma),40099,2019,73.92957537
+Muskogee County (Oklahoma),40101,2019,72.87561706
+Noble County (Oklahoma),40103,2019,76.08854262
+Nowata County (Oklahoma),40105,2019,74.86216138
+Okfuskee County (Oklahoma),40107,2019,71.53028302
+Oklahoma County (Oklahoma),40109,2019,76.16561711
+Okmulgee County (Oklahoma),40111,2019,73.35187832
+Osage County (Oklahoma),40113,2019,77.94156042
+Ottawa County (Oklahoma),40115,2019,73.09991204
+Pawnee County (Oklahoma),40117,2019,74.34577191
+Payne County (Oklahoma),40119,2019,78.19365126
+Pittsburg County (Oklahoma),40121,2019,73.44243931
+Pontotoc County (Oklahoma),40123,2019,74.70018023
+Pottawatomie County (Oklahoma),40125,2019,74.16560132
+Pushmataha County (Oklahoma),40127,2019,74.12434001
+Roger Mills County (Oklahoma),40129,2019,77.15872616
+Rogers County (Oklahoma),40131,2019,77.34219471
+Seminole County (Oklahoma),40133,2019,71.81512791
+Sequoyah County (Oklahoma),40135,2019,73.91559765
+Stephens County (Oklahoma),40137,2019,75.10810238
+Texas County (Oklahoma),40139,2019,76.45805241
+Tillman County (Oklahoma),40141,2019,75.16483824
+Tulsa County (Oklahoma),40143,2019,76.87731148
+Wagoner County (Oklahoma),40145,2019,78.83212786
+Washington County (Oklahoma),40147,2019,76.8909457
+Washita County (Oklahoma),40149,2019,75.44281377
+Woods County (Oklahoma),40151,2019,76.53529169
+Woodward County (Oklahoma),40153,2019,76.62993614
+Baker County (Oregon),41001,2019,78.403267
+Benton County (Oregon),41003,2019,83.11118416
+Clackamas County (Oregon),41005,2019,81.23545876
+Clatsop County (Oregon),41007,2019,79.14237844
+Columbia County (Oregon),41009,2019,79.51840951
+Coos County (Oregon),41011,2019,76.74882764
+Crook County (Oregon),41013,2019,79.4937955
+Curry County (Oregon),41015,2019,77.26493041
+Deschutes County (Oregon),41017,2019,81.58901921
+Douglas County (Oregon),41019,2019,77.30687954
+Gilliam County (Oregon),41021,2019,81.89375439
+Grant County (Oregon),41023,2019,80.32034811
+Harney County (Oregon),41025,2019,78.56297342
+Hood River County (Oregon),41027,2019,80.73294222
+Jackson County (Oregon),41029,2019,79.20046962
+Jefferson County (Oregon),41031,2019,78.28923602
+Josephine County (Oregon),41033,2019,76.76665279
+Klamath County (Oregon),41035,2019,76.42423114
+Lake County (Oregon),41037,2019,78.05728788
+Lane County (Oregon),41039,2019,79.3128442
+Lincoln County (Oregon),41041,2019,78.31783041
+Linn County (Oregon),41043,2019,78.29985125
+Malheur County (Oregon),41045,2019,78.17241522
+Marion County (Oregon),41047,2019,79.74366985
+Morrow County (Oregon),41049,2019,80.19533113
+Multnomah County (Oregon),41051,2019,79.93282418
+Polk County (Oregon),41053,2019,80.75069827
+Sherman County (Oregon),41055,2019,81.28186017
+Tillamook County (Oregon),41057,2019,79.35587136
+Umatilla County (Oregon),41059,2019,78.88762616
+Union County (Oregon),41061,2019,79.640869
+Wallowa County (Oregon),41063,2019,80.48254218
+Wasco County (Oregon),41065,2019,77.80047134
+Washington County (Oregon),41067,2019,82.80064702
+Wheeler County (Oregon),41069,2019,79.63752837
+Yamhill County (Oregon),41071,2019,80.18284172
+Adams County (Pennsylvania),42001,2019,79.60241224
+Allegheny County (Pennsylvania),42003,2019,78.16104008
+Armstrong County (Pennsylvania),42005,2019,77.03357116
+Beaver County (Pennsylvania),42007,2019,76.84681295
+Bedford County (Pennsylvania),42009,2019,78.393332
+Berks County (Pennsylvania),42011,2019,79.37229775
+Blair County (Pennsylvania),42013,2019,77.121066
+Bradford County (Pennsylvania),42015,2019,78.02704241
+Bucks County (Pennsylvania),42017,2019,80.07527578
+Butler County (Pennsylvania),42019,2019,78.82164994
+Cambria County (Pennsylvania),42021,2019,76.33595832
+Cameron County (Pennsylvania),42023,2019,78.77846733
+Carbon County (Pennsylvania),42025,2019,77.08979598
+Centre County (Pennsylvania),42027,2019,82.95094822
+Chester County (Pennsylvania),42029,2019,81.42672245
+Clarion County (Pennsylvania),42031,2019,78.40362114
+Clearfield County (Pennsylvania),42033,2019,77.70166453
+Clinton County (Pennsylvania),42035,2019,78.38473063
+Columbia County (Pennsylvania),42037,2019,78.53382004
+Crawford County (Pennsylvania),42039,2019,77.29006861
+Cumberland County (Pennsylvania),42041,2019,80.18669403
+Dauphin County (Pennsylvania),42043,2019,78.70620039
+Delaware County (Pennsylvania),42045,2019,78.64591888
+Elk County (Pennsylvania),42047,2019,78.40057627
+Erie County (Pennsylvania),42049,2019,77.70208117
+Fayette County (Pennsylvania),42051,2019,75.47111462
+Forest County (Pennsylvania),42053,2019,76.53459579
+Franklin County (Pennsylvania),42055,2019,79.36906401
+Fulton County (Pennsylvania),42057,2019,77.91913588
+Greene County (Pennsylvania),42059,2019,75.9396127
+Huntingdon County (Pennsylvania),42061,2019,79.129958
+Indiana County (Pennsylvania),42063,2019,78.22286781
+Jefferson County (Pennsylvania),42065,2019,77.47985927
+Juniata County (Pennsylvania),42067,2019,79.23883252
+Lackawanna County (Pennsylvania),42069,2019,77.10413392
+Lancaster County (Pennsylvania),42071,2019,80.29275027
+Lawrence County (Pennsylvania),42073,2019,76.52040826
+Lebanon County (Pennsylvania),42075,2019,78.95372253
+Lehigh County (Pennsylvania),42077,2019,79.55036493
+Luzerne County (Pennsylvania),42079,2019,76.51656377
+Lycoming County (Pennsylvania),42081,2019,78.28686486
+McKean County (Pennsylvania),42083,2019,77.15024478
+Mercer County (Pennsylvania),42085,2019,76.99106458
+Mifflin County (Pennsylvania),42087,2019,78.11713303
+Monroe County (Pennsylvania),42089,2019,78.74250408
+Montgomery County (Pennsylvania),42091,2019,80.84564885
+Montour County (Pennsylvania),42093,2019,78.74313061
+Northampton County (Pennsylvania),42095,2019,80.16504616
+Northumberland County (Pennsylvania),42097,2019,77.45266299
+Perry County (Pennsylvania),42099,2019,77.62842739
+Philadelphia County (Pennsylvania),42101,2019,76.59678451
+Pike County (Pennsylvania),42103,2019,80.91679807
+Potter County (Pennsylvania),42105,2019,78.28533632
+Schuylkill County (Pennsylvania),42107,2019,76.00567707
+Snyder County (Pennsylvania),42109,2019,80.45926232
+Somerset County (Pennsylvania),42111,2019,77.42735879
+Sullivan County (Pennsylvania),42113,2019,76.41706095
+Susquehanna County (Pennsylvania),42115,2019,78.17364386
+Tioga County (Pennsylvania),42117,2019,78.63824356
+Union County (Pennsylvania),42119,2019,82.11350824
+Venango County (Pennsylvania),42121,2019,77.72088982
+Warren County (Pennsylvania),42123,2019,78.3008869
+Washington County (Pennsylvania),42125,2019,77.20341873
+Wayne County (Pennsylvania),42127,2019,78.34658497
+Westmoreland County (Pennsylvania),42129,2019,77.81036151
+Wyoming County (Pennsylvania),42131,2019,76.8190173
+York County (Pennsylvania),42133,2019,78.96074026
+Bristol County (Rhode Island),44001,2019,81.22443611
+Kent County (Rhode Island),44003,2019,79.23259255
+Newport County (Rhode Island),44005,2019,81.76293344
+Providence County (Rhode Island),44007,2019,79.58655994
+Washington County (Rhode Island),44009,2019,81.2259041
+Abbeville County (South Carolina),45001,2019,76.24804886
+Aiken County (South Carolina),45003,2019,76.60742007
+Allendale County (South Carolina),45005,2019,72.3275766
+Anderson County (South Carolina),45007,2019,75.64470675
+Bamberg County (South Carolina),45009,2019,74.14844287
+Barnwell County (South Carolina),45011,2019,73.30127383
+Beaufort County (South Carolina),45013,2019,82.45195361
+Berkeley County (South Carolina),45015,2019,78.11422708
+Calhoun County (South Carolina),45017,2019,76.163343
+Charleston County (South Carolina),45019,2019,78.76889968
+Cherokee County (South Carolina),45021,2019,73.65146568
+Chester County (South Carolina),45023,2019,72.8990001
+Chesterfield County (South Carolina),45025,2019,73.84225946
+Clarendon County (South Carolina),45027,2019,75.81767626
+Colleton County (South Carolina),45029,2019,72.51557315
+Darlington County (South Carolina),45031,2019,72.86739899
+Dillon County (South Carolina),45033,2019,72.43194771
+Dorchester County (South Carolina),45035,2019,78.0084012
+Edgefield County (South Carolina),45037,2019,78.86307109
+Fairfield County (South Carolina),45039,2019,73.95719751
+Florence County (South Carolina),45041,2019,73.87418373
+Georgetown County (South Carolina),45043,2019,76.40117943
+Greenville County (South Carolina),45045,2019,78.06143336
+Greenwood County (South Carolina),45047,2019,75.96165196
+Hampton County (South Carolina),45049,2019,73.69083788
+Horry County (South Carolina),45051,2019,76.78787267
+Jasper County (South Carolina),45053,2019,77.78515139
+Kershaw County (South Carolina),45055,2019,76.08948652
+Lancaster County (South Carolina),45057,2019,78.0335537
+Laurens County (South Carolina),45059,2019,73.69304831
+Lee County (South Carolina),45061,2019,72.08549447
+Lexington County (South Carolina),45063,2019,77.63999639
+McCormick County (South Carolina),45065,2019,76.62044555
+Marion County (South Carolina),45067,2019,71.65886048
+Marlboro County (South Carolina),45069,2019,71.71971799
+Newberry County (South Carolina),45071,2019,75.87913988
+Oconee County (South Carolina),45073,2019,76.58531475
+Orangeburg County (South Carolina),45075,2019,73.59940444
+Pickens County (South Carolina),45077,2019,76.62094182
+Richland County (South Carolina),45079,2019,77.30922653
+Saluda County (South Carolina),45081,2019,77.50966691
+Spartanburg County (South Carolina),45083,2019,75.65868619
+Sumter County (South Carolina),45085,2019,74.89066067
+Union County (South Carolina),45087,2019,73.13943313
+Williamsburg County (South Carolina),45089,2019,72.66813957
+York County (South Carolina),45091,2019,77.83993342
+Aurora County (South Dakota),46003,2019,79.76067001
+Beadle County (South Dakota),46005,2019,78.7117822
+Bennett County (South Dakota),46007,2019,72.69683283
+Bon Homme County (South Dakota),46009,2019,80.09665293
+Brookings County (South Dakota),46011,2019,81.50919825
+Brown County (South Dakota),46013,2019,80.55136234
+Brule County (South Dakota),46015,2019,78.82364293
+Buffalo County (South Dakota),46017,2019,69.41970351
+Butte County (South Dakota),46019,2019,78.12653641
+Campbell County (South Dakota),46021,2019,83.29798385
+Charles Mix County (South Dakota),46023,2019,77.37689815
+Clark County (South Dakota),46025,2019,79.91189742
+Clay County (South Dakota),46027,2019,79.54987664
+Codington County (South Dakota),46029,2019,80.82791758
+Corson County (South Dakota),46031,2019,70.51117704
+Custer County (South Dakota),46033,2019,79.24846009
+Davison County (South Dakota),46035,2019,78.67606804
+Day County (South Dakota),46037,2019,79.47655389
+Deuel County (South Dakota),46039,2019,81.04649955
+Dewey County (South Dakota),46041,2019,70.21092767
+Douglas County (South Dakota),46043,2019,79.39234773
+Edmunds County (South Dakota),46045,2019,80.77159841
+Fall River County (South Dakota),46047,2019,75.27963487
+Faulk County (South Dakota),46049,2019,81.29501479
+Grant County (South Dakota),46051,2019,79.1767753
+Gregory County (South Dakota),46053,2019,77.95767283
+Haakon County (South Dakota),46055,2019,77.09070497
+Hamlin County (South Dakota),46057,2019,78.9247905
+Hand County (South Dakota),46059,2019,80.75312593
+Hanson County (South Dakota),46061,2019,79.36066352
+Harding County (South Dakota),46063,2019,80.66544512
+Hughes County (South Dakota),46065,2019,79.3361126
+Hutchinson County (South Dakota),46067,2019,79.38166209
+Hyde County (South Dakota),46069,2019,78.30000121
+Jerauld County (South Dakota),46073,2019,79.77042289
+Jones County (South Dakota),46075,2019,79.89421965
+Kingsbury County (South Dakota),46077,2019,79.00095818
+Lake County (South Dakota),46079,2019,81.01272265
+Lawrence County (South Dakota),46081,2019,81.22742307
+Lincoln County (South Dakota),46083,2019,83.91483899
+Lyman County (South Dakota),46085,2019,76.67898951
+McCook County (South Dakota),46087,2019,77.67066772
+McPherson County (South Dakota),46089,2019,79.90470376
+Marshall County (South Dakota),46091,2019,81.09897464
+Meade County (South Dakota),46093,2019,79.46288782
+Mellette County (South Dakota),46095,2019,70.94760148
+Miner County (South Dakota),46097,2019,78.29001653
+Minnehaha County (South Dakota),46099,2019,78.93327249
+Moody County (South Dakota),46101,2019,80.01793523
+Pennington County (South Dakota),46103,2019,79.628402
+Perkins County (South Dakota),46105,2019,78.73988317
+Potter County (South Dakota),46107,2019,78.96811988
+Roberts County (South Dakota),46109,2019,77.43594487
+Sanborn County (South Dakota),46111,2019,79.12492823
+Oglala Lakota County (South Dakota),46102,2019,65.42311079
+Shannon County (South Dakota),46113,2019,65.42311079
+Spink County (South Dakota),46115,2019,79.8113388
+Stanley County (South Dakota),46117,2019,81.26953594
+Sully County (South Dakota),46119,2019,80.98025089
+Todd County (South Dakota),46121,2019,67.69666192
+Tripp County (South Dakota),46123,2019,77.50128865
+Turner County (South Dakota),46125,2019,79.21467156
+Union County (South Dakota),46127,2019,80.79680306
+Walworth County (South Dakota),46129,2019,77.55096142
+Yankton County (South Dakota),46135,2019,79.42540575
+Ziebach County (South Dakota),46137,2019,76.6291667
+Jackson County (South Dakota),46071,2019,73.46813303
+Washabaugh County (South Dakota),46131,2019,73.46813303
+Anderson County (Tennessee),47001,2019,75.20456212
+Bedford County (Tennessee),47003,2019,74.86905444
+Benton County (Tennessee),47005,2019,72.83293615
+Bledsoe County (Tennessee),47007,2019,76.98494494
+Blount County (Tennessee),47009,2019,77.19433758
+Bradley County (Tennessee),47011,2019,76.67957519
+Campbell County (Tennessee),47013,2019,72.53423259
+Cannon County (Tennessee),47015,2019,74.67422444
+Carroll County (Tennessee),47017,2019,73.205818
+Carter County (Tennessee),47019,2019,75.44658642
+Cheatham County (Tennessee),47021,2019,74.2986056
+Chester County (Tennessee),47023,2019,75.88309454
+Claiborne County (Tennessee),47025,2019,73.32932787
+Clay County (Tennessee),47027,2019,74.40280817
+Cocke County (Tennessee),47029,2019,72.17983115
+Coffee County (Tennessee),47031,2019,74.41201907
+Crockett County (Tennessee),47033,2019,74.34319806
+Cumberland County (Tennessee),47035,2019,76.83809549
+Davidson County (Tennessee),47037,2019,77.2017347
+Decatur County (Tennessee),47039,2019,74.40387915
+DeKalb County (Tennessee),47041,2019,73.91119345
+Dickson County (Tennessee),47043,2019,74.84744704
+Dyer County (Tennessee),47045,2019,73.62592597
+Fayette County (Tennessee),47047,2019,77.62050222
+Fentress County (Tennessee),47049,2019,73.34275062
+Franklin County (Tennessee),47051,2019,76.01149673
+Gibson County (Tennessee),47053,2019,73.61281009
+Giles County (Tennessee),47055,2019,74.74054749
+Grainger County (Tennessee),47057,2019,74.01653205
+Greene County (Tennessee),47059,2019,74.16332311
+Grundy County (Tennessee),47061,2019,71.80669266
+Hamblen County (Tennessee),47063,2019,74.75331169
+Hamilton County (Tennessee),47065,2019,77.638767
+Hancock County (Tennessee),47067,2019,72.50818113
+Hardeman County (Tennessee),47069,2019,74.40738029
+Hardin County (Tennessee),47071,2019,73.63762598
+Hawkins County (Tennessee),47073,2019,74.72304435
+Haywood County (Tennessee),47075,2019,74.39999137
+Henderson County (Tennessee),47077,2019,74.23796211
+Henry County (Tennessee),47079,2019,74.38170399
+Hickman County (Tennessee),47081,2019,74.18102122
+Houston County (Tennessee),47083,2019,73.73390819
+Humphreys County (Tennessee),47085,2019,73.99963089
+Jackson County (Tennessee),47087,2019,74.34434609
+Jefferson County (Tennessee),47089,2019,75.78113218
+Johnson County (Tennessee),47091,2019,74.99627621
+Knox County (Tennessee),47093,2019,76.57373513
+Lake County (Tennessee),47095,2019,72.7084736
+Lauderdale County (Tennessee),47097,2019,73.34853119
+Lawrence County (Tennessee),47099,2019,74.10813445
+Lewis County (Tennessee),47101,2019,74.43723263
+Lincoln County (Tennessee),47103,2019,75.32832528
+Loudon County (Tennessee),47105,2019,77.25107998
+McMinn County (Tennessee),47107,2019,74.61434723
+McNairy County (Tennessee),47109,2019,73.2206984
+Macon County (Tennessee),47111,2019,74.08607814
+Madison County (Tennessee),47113,2019,75.99163054
+Marion County (Tennessee),47115,2019,74.03414285
+Marshall County (Tennessee),47117,2019,75.20141134
+Maury County (Tennessee),47119,2019,76.18457892
+Meigs County (Tennessee),47121,2019,72.84767302
+Monroe County (Tennessee),47123,2019,74.82479772
+Montgomery County (Tennessee),47125,2019,76.0622304
+Moore County (Tennessee),47127,2019,79.00963424
+Morgan County (Tennessee),47129,2019,74.41089217
+Obion County (Tennessee),47131,2019,75.18973764
+Overton County (Tennessee),47133,2019,73.73843269
+Perry County (Tennessee),47135,2019,73.20323281
+Pickett County (Tennessee),47137,2019,74.96932871
+Polk County (Tennessee),47139,2019,73.77672107
+Putnam County (Tennessee),47141,2019,76.35323546
+Rhea County (Tennessee),47143,2019,74.15974337
+Roane County (Tennessee),47145,2019,74.79200097
+Robertson County (Tennessee),47147,2019,75.66809867
+Rutherford County (Tennessee),47149,2019,77.92242542
+Scott County (Tennessee),47151,2019,72.47505158
+Sequatchie County (Tennessee),47153,2019,75.83289346
+Sevier County (Tennessee),47155,2019,76.00490399
+Shelby County (Tennessee),47157,2019,75.62516261
+Smith County (Tennessee),47159,2019,75.12407881
+Stewart County (Tennessee),47161,2019,75.197924
+Sullivan County (Tennessee),47163,2019,75.7987865
+Sumner County (Tennessee),47165,2019,78.16075189
+Tipton County (Tennessee),47167,2019,75.13726309
+Trousdale County (Tennessee),47169,2019,74.67866813
+Unicoi County (Tennessee),47171,2019,73.8738337
+Union County (Tennessee),47173,2019,74.31930579
+Van Buren County (Tennessee),47175,2019,74.22654396
+Warren County (Tennessee),47177,2019,74.4396956
+Washington County (Tennessee),47179,2019,75.96989016
+Wayne County (Tennessee),47181,2019,75.40550806
+Weakley County (Tennessee),47183,2019,76.14720576
+White County (Tennessee),47185,2019,74.29470124
+Williamson County (Tennessee),47187,2019,81.89789191
+Wilson County (Tennessee),47189,2019,78.50455451
+Anderson County (Texas),48001,2019,73.57614946
+Andrews County (Texas),48003,2019,76.18950545
+Angelina County (Texas),48005,2019,76.16209848
+Aransas County (Texas),48007,2019,76.35062973
+Archer County (Texas),48009,2019,78.9942041
+Armstrong County (Texas),48011,2019,76.43050286
+Atascosa County (Texas),48013,2019,77.44661847
+Austin County (Texas),48015,2019,79.18494819
+Bailey County (Texas),48017,2019,78.51941843
+Bandera County (Texas),48019,2019,79.76111457
+Bastrop County (Texas),48021,2019,78.09584763
+Baylor County (Texas),48023,2019,74.57922499
+Bee County (Texas),48025,2019,76.71161189
+Bell County (Texas),48027,2019,77.94616673
+Bexar County (Texas),48029,2019,78.63023781
+Blanco County (Texas),48031,2019,79.11080704
+Bosque County (Texas),48035,2019,77.03455635
+Bowie County (Texas),48037,2019,75.39636598
+Brazoria County (Texas),48039,2019,79.23961622
+Brazos County (Texas),48041,2019,80.80687228
+Brewster County (Texas),48043,2019,81.43406924
+Briscoe County (Texas),48045,2019,78.36147489
+Brooks County (Texas),48047,2019,76.2739195
+Brown County (Texas),48049,2019,75.46340279
+Burleson County (Texas),48051,2019,77.60736389
+Burnet County (Texas),48053,2019,78.67956791
+Caldwell County (Texas),48055,2019,77.694806
+Calhoun County (Texas),48057,2019,77.61001383
+Callahan County (Texas),48059,2019,76.57834977
+Cameron County (Texas),48061,2019,80.3872325
+Camp County (Texas),48063,2019,75.38539663
+Carson County (Texas),48065,2019,78.81527146
+Cass County (Texas),48067,2019,75.45456503
+Castro County (Texas),48069,2019,78.76751216
+Chambers County (Texas),48071,2019,77.96769682
+Cherokee County (Texas),48073,2019,76.32791142
+Childress County (Texas),48075,2019,75.8262626
+Clay County (Texas),48077,2019,77.39341424
+Cochran County (Texas),48079,2019,75.00153044
+Coke County (Texas),48081,2019,76.46686894
+Coleman County (Texas),48083,2019,74.78903602
+Collin County (Texas),48085,2019,82.46979665
+Collingsworth County (Texas),48087,2019,74.97828857
+Colorado County (Texas),48089,2019,77.72547622
+Comal County (Texas),48091,2019,79.68305386
+Comanche County (Texas),48093,2019,77.11906467
+Concho County (Texas),48095,2019,78.24949732
+Cooke County (Texas),48097,2019,77.29601046
+Coryell County (Texas),48099,2019,77.24468244
+Cottle County (Texas),48101,2019,75.77071347
+Crane County (Texas),48103,2019,76.09216088
+Crockett County (Texas),48105,2019,77.23450918
+Crosby County (Texas),48107,2019,75.7309373
+Culberson County (Texas),48109,2019,78.87216256
+Dallam County (Texas),48111,2019,77.32236708
+Dallas County (Texas),48113,2019,78.92055346
+Dawson County (Texas),48115,2019,75.98462702
+Deaf Smith County (Texas),48117,2019,76.95978055
+Delta County (Texas),48119,2019,75.72163404
+Denton County (Texas),48121,2019,81.85385053
+DeWitt County (Texas),48123,2019,76.26951561
+Dickens County (Texas),48125,2019,77.18013059
+Dimmit County (Texas),48127,2019,78.07006408
+Donley County (Texas),48129,2019,75.97740156
+Duval County (Texas),48131,2019,75.40756234
+Eastland County (Texas),48133,2019,75.05784321
+Ector County (Texas),48135,2019,75.12719509
+Edwards County (Texas),48137,2019,78.21498198
+Ellis County (Texas),48139,2019,78.4814828
+El Paso County (Texas),48141,2019,79.63343387
+Erath County (Texas),48143,2019,78.92080411
+Falls County (Texas),48145,2019,76.86500073
+Fannin County (Texas),48147,2019,75.52455646
+Fayette County (Texas),48149,2019,79.19470672
+Fisher County (Texas),48151,2019,78.14107173
+Floyd County (Texas),48153,2019,77.24410992
+Foard County (Texas),48155,2019,76.22232615
+Fort Bend County (Texas),48157,2019,82.72263097
+Franklin County (Texas),48159,2019,78.02358651
+Freestone County (Texas),48161,2019,76.79229177
+Frio County (Texas),48163,2019,77.00804468
+Gaines County (Texas),48165,2019,77.59927239
+Galveston County (Texas),48167,2019,77.77939123
+Garza County (Texas),48169,2019,76.86160461
+Gillespie County (Texas),48171,2019,80.92897872
+Glasscock County (Texas),48173,2019,81.52145873
+Goliad County (Texas),48175,2019,79.06777204
+Gonzales County (Texas),48177,2019,76.39835891
+Gray County (Texas),48179,2019,74.43905655
+Grayson County (Texas),48181,2019,76.32508298
+Gregg County (Texas),48183,2019,75.42645306
+Grimes County (Texas),48185,2019,76.98974761
+Guadalupe County (Texas),48187,2019,79.84496856
+Hale County (Texas),48189,2019,76.82704131
+Hall County (Texas),48191,2019,75.52498064
+Hamilton County (Texas),48193,2019,76.36209345
+Hansford County (Texas),48195,2019,75.96739031
+Hardeman County (Texas),48197,2019,76.757299
+Hardin County (Texas),48199,2019,75.90162919
+Harris County (Texas),48201,2019,79.6552659
+Harrison County (Texas),48203,2019,76.37999897
+Hartley County (Texas),48205,2019,79.91842519
+Haskell County (Texas),48207,2019,76.08833486
+Hays County (Texas),48209,2019,80.52501338
+Hemphill County (Texas),48211,2019,77.44408213
+Henderson County (Texas),48213,2019,75.41438691
+Hidalgo County (Texas),48215,2019,81.21541288
+Hill County (Texas),48217,2019,76.42304117
+Hockley County (Texas),48219,2019,75.80628901
+Hood County (Texas),48221,2019,78.37093621
+Hopkins County (Texas),48223,2019,76.3968228
+Houston County (Texas),48225,2019,76.56803897
+Howard County (Texas),48227,2019,74.69280052
+Hudspeth County (Texas),48229,2019,81.28733596
+Hunt County (Texas),48231,2019,76.33945552
+Hutchinson County (Texas),48233,2019,74.87676703
+Irion County (Texas),48235,2019,79.93099745
+Jack County (Texas),48237,2019,76.12824201
+Jackson County (Texas),48239,2019,76.99743564
+Jasper County (Texas),48241,2019,75.29888756
+Jeff Davis County (Texas),48243,2019,84.19466682
+Jefferson County (Texas),48245,2019,76.17253785
+Jim Hogg County (Texas),48247,2019,76.50367447
+Jim Wells County (Texas),48249,2019,75.26744348
+Johnson County (Texas),48251,2019,77.07450692
+Jones County (Texas),48253,2019,77.17850438
+Karnes County (Texas),48255,2019,76.93882565
+Kaufman County (Texas),48257,2019,76.73376138
+Kendall County (Texas),48259,2019,80.88549344
+Kerr County (Texas),48265,2019,77.90851039
+Kimble County (Texas),48267,2019,78.47949479
+Kinney County (Texas),48271,2019,78.8112806
+Kleberg County (Texas),48273,2019,75.84713688
+Knox County (Texas),48275,2019,76.43875824
+Lamar County (Texas),48277,2019,75.08544692
+Lamb County (Texas),48279,2019,75.85406829
+Lampasas County (Texas),48281,2019,77.48503214
+La Salle County (Texas),48283,2019,78.46259523
+Lavaca County (Texas),48285,2019,78.52858305
+Lee County (Texas),48287,2019,78.0891553
+Leon County (Texas),48289,2019,76.81809129
+Liberty County (Texas),48291,2019,74.21450856
+Limestone County (Texas),48293,2019,75.58703863
+Lipscomb County (Texas),48295,2019,77.78388709
+Live Oak County (Texas),48297,2019,78.70118885
+Llano County (Texas),48299,2019,78.79075146
+Lubbock County (Texas),48303,2019,76.44294809
+Lynn County (Texas),48305,2019,76.83350683
+McCulloch County (Texas),48307,2019,76.49523638
+McLennan County (Texas),48309,2019,77.75609182
+Madison County (Texas),48313,2019,76.78523375
+Marion County (Texas),48315,2019,74.21271026
+Martin County (Texas),48317,2019,77.13190668
+Mason County (Texas),48319,2019,79.0275749
+Matagorda County (Texas),48321,2019,76.14728908
+Maverick County (Texas),48323,2019,78.08921777
+Medina County (Texas),48325,2019,78.54647071
+Menard County (Texas),48327,2019,77.80287966
+Midland County (Texas),48329,2019,78.63964748
+Milam County (Texas),48331,2019,76.52314705
+Mills County (Texas),48333,2019,77.22567999
+Mitchell County (Texas),48335,2019,75.21481249
+Montague County (Texas),48337,2019,74.6986097
+Montgomery County (Texas),48339,2019,79.70108285
+Moore County (Texas),48341,2019,77.72236926
+Morris County (Texas),48343,2019,74.22086732
+Motley County (Texas),48345,2019,76.69869216
+Nacogdoches County (Texas),48347,2019,76.89157178
+Navarro County (Texas),48349,2019,75.67346772
+Newton County (Texas),48351,2019,75.45260972
+Nolan County (Texas),48353,2019,75.06037089
+Nueces County (Texas),48355,2019,78.11443944
+Ochiltree County (Texas),48357,2019,76.17274932
+Oldham County (Texas),48359,2019,77.64770143
+Orange County (Texas),48361,2019,74.27655628
+Palo Pinto County (Texas),48363,2019,75.81290653
+Panola County (Texas),48365,2019,75.62187547
+Parker County (Texas),48367,2019,78.14079489
+Parmer County (Texas),48369,2019,78.6350013
+Pecos County (Texas),48371,2019,77.58490138
+Polk County (Texas),48373,2019,72.91738328
+Potter County (Texas),48375,2019,73.64478996
+Presidio County (Texas),48377,2019,85.25431003
+Rains County (Texas),48379,2019,76.77731275
+Randall County (Texas),48381,2019,79.00634679
+Reagan County (Texas),48383,2019,76.87422961
+Real County (Texas),48385,2019,76.27775421
+Red River County (Texas),48387,2019,74.37652153
+Reeves County (Texas),48389,2019,77.49156109
+Refugio County (Texas),48391,2019,76.27334068
+Robertson County (Texas),48395,2019,76.40671478
+Rockwall County (Texas),48397,2019,80.53680976
+Runnels County (Texas),48399,2019,76.27330657
+Rusk County (Texas),48401,2019,76.64944309
+Sabine County (Texas),48403,2019,75.7334078
+San Augustine County (Texas),48405,2019,74.88018053
+San Jacinto County (Texas),48407,2019,76.33132266
+San Patricio County (Texas),48409,2019,76.03013946
+San Saba County (Texas),48411,2019,77.80825835
+Schleicher County (Texas),48413,2019,76.93175453
+Scurry County (Texas),48415,2019,76.61109782
+Shackelford County (Texas),48417,2019,78.19748545
+Shelby County (Texas),48419,2019,74.540782
+Sherman County (Texas),48421,2019,77.43935746
+Smith County (Texas),48423,2019,78.10135929
+Somervell County (Texas),48425,2019,77.60631342
+Starr County (Texas),48427,2019,78.16715669
+Stephens County (Texas),48429,2019,76.28773077
+Sterling County (Texas),48431,2019,76.67824219
+Stonewall County (Texas),48433,2019,76.53200447
+Sutton County (Texas),48435,2019,78.27953815
+Swisher County (Texas),48437,2019,76.54332306
+Tarrant County (Texas),48439,2019,79.16292873
+Taylor County (Texas),48441,2019,75.5596119
+Terry County (Texas),48445,2019,75.37595161
+Throckmorton County (Texas),48447,2019,77.09232265
+Titus County (Texas),48449,2019,76.58178771
+Tom Green County (Texas),48451,2019,77.70922204
+Travis County (Texas),48453,2019,81.68054979
+Trinity County (Texas),48455,2019,74.63691104
+Tyler County (Texas),48457,2019,75.64292668
+Upshur County (Texas),48459,2019,75.59389048
+Upton County (Texas),48461,2019,76.71544086
+Uvalde County (Texas),48463,2019,77.70978303
+Val Verde County (Texas),48465,2019,78.53177072
+Van Zandt County (Texas),48467,2019,76.54510872
+Victoria County (Texas),48469,2019,78.01099529
+Walker County (Texas),48471,2019,78.47342961
+Waller County (Texas),48473,2019,79.02729956
+Ward County (Texas),48475,2019,75.62234147
+Washington County (Texas),48477,2019,79.90680271
+Webb County (Texas),48479,2019,79.87316564
+Wharton County (Texas),48481,2019,77.36170288
+Wheeler County (Texas),48483,2019,75.17454539
+Wichita County (Texas),48485,2019,75.65912981
+Wilbarger County (Texas),48487,2019,75.04026667
+Willacy County (Texas),48489,2019,78.06310412
+Williamson County (Texas),48491,2019,81.72589916
+Wilson County (Texas),48493,2019,79.0546316
+Winkler County (Texas),48495,2019,74.10322443
+Wise County (Texas),48497,2019,76.80727651
+Wood County (Texas),48499,2019,76.34331523
+Yoakum County (Texas),48501,2019,77.3714947
+Young County (Texas),48503,2019,75.00080706
+Zapata County (Texas),48505,2019,78.48558675
+Zavala County (Texas),48507,2019,76.41903393
+Beaver County (Utah),49001,2019,76.96555565
+Box Elder County (Utah),49003,2019,79.0700185
+Cache County (Utah),49005,2019,81.57523202
+Carbon County (Utah),49007,2019,75.88595444
+Daggett County (Utah),49009,2019,79.44921389
+Davis County (Utah),49011,2019,80.54331345
+Duchesne County (Utah),49013,2019,76.59198794
+Emery County (Utah),49015,2019,77.01708674
+Garfield County (Utah),49017,2019,79.6058019
+Grand County (Utah),49019,2019,78.54983866
+Iron County (Utah),49021,2019,79.16752773
+Juab County (Utah),49023,2019,78.10900008
+Kane County (Utah),49025,2019,78.64872995
+Millard County (Utah),49027,2019,80.09452001
+Morgan County (Utah),49029,2019,81.44966631
+Piute County (Utah),49031,2019,78.16524876
+Rich County (Utah),49033,2019,81.83907946
+Salt Lake County (Utah),49035,2019,79.71398534
+San Juan County (Utah),49037,2019,78.20403617
+Sanpete County (Utah),49039,2019,79.1396825
+Sevier County (Utah),49041,2019,77.23309117
+Summit County (Utah),49043,2019,83.66338378
+Tooele County (Utah),49045,2019,78.29320355
+Uintah County (Utah),49047,2019,76.69114159
+Utah County (Utah),49049,2019,80.59619569
+Wasatch County (Utah),49051,2019,81.70643129
+Washington County (Utah),49053,2019,81.90316671
+Wayne County (Utah),49055,2019,78.71837715
+Weber County (Utah),49057,2019,78.21647649
+Addison County (Vermont),50001,2019,80.97730689
+Bennington County (Vermont),50003,2019,78.78946701
+Caledonia County (Vermont),50005,2019,79.04364763
+Chittenden County (Vermont),50007,2019,82.00729129
+Essex County (Vermont),50009,2019,78.69717682
+Franklin County (Vermont),50011,2019,78.80492926
+Grand Isle County (Vermont),50013,2019,80.61683898
+Lamoille County (Vermont),50015,2019,80.35901904
+Orange County (Vermont),50017,2019,79.63422101
+Orleans County (Vermont),50019,2019,78.25797506
+Rutland County (Vermont),50021,2019,78.15886652
+Washington County (Vermont),50023,2019,80.53968876
+Windham County (Vermont),50025,2019,79.398505
+Windsor County (Vermont),50027,2019,80.06461966
+Accomack County (Virginia),51001,2019,75.80951711
+Amelia County (Virginia),51007,2019,76.1974677
+Amherst County (Virginia),51009,2019,77.68717946
+Appomattox County (Virginia),51011,2019,77.33581141
+Arlington County (Virginia),51013,2019,85.35463422
+Bath County (Virginia),51017,2019,75.99529638
+Bland County (Virginia),51021,2019,75.67006993
+Botetourt County (Virginia),51023,2019,79.33405597
+Brunswick County (Virginia),51025,2019,75.39648571
+Buchanan County (Virginia),51027,2019,73.37875505
+Buckingham County (Virginia),51029,2019,77.68217306
+Campbell County (Virginia),51031,2019,78.54826046
+Caroline County (Virginia),51033,2019,77.34774182
+Carroll County (Virginia),51035,2019,77.26870133
+Charles City County (Virginia),51036,2019,76.48499177
+Charlotte County (Virginia),51037,2019,74.97813108
+Chesterfield County (Virginia),51041,2019,79.12400685
+Clarke County (Virginia),51043,2019,79.0117194
+Craig County (Virginia),51045,2019,78.49342204
+Culpeper County (Virginia),51047,2019,78.08868117
+Cumberland County (Virginia),51049,2019,78.8920728
+Dickenson County (Virginia),51051,2019,73.07420729
+Dinwiddie County (Virginia),51053,2019,76.99031586
+Essex County (Virginia),51057,2019,76.44994516
+Fauquier County (Virginia),51061,2019,79.8760033
+Floyd County (Virginia),51063,2019,79.40220883
+Fluvanna County (Virginia),51065,2019,80.88161163
+Franklin County (Virginia),51067,2019,78.46084831
+Frederick County (Virginia),51069,2019,79.64769774
+Giles County (Virginia),51071,2019,75.32216061
+Gloucester County (Virginia),51073,2019,77.15456123
+Goochland County (Virginia),51075,2019,80.303669
+Grayson County (Virginia),51077,2019,76.47104206
+Greene County (Virginia),51079,2019,79.40858891
+Hanover County (Virginia),51085,2019,79.56640553
+Henrico County (Virginia),51087,2019,79.19732266
+Henry County (Virginia),51089,2019,75.5299406
+Highland County (Virginia),51091,2019,79.59674795
+Isle of Wight County (Virginia),51093,2019,78.80672516
+King and Queen County (Virginia),51097,2019,77.27641024
+King George County (Virginia),51099,2019,78.90455807
+King William County (Virginia),51101,2019,76.98745578
+Lancaster County (Virginia),51103,2019,77.14093819
+Lee County (Virginia),51105,2019,74.57535953
+Loudoun County (Virginia),51107,2019,84.41038378
+Louisa County (Virginia),51109,2019,78.4121655
+Lunenburg County (Virginia),51111,2019,75.74680601
+Madison County (Virginia),51113,2019,78.50415949
+Mathews County (Virginia),51115,2019,78.88960693
+Mecklenburg County (Virginia),51117,2019,75.51033514
+Middlesex County (Virginia),51119,2019,76.87807103
+Montgomery County (Virginia),51121,2019,80.15158097
+Nelson County (Virginia),51125,2019,78.23657904
+New Kent County (Virginia),51127,2019,78.83735273
+Northampton County (Virginia),51131,2019,75.88063726
+Northumberland County (Virginia),51133,2019,79.57630161
+Nottoway County (Virginia),51135,2019,74.71056072
+Orange County (Virginia),51137,2019,77.75261346
+Page County (Virginia),51139,2019,76.91469404
+Patrick County (Virginia),51141,2019,76.28068314
+Powhatan County (Virginia),51145,2019,80.36059478
+Prince Edward County (Virginia),51147,2019,77.15008245
+Prince George County (Virginia),51149,2019,79.9263099
+Pulaski County (Virginia),51155,2019,75.88253439
+Rappahannock County (Virginia),51157,2019,80.47559492
+Richmond County (Virginia),51159,2019,76.56133587
+Roanoke County (Virginia),51161,2019,79.39767595
+Russell County (Virginia),51167,2019,74.82736365
+Scott County (Virginia),51169,2019,75.41437904
+Shenandoah County (Virginia),51171,2019,78.51131394
+Smyth County (Virginia),51173,2019,74.47003062
+Stafford County (Virginia),51179,2019,80.24356072
+Surry County (Virginia),51181,2019,77.28216185
+Sussex County (Virginia),51183,2019,74.69540447
+Tazewell County (Virginia),51185,2019,73.55144066
+Warren County (Virginia),51187,2019,76.74534401
+Washington County (Virginia),51191,2019,77.07504973
+Westmoreland County (Virginia),51193,2019,76.94761261
+Wise County (Virginia),51195,2019,73.32181558
+Wythe County (Virginia),51197,2019,75.55041783
+Alexandria City (Virginia),51510,2019,83.87409223
+Bristol City (Virginia),51520,2019,73.39547073
+Chesapeake City (Virginia),51550,2019,78.46784262
+Colonial Heights City (Virginia),51570,2019,74.53299129
+Covington City (Virginia),51580,2019,71.13505958
+Falls Church City (Virginia),51610,2019,81.92979893
+Galax City (Virginia),51640,2019,69.69069183
+Hampton City (Virginia),51650,2019,76.73040012
+Hopewell City (Virginia),51670,2019,71.22594466
+Lexington City (Virginia),51678,2019,76.41064771
+Lynchburg City (Virginia),51680,2019,76.65132018
+Martinsville City (Virginia),51690,2019,67.61585267
+Norfolk City (Virginia),51710,2019,75.52303726
+Norton City (Virginia),51720,2019,74.05972766
+Petersburg City (Virginia),51730,2019,68.54233818
+Poquoson City (Virginia),51735,2019,79.67891721
+Portsmouth City (Virginia),51740,2019,74.1070365
+Radford City (Virginia),51750,2019,77.10608373
+Richmond City (Virginia),51760,2019,77.51059061
+Roanoke City (Virginia),51770,2019,74.18074763
+Salem City (Virginia),51775,2019,75.24358189
+Suffolk City (Virginia),51800,2019,77.79911268
+Virginia Beach City (Virginia),51810,2019,80.39752305
+Winchester City (Virginia),51840,2019,77.96567833
+Fairfax County (Virginia),51059,2019,85.18242381
+Fairfax City (Virginia),51600,2019,85.18242381
+Rockingham County (Virginia),51165,2019,80.62196484
+Harrisonburg City (Virginia),51660,2019,80.62196484
+James City County (Virginia),51095,2019,81.75194764
+Williamsburg City (Virginia),51830,2019,81.75194764
+Prince William County (Virginia),51153,2019,81.94311904
+Manassas City (Virginia),51683,2019,81.94311904
+Manassas Park City (Virginia),51685,2019,81.94311904
+Rockbridge County (Virginia),51163,2019,78.93032653
+Buena Vista City (Virginia),51530,2019,78.93032653
+Spotsylvania County (Virginia),51177,2019,79.36860066
+Fredericksburg City (Virginia),51630,2019,79.36860066
+Augusta County (Virginia),51015,2019,78.29680508
+Staunton City (Virginia),51790,2019,78.29680508
+Waynesboro City (Virginia),51820,2019,78.29680508
+Pittsylvania County (Virginia),51143,2019,74.9463177
+Danville City (Virginia),51590,2019,74.9463177
+Greensville County (Virginia),51081,2019,73.96520697
+Emporia City (Virginia),51595,2019,73.96520697
+Albemarle County (Virginia),51003,2019,81.73336542
+Charlottesville City (Virginia),51540,2019,81.73336542
+Bedford County (Virginia),51019,2019,79.03472405
+Bedford City (Virginia),51515,2019,79.03472405
+Halifax County (Virginia),51083,2019,75.43188535
+South Boston City (Virginia),51780,2019,75.43188535
+Southampton County (Virginia),51175,2019,76.11165144
+Franklin City (Virginia),51620,2019,76.11165144
+Alleghany County (Virginia),51005,2019,75.61714717
+Clifton Forge City (Virginia),51560,2019,75.61714717
+York County (Virginia),51199,2019,77.98970542
+Newport News City (Virginia),51700,2019,77.98970542
+Adams County (Washington),53001,2019,79.37606408
+Asotin County (Washington),53003,2019,79.4516151
+Benton County (Washington),53005,2019,80.48914283
+Chelan County (Washington),53007,2019,80.63876699
+Clallam County (Washington),53009,2019,78.88940059
+Clark County (Washington),53011,2019,80.132101
+Columbia County (Washington),53013,2019,80.10505545
+Cowlitz County (Washington),53015,2019,77.2294385
+Douglas County (Washington),53017,2019,81.78340917
+Ferry County (Washington),53019,2019,78.51582281
+Franklin County (Washington),53021,2019,81.09368877
+Garfield County (Washington),53023,2019,81.04555563
+Grant County (Washington),53025,2019,79.45591765
+Grays Harbor County (Washington),53027,2019,77.21138608
+Island County (Washington),53029,2019,81.72275805
+Jefferson County (Washington),53031,2019,81.84944981
+King County (Washington),53033,2019,82.5215831
+Kitsap County (Washington),53035,2019,80.14976971
+Kittitas County (Washington),53037,2019,81.71748759
+Klickitat County (Washington),53039,2019,82.05704502
+Lewis County (Washington),53041,2019,77.87271146
+Lincoln County (Washington),53043,2019,80.84632076
+Mason County (Washington),53045,2019,78.69468969
+Okanogan County (Washington),53047,2019,78.41750936
+Pacific County (Washington),53049,2019,77.28702381
+Pend Oreille County (Washington),53051,2019,78.43544063
+Pierce County (Washington),53053,2019,79.11636698
+San Juan County (Washington),53055,2019,84.85798398
+Skagit County (Washington),53057,2019,80.11768687
+Skamania County (Washington),53059,2019,81.76967273
+Snohomish County (Washington),53061,2019,80.5364912
+Spokane County (Washington),53063,2019,78.76933452
+Stevens County (Washington),53065,2019,79.004857
+Thurston County (Washington),53067,2019,80.34782596
+Wahkiakum County (Washington),53069,2019,80.2386602
+Walla Walla County (Washington),53071,2019,80.17449604
+Whatcom County (Washington),53073,2019,81.2455757
+Whitman County (Washington),53075,2019,81.01852532
+Yakima County (Washington),53077,2019,78.11996629
+Barbour County (West Virginia),54001,2019,76.44745439
+Berkeley County (West Virginia),54003,2019,75.90533206
+Boone County (West Virginia),54005,2019,71.51971249
+Braxton County (West Virginia),54007,2019,76.04509893
+Brooke County (West Virginia),54009,2019,75.82184794
+Cabell County (West Virginia),54011,2019,72.3261041
+Calhoun County (West Virginia),54013,2019,76.29384642
+Clay County (West Virginia),54015,2019,73.70531354
+Doddridge County (West Virginia),54017,2019,78.38851306
+Fayette County (West Virginia),54019,2019,73.15821899
+Gilmer County (West Virginia),54021,2019,76.77215617
+Grant County (West Virginia),54023,2019,78.20812839
+Greenbrier County (West Virginia),54025,2019,75.49806161
+Hampshire County (West Virginia),54027,2019,77.0978943
+Hancock County (West Virginia),54029,2019,75.28898375
+Hardy County (West Virginia),54031,2019,77.64485242
+Harrison County (West Virginia),54033,2019,75.41498894
+Jackson County (West Virginia),54035,2019,75.94208987
+Jefferson County (West Virginia),54037,2019,78.10570937
+Kanawha County (West Virginia),54039,2019,73.80042016
+Lewis County (West Virginia),54041,2019,73.73286658
+Lincoln County (West Virginia),54043,2019,72.07090232
+Logan County (West Virginia),54045,2019,70.00866884
+McDowell County (West Virginia),54047,2019,68.59857222
+Marion County (West Virginia),54049,2019,76.28217221
+Marshall County (West Virginia),54051,2019,76.91636835
+Mason County (West Virginia),54053,2019,74.08538354
+Mercer County (West Virginia),54055,2019,73.17771976
+Mineral County (West Virginia),54057,2019,76.39319332
+Mingo County (West Virginia),54059,2019,70.30400765
+Monongalia County (West Virginia),54061,2019,79.63724148
+Monroe County (West Virginia),54063,2019,76.35634645
+Morgan County (West Virginia),54065,2019,76.21483475
+Nicholas County (West Virginia),54067,2019,74.13356363
+Ohio County (West Virginia),54069,2019,76.44744728
+Pendleton County (West Virginia),54071,2019,78.86383048
+Pleasants County (West Virginia),54073,2019,75.48505364
+Pocahontas County (West Virginia),54075,2019,76.84589877
+Preston County (West Virginia),54077,2019,77.26739462
+Putnam County (West Virginia),54079,2019,76.46475639
+Raleigh County (West Virginia),54081,2019,72.98065378
+Randolph County (West Virginia),54083,2019,76.30952196
+Ritchie County (West Virginia),54085,2019,76.3258275
+Roane County (West Virginia),54087,2019,73.92353767
+Summers County (West Virginia),54089,2019,74.6640948
+Taylor County (West Virginia),54091,2019,76.840519
+Tucker County (West Virginia),54093,2019,77.72526325
+Tyler County (West Virginia),54095,2019,76.54169095
+Upshur County (West Virginia),54097,2019,77.01891654
+Wayne County (West Virginia),54099,2019,74.91693786
+Webster County (West Virginia),54101,2019,74.28852272
+Wetzel County (West Virginia),54103,2019,75.80544536
+Wirt County (West Virginia),54105,2019,75.90391123
+Wood County (West Virginia),54107,2019,75.59981801
+Wyoming County (West Virginia),54109,2019,71.2373952
+Adams County (Wisconsin),55001,2019,77.94218396
+Ashland County (Wisconsin),55003,2019,76.76993873
+Barron County (Wisconsin),55005,2019,79.31869436
+Bayfield County (Wisconsin),55007,2019,80.35230795
+Brown County (Wisconsin),55009,2019,79.92744179
+Buffalo County (Wisconsin),55011,2019,80.29773736
+Burnett County (Wisconsin),55013,2019,79.39212468
+Calumet County (Wisconsin),55015,2019,80.47233905
+Chippewa County (Wisconsin),55017,2019,79.46533136
+Clark County (Wisconsin),55019,2019,78.84123263
+Columbia County (Wisconsin),55021,2019,79.0156032
+Crawford County (Wisconsin),55023,2019,79.66926084
+Dane County (Wisconsin),55025,2019,81.94138637
+Dodge County (Wisconsin),55027,2019,78.66335505
+Door County (Wisconsin),55029,2019,80.7035541
+Douglas County (Wisconsin),55031,2019,78.86176407
+Dunn County (Wisconsin),55033,2019,80.86416267
+Eau Claire County (Wisconsin),55035,2019,79.81715066
+Florence County (Wisconsin),55037,2019,77.65783842
+Fond du Lac County (Wisconsin),55039,2019,80.32445222
+Forest County (Wisconsin),55041,2019,77.05796808
+Grant County (Wisconsin),55043,2019,79.74393256
+Green County (Wisconsin),55045,2019,80.24151372
+Green Lake County (Wisconsin),55047,2019,78.52453321
+Iowa County (Wisconsin),55049,2019,80.22425495
+Iron County (Wisconsin),55051,2019,78.6463551
+Jackson County (Wisconsin),55053,2019,78.18781355
+Jefferson County (Wisconsin),55055,2019,80.10456443
+Juneau County (Wisconsin),55057,2019,77.84161014
+Kenosha County (Wisconsin),55059,2019,78.28384947
+Kewaunee County (Wisconsin),55061,2019,81.71006195
+La Crosse County (Wisconsin),55063,2019,80.25160931
+Lafayette County (Wisconsin),55065,2019,81.0716639
+Langlade County (Wisconsin),55067,2019,78.94164458
+Lincoln County (Wisconsin),55069,2019,78.86818728
+Manitowoc County (Wisconsin),55071,2019,79.30549102
+Marathon County (Wisconsin),55073,2019,80.33099112
+Marinette County (Wisconsin),55075,2019,77.86817941
+Marquette County (Wisconsin),55077,2019,78.25513744
+Menominee County (Wisconsin),55078,2019,72.95719256
+Milwaukee County (Wisconsin),55079,2019,77.134805
+Monroe County (Wisconsin),55081,2019,78.65036721
+Oconto County (Wisconsin),55083,2019,79.04316229
+Oneida County (Wisconsin),55085,2019,78.99406862
+Outagamie County (Wisconsin),55087,2019,79.99197223
+Ozaukee County (Wisconsin),55089,2019,82.02519298
+Pepin County (Wisconsin),55091,2019,81.29532433
+Pierce County (Wisconsin),55093,2019,81.1487943
+Polk County (Wisconsin),55095,2019,79.16301215
+Portage County (Wisconsin),55097,2019,81.23902146
+Price County (Wisconsin),55099,2019,78.29889754
+Racine County (Wisconsin),55101,2019,78.30660998
+Richland County (Wisconsin),55103,2019,80.48104962
+Rock County (Wisconsin),55105,2019,78.45556626
+Rusk County (Wisconsin),55107,2019,78.2137396
+Saint Croix County (Wisconsin),55109,2019,80.72863775
+Sauk County (Wisconsin),55111,2019,79.18751069
+Sawyer County (Wisconsin),55113,2019,77.5719402
+Shawano County (Wisconsin),55115,2019,78.6415756
+Sheboygan County (Wisconsin),55117,2019,79.54463063
+Taylor County (Wisconsin),55119,2019,80.85549992
+Trempealeau County (Wisconsin),55121,2019,79.32880779
+Vernon County (Wisconsin),55123,2019,80.1482713
+Vilas County (Wisconsin),55125,2019,78.80615715
+Walworth County (Wisconsin),55127,2019,79.46765444
+Washburn County (Wisconsin),55129,2019,78.53372417
+Washington County (Wisconsin),55131,2019,80.89268492
+Waukesha County (Wisconsin),55133,2019,81.76729004
+Waupaca County (Wisconsin),55135,2019,77.68781433
+Waushara County (Wisconsin),55137,2019,78.96310562
+Winnebago County (Wisconsin),55139,2019,79.840928
+Wood County (Wisconsin),55141,2019,79.51363394
+Albany County (Wyoming),56001,2019,81.06576765
+Big Horn County (Wyoming),56003,2019,76.37718219
+Campbell County (Wyoming),56005,2019,78.16525996
+Carbon County (Wyoming),56007,2019,77.81009741
+Converse County (Wyoming),56009,2019,78.22076811
+Crook County (Wyoming),56011,2019,79.99864547
+Fremont County (Wyoming),56013,2019,75.23823915
+Goshen County (Wyoming),56015,2019,79.64056435
+Hot Springs County (Wyoming),56017,2019,76.13473452
+Johnson County (Wyoming),56019,2019,79.40179397
+Laramie County (Wyoming),56021,2019,78.57321986
+Lincoln County (Wyoming),56023,2019,80.03928128
+Natrona County (Wyoming),56025,2019,77.48074413
+Niobrara County (Wyoming),56027,2019,78.06003676
+Park County (Wyoming),56029,2019,80.4347382
+Platte County (Wyoming),56031,2019,78.58680778
+Sheridan County (Wyoming),56033,2019,78.36223223
+Sublette County (Wyoming),56035,2019,82.2058911
+Sweetwater County (Wyoming),56037,2019,78.01889197
+Teton County (Wyoming),56039,2019,85.63814949
+Uinta County (Wyoming),56041,2019,77.52169072
+Washakie County (Wyoming),56043,2019,78.13715839
+Weston County (Wyoming),56045,2019,79.18993408

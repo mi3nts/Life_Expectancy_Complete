@@ -1,0 +1,3128 @@
+location_name,fips,year,MeanLifeExpectency
+Autauga County (Alabama),1001,2004,74.88525238
+Baldwin County (Alabama),1003,2004,76.94613119
+Barbour County (Alabama),1005,2004,74.38067939
+Bibb County (Alabama),1007,2004,73.34336265
+Blount County (Alabama),1009,2004,75.27872178
+Bullock County (Alabama),1011,2004,72.56450065
+Butler County (Alabama),1013,2004,72.98604486
+Calhoun County (Alabama),1015,2004,73.32291475
+Chambers County (Alabama),1017,2004,73.52875418
+Cherokee County (Alabama),1019,2004,74.56241174
+Chilton County (Alabama),1021,2004,73.63831935
+Choctaw County (Alabama),1023,2004,74.28804451
+Clarke County (Alabama),1025,2004,74.867918
+Clay County (Alabama),1027,2004,74.38331612
+Cleburne County (Alabama),1029,2004,73.7506011
+Coffee County (Alabama),1031,2004,75.90641774
+Colbert County (Alabama),1033,2004,74.83407118
+Conecuh County (Alabama),1035,2004,73.49969244
+Coosa County (Alabama),1037,2004,74.52007274
+Covington County (Alabama),1039,2004,74.29051698
+Crenshaw County (Alabama),1041,2004,73.8106513
+Cullman County (Alabama),1043,2004,74.58818837
+Dale County (Alabama),1045,2004,75.28641791
+Dallas County (Alabama),1047,2004,71.86349932
+DeKalb County (Alabama),1049,2004,74.8502164
+Elmore County (Alabama),1051,2004,75.42160098
+Escambia County (Alabama),1053,2004,73.63119581
+Etowah County (Alabama),1055,2004,73.17623034
+Fayette County (Alabama),1057,2004,73.87082377
+Franklin County (Alabama),1059,2004,73.32687263
+Geneva County (Alabama),1061,2004,74.70591027
+Greene County (Alabama),1063,2004,73.67471107
+Hale County (Alabama),1065,2004,72.74196899
+Henry County (Alabama),1067,2004,74.59799307
+Houston County (Alabama),1069,2004,75.88038852
+Jackson County (Alabama),1071,2004,73.78654256
+Jefferson County (Alabama),1073,2004,73.79608765
+Lamar County (Alabama),1075,2004,74.07610472
+Lauderdale County (Alabama),1077,2004,76.23652139
+Lawrence County (Alabama),1079,2004,73.82451408
+Lee County (Alabama),1081,2004,76.20281069
+Limestone County (Alabama),1083,2004,76.00991431
+Lowndes County (Alabama),1085,2004,71.80842061
+Macon County (Alabama),1087,2004,72.27043657
+Madison County (Alabama),1089,2004,76.6947259
+Marengo County (Alabama),1091,2004,73.83093794
+Marion County (Alabama),1093,2004,74.02734115
+Marshall County (Alabama),1095,2004,74.09464221
+Mobile County (Alabama),1097,2004,73.8962535
+Monroe County (Alabama),1099,2004,74.55603329
+Montgomery County (Alabama),1101,2004,74.83584098
+Morgan County (Alabama),1103,2004,75.32305915
+Perry County (Alabama),1105,2004,71.72380551
+Pickens County (Alabama),1107,2004,73.81811835
+Pike County (Alabama),1109,2004,74.10673701
+Randolph County (Alabama),1111,2004,73.90546046
+Russell County (Alabama),1113,2004,72.44382396
+Saint Clair County (Alabama),1115,2004,74.28499173
+Shelby County (Alabama),1117,2004,77.91201292
+Sumter County (Alabama),1119,2004,73.87044337
+Talladega County (Alabama),1121,2004,73.33516621
+Tallapoosa County (Alabama),1123,2004,74.35712701
+Tuscaloosa County (Alabama),1125,2004,74.90192463
+Walker County (Alabama),1127,2004,71.05008906
+Washington County (Alabama),1129,2004,74.5813909
+Wilcox County (Alabama),1131,2004,72.3099146
+Winston County (Alabama),1133,2004,73.71972228
+Anchorage Municipality (Alaska),2020,2004,78.02059987
+Bethel Census Area (Alaska),2050,2004,72.64575071
+Bristol Bay Borough (Alaska),2060,2004,73.93029521
+Fairbanks North Star Borough (Alaska),2090,2004,78.1386091
+Haines Borough (Alaska),2100,2004,78.70527443
+Juneau City and Borough (Alaska),2110,2004,78.88844825
+Kenai Peninsula Borough (Alaska),2122,2004,76.89333094
+Kodiak Island Borough (Alaska),2150,2004,77.99003857
+Matanuska-Susitna Borough (Alaska),2170,2004,76.97552769
+Nome Census Area (Alaska),2180,2004,70.93752312
+North Slope Borough (Alaska),2185,2004,74.74557689
+Sitka City and Borough (Alaska),2220,2004,78.39788205
+Southeast Fairbanks Census Area (Alaska),2240,2004,76.44001774
+Chugach Census Area (Alaska),2063,2004,76.55987729
+Copper River Census Area (Alaska),2066,2004,76.55987729
+Valdez-Cordova Census Area (Alaska),2261,2004,76.55987729
+Kusilvak Census Area (Alaska),2158,2004,70.0223605
+Wade Hampton Census Area (Alaska),2270,2004,70.0223605
+Kobuk Census Area (Alaska),2140,2004,72.54117497
+Northwest Arctic Borough (Alaska),2188,2004,72.54117497
+Aleutian Islands Census Area (Alaska),2010,2004,80.60888566
+Aleutians East Borough (Alaska),2013,2004,80.60888566
+Aleutians West Census Area (Alaska),2016,2004,80.60888566
+Dillingham Census Area (Alaska),2070,2004,72.96102628
+Lake and Peninsula Borough (Alaska),2164,2004,72.96102628
+Denali Borough (Alaska),2068,2004,73.02127331
+Yukon-Koyukuk Census Area (Alaska),2290,2004,73.02127331
+Hoonah-Angoon Census Area (Alaska),2105,2004,78.92503311
+Skagway Municipality (Alaska),2230,2004,78.92503311
+Skagway-Yakutat-Angoon Census Area (Alaska),2231,2004,78.92503311
+Skagway-Hoonah-Angoon Census Area (Alaska),2232,2004,78.92503311
+Yakutat City and Borough (Alaska),2282,2004,78.92503311
+Ketchikan Gateway Borough (Alaska),2130,2004,76.73283588
+Petersburg Borough (Alaska),2195,2004,76.73283588
+Prince of Wales-Hyder Census Area (Alaska),2198,2004,76.73283588
+Prince of Wales-Outer Ketchikan Census Area (Alaska),2201,2004,76.73283588
+Wrangell City and Borough (Alaska),2275,2004,76.73283588
+Wrangell-Petersburg Census Area (Alaska),2280,2004,76.73283588
+Apache County (Arizona),4001,2004,73.3320988
+Cochise County (Arizona),4003,2004,77.2876645
+Coconino County (Arizona),4005,2004,78.30194085
+Gila County (Arizona),4007,2004,74.57605481
+Graham County (Arizona),4009,2004,76.2588616
+Greenlee County (Arizona),4011,2004,77.5353597
+Maricopa County (Arizona),4013,2004,78.39617303
+Mohave County (Arizona),4015,2004,74.64031191
+Navajo County (Arizona),4017,2004,74.32152271
+Pima County (Arizona),4019,2004,77.78511247
+Pinal County (Arizona),4021,2004,77.91128464
+Santa Cruz County (Arizona),4023,2004,80.52624222
+Yavapai County (Arizona),4025,2004,77.97351466
+La Paz County (Arizona),4012,2004,80.10431071
+Yuma County (Arizona),4027,2004,80.10431071
+Arkansas County (Arkansas),5001,2004,73.60565447
+Ashley County (Arkansas),5003,2004,74.1537268
+Baxter County (Arkansas),5005,2004,75.78525823
+Benton County (Arkansas),5007,2004,79.08482901
+Boone County (Arkansas),5009,2004,76.62646467
+Bradley County (Arkansas),5011,2004,73.6965999
+Calhoun County (Arkansas),5013,2004,75.03293983
+Carroll County (Arkansas),5015,2004,76.88633606
+Chicot County (Arkansas),5017,2004,73.03581691
+Clark County (Arkansas),5019,2004,75.49865288
+Clay County (Arkansas),5021,2004,74.13575622
+Cleburne County (Arkansas),5023,2004,76.46980558
+Cleveland County (Arkansas),5025,2004,74.91094558
+Columbia County (Arkansas),5027,2004,74.43665596
+Conway County (Arkansas),5029,2004,75.44051056
+Craighead County (Arkansas),5031,2004,75.15191889
+Crawford County (Arkansas),5033,2004,75.16199881
+Crittenden County (Arkansas),5035,2004,71.79596473
+Cross County (Arkansas),5037,2004,73.37703628
+Dallas County (Arkansas),5039,2004,73.63963914
+Desha County (Arkansas),5041,2004,73.00042941
+Drew County (Arkansas),5043,2004,75.15318849
+Faulkner County (Arkansas),5045,2004,76.84176346
+Franklin County (Arkansas),5047,2004,75.62872277
+Fulton County (Arkansas),5049,2004,75.27889688
+Garland County (Arkansas),5051,2004,74.90732452
+Grant County (Arkansas),5053,2004,75.24359321
+Greene County (Arkansas),5055,2004,74.64824867
+Hempstead County (Arkansas),5057,2004,74.84670224
+Hot Spring County (Arkansas),5059,2004,75.22325996
+Howard County (Arkansas),5061,2004,74.20122001
+Independence County (Arkansas),5063,2004,75.40220606
+Izard County (Arkansas),5065,2004,75.40938777
+Jackson County (Arkansas),5067,2004,73.62657159
+Jefferson County (Arkansas),5069,2004,73.69641272
+Johnson County (Arkansas),5071,2004,75.97876099
+Lafayette County (Arkansas),5073,2004,73.71657899
+Lawrence County (Arkansas),5075,2004,74.54018774
+Lee County (Arkansas),5077,2004,73.13205682
+Lincoln County (Arkansas),5079,2004,75.54587728
+Little River County (Arkansas),5081,2004,74.41101979
+Logan County (Arkansas),5083,2004,74.81627554
+Lonoke County (Arkansas),5085,2004,75.2451353
+Madison County (Arkansas),5087,2004,75.6269893
+Marion County (Arkansas),5089,2004,76.52596914
+Miller County (Arkansas),5091,2004,75.4521683
+Mississippi County (Arkansas),5093,2004,71.58220524
+Monroe County (Arkansas),5095,2004,72.75985176
+Montgomery County (Arkansas),5097,2004,76.12649515
+Nevada County (Arkansas),5099,2004,74.3376934
+Newton County (Arkansas),5101,2004,76.67726726
+Ouachita County (Arkansas),5103,2004,73.10101733
+Perry County (Arkansas),5105,2004,75.14036313
+Phillips County (Arkansas),5107,2004,70.69137611
+Pike County (Arkansas),5109,2004,75.2997627
+Poinsett County (Arkansas),5111,2004,71.84645494
+Polk County (Arkansas),5113,2004,75.02688388
+Pope County (Arkansas),5115,2004,76.51951759
+Prairie County (Arkansas),5117,2004,75.02200589
+Pulaski County (Arkansas),5119,2004,75.26629331
+Randolph County (Arkansas),5121,2004,75.32738624
+Saint Francis County (Arkansas),5123,2004,72.81989282
+Saline County (Arkansas),5125,2004,77.27777317
+Scott County (Arkansas),5127,2004,75.10362745
+Searcy County (Arkansas),5129,2004,75.78418987
+Sebastian County (Arkansas),5131,2004,75.93633302
+Sevier County (Arkansas),5133,2004,74.64750107
+Sharp County (Arkansas),5135,2004,74.97900545
+Stone County (Arkansas),5137,2004,75.84047284
+Union County (Arkansas),5139,2004,73.23422884
+Van Buren County (Arkansas),5141,2004,76.45744945
+Washington County (Arkansas),5143,2004,77.18222317
+White County (Arkansas),5145,2004,75.4394503
+Woodruff County (Arkansas),5147,2004,72.40305703
+Yell County (Arkansas),5149,2004,74.56464778
+Alameda County (California),6001,2004,79.2121378
+Alpine County (California),6003,2004,77.77977708
+Amador County (California),6005,2004,78.30497943
+Butte County (California),6007,2004,76.89800149
+Calaveras County (California),6009,2004,78.69768579
+Colusa County (California),6011,2004,78.55384521
+Contra Costa County (California),6013,2004,79.59628462
+Del Norte County (California),6015,2004,75.13748589
+El Dorado County (California),6017,2004,79.50817349
+Fresno County (California),6019,2004,77.29362309
+Glenn County (California),6021,2004,76.91630037
+Humboldt County (California),6023,2004,75.85969477
+Imperial County (California),6025,2004,78.52087369
+Inyo County (California),6027,2004,77.36840056
+Kern County (California),6029,2004,75.67529047
+Kings County (California),6031,2004,77.33473987
+Lake County (California),6033,2004,74.40645145
+Lassen County (California),6035,2004,77.58892657
+Los Angeles County (California),6037,2004,79.02576622
+Madera County (California),6039,2004,77.78660224
+Marin County (California),6041,2004,82.02761098
+Mariposa County (California),6043,2004,78.70874982
+Mendocino County (California),6045,2004,77.09946332
+Merced County (California),6047,2004,77.4464789
+Modoc County (California),6049,2004,76.6328717
+Mono County (California),6051,2004,82.9222459
+Monterey County (California),6053,2004,80.14346521
+Napa County (California),6055,2004,79.20811149
+Nevada County (California),6057,2004,79.68690252
+Orange County (California),6059,2004,80.61419842
+Placer County (California),6061,2004,79.88547175
+Plumas County (California),6063,2004,77.6070122
+Riverside County (California),6065,2004,78.02152345
+Sacramento County (California),6067,2004,77.71351261
+San Benito County (California),6069,2004,80.27897967
+San Bernardino County (California),6071,2004,76.31438133
+San Diego County (California),6073,2004,79.38971368
+San Francisco County (California),6075,2004,79.52830718
+San Joaquin County (California),6077,2004,76.86192712
+San Luis Obispo County (California),6079,2004,79.99010663
+San Mateo County (California),6081,2004,81.40528469
+Santa Barbara County (California),6083,2004,80.30899964
+Santa Clara County (California),6085,2004,81.47254195
+Santa Cruz County (California),6087,2004,79.92027535
+Shasta County (California),6089,2004,75.9258156
+Sierra County (California),6091,2004,77.95783084
+Siskiyou County (California),6093,2004,76.52730575
+Solano County (California),6095,2004,78.02450639
+Sonoma County (California),6097,2004,79.417114
+Stanislaus County (California),6099,2004,76.68024296
+Sutter County (California),6101,2004,77.23372452
+Tehama County (California),6103,2004,76.52179932
+Trinity County (California),6105,2004,75.50523891
+Tulare County (California),6107,2004,76.54955107
+Tuolumne County (California),6109,2004,77.85552032
+Ventura County (California),6111,2004,79.91473951
+Yolo County (California),6113,2004,78.79316232
+Yuba County (California),6115,2004,74.65182818
+Alamosa County (Colorado),8003,2004,76.69043784
+Archuleta County (Colorado),8007,2004,80.78761034
+Baca County (Colorado),8009,2004,76.58897137
+Bent County (Colorado),8011,2004,76.05093797
+Chaffee County (Colorado),8015,2004,79.58521066
+Cheyenne County (Colorado),8017,2004,78.27877873
+Clear Creek County (Colorado),8019,2004,80.14321622
+Conejos County (Colorado),8021,2004,76.92006265
+Costilla County (Colorado),8023,2004,76.8650494
+Crowley County (Colorado),8025,2004,77.18071777
+Custer County (Colorado),8027,2004,79.85441041
+Delta County (Colorado),8029,2004,78.26366867
+Dolores County (Colorado),8033,2004,78.00418929
+Douglas County (Colorado),8035,2004,81.90517205
+Eagle County (Colorado),8037,2004,85.33859528
+Elbert County (Colorado),8039,2004,79.82295668
+El Paso County (Colorado),8041,2004,78.48556476
+Fremont County (Colorado),8043,2004,76.59631091
+Garfield County (Colorado),8045,2004,78.80947992
+Gilpin County (Colorado),8047,2004,78.74242689
+Grand County (Colorado),8049,2004,81.04750428
+Gunnison County (Colorado),8051,2004,80.6060305
+Huerfano County (Colorado),8055,2004,75.55223655
+Jackson County (Colorado),8057,2004,78.8768347
+Kiowa County (Colorado),8061,2004,76.96388283
+Kit Carson County (Colorado),8063,2004,78.21600248
+Lake County (Colorado),8065,2004,78.59977983
+La Plata County (Colorado),8067,2004,80.37879239
+Larimer County (Colorado),8069,2004,80.64403722
+Las Animas County (Colorado),8071,2004,76.7172586
+Lincoln County (Colorado),8073,2004,78.4931073
+Logan County (Colorado),8075,2004,78.11353982
+Mesa County (Colorado),8077,2004,77.95490125
+Moffat County (Colorado),8081,2004,76.87825321
+Montezuma County (Colorado),8083,2004,76.04791445
+Montrose County (Colorado),8085,2004,78.56672214
+Morgan County (Colorado),8087,2004,77.51521021
+Otero County (Colorado),8089,2004,75.8002617
+Ouray County (Colorado),8091,2004,81.65207784
+Park County (Colorado),8093,2004,81.30483827
+Phillips County (Colorado),8095,2004,78.83855645
+Pitkin County (Colorado),8097,2004,87.66439486
+Prowers County (Colorado),8099,2004,76.66420353
+Pueblo County (Colorado),8101,2004,76.50032226
+Rio Blanco County (Colorado),8103,2004,78.05334604
+Rio Grande County (Colorado),8105,2004,76.60794754
+Routt County (Colorado),8107,2004,81.19094862
+Saguache County (Colorado),8109,2004,78.56172556
+San Miguel County (Colorado),8113,2004,83.41235031
+Sedgwick County (Colorado),8115,2004,76.61091828
+Summit County (Colorado),8117,2004,87.55697363
+Teller County (Colorado),8119,2004,79.26065121
+Washington County (Colorado),8121,2004,78.91746918
+Yuma County (Colorado),8125,2004,78.09191854
+Adams County (Colorado),8001,2004,78.68637636
+Arapahoe County (Colorado),8005,2004,78.68637636
+Boulder County (Colorado),8013,2004,78.68637636
+Broomfield County (Colorado),8014,2004,78.68637636
+Denver County (Colorado),8031,2004,78.68637636
+Jefferson County (Colorado),8059,2004,78.68637636
+Weld County (Colorado),8123,2004,78.68637636
+Fairfield County (Connecticut),9001,2004,80.3501188
+Hartford County (Connecticut),9003,2004,78.96036495
+Litchfield County (Connecticut),9005,2004,79.52077962
+Middlesex County (Connecticut),9007,2004,80.01062315
+New Haven County (Connecticut),9009,2004,78.72254178
+New London County (Connecticut),9011,2004,78.67835005
+Tolland County (Connecticut),9013,2004,80.38673313
+Windham County (Connecticut),9015,2004,77.6270275
+Kent County (Delaware),10001,2004,76.1726121
+New Castle County (Delaware),10003,2004,77.16727674
+Sussex County (Delaware),10005,2004,77.17241578
+District of Columbia,11001,2004,73.67128663
+Alachua County (Florida),12001,2004,77.38326503
+Baker County (Florida),12003,2004,73.5921273
+Bay County (Florida),12005,2004,75.61395883
+Bradford County (Florida),12007,2004,74.76612634
+Brevard County (Florida),12009,2004,77.73889397
+Broward County (Florida),12011,2004,78.51117165
+Calhoun County (Florida),12013,2004,74.96640377
+Charlotte County (Florida),12015,2004,79.11846953
+Citrus County (Florida),12017,2004,76.21367344
+Clay County (Florida),12019,2004,76.38095133
+Collier County (Florida),12021,2004,81.80837562
+Columbia County (Florida),12023,2004,73.96187067
+Dade County (Florida),12025,2004,78.60992572
+Miami-Dade County (Florida),12086,2004,78.60992572
+DeSoto County (Florida),12027,2004,78.20877279
+Dixie County (Florida),12029,2004,73.94135969
+Duval County (Florida),12031,2004,74.70775256
+Escambia County (Florida),12033,2004,75.3091487
+Flagler County (Florida),12035,2004,79.19511439
+Franklin County (Florida),12037,2004,75.8248886
+Gadsden County (Florida),12039,2004,73.8711124
+Gilchrist County (Florida),12041,2004,75.18411314
+Glades County (Florida),12043,2004,78.65030466
+Gulf County (Florida),12045,2004,75.76746402
+Hamilton County (Florida),12047,2004,74.36959045
+Hardee County (Florida),12049,2004,77.31049152
+Hendry County (Florida),12051,2004,75.22013971
+Hernando County (Florida),12053,2004,76.5172869
+Highlands County (Florida),12055,2004,78.1378004
+Hillsborough County (Florida),12057,2004,76.62470452
+Holmes County (Florida),12059,2004,73.98608427
+Indian River County (Florida),12061,2004,79.1768192
+Jackson County (Florida),12063,2004,75.17504452
+Jefferson County (Florida),12065,2004,75.21724085
+Lafayette County (Florida),12067,2004,75.03289973
+Lake County (Florida),12069,2004,77.79752685
+Lee County (Florida),12071,2004,79.09387293
+Leon County (Florida),12073,2004,77.98151537
+Levy County (Florida),12075,2004,74.34508706
+Liberty County (Florida),12077,2004,75.12962912
+Madison County (Florida),12079,2004,74.43883107
+Manatee County (Florida),12081,2004,78.70508089
+Marion County (Florida),12083,2004,76.59700935
+Martin County (Florida),12085,2004,79.8676294
+Monroe County (Florida),12087,2004,77.20677873
+Nassau County (Florida),12089,2004,75.91337085
+Okaloosa County (Florida),12091,2004,77.06057777
+Okeechobee County (Florida),12093,2004,74.83842927
+Orange County (Florida),12095,2004,77.47365838
+Osceola County (Florida),12097,2004,77.56801177
+Palm Beach County (Florida),12099,2004,79.70250872
+Pasco County (Florida),12101,2004,76.58992666
+Pinellas County (Florida),12103,2004,77.36252582
+Polk County (Florida),12105,2004,76.85039633
+Putnam County (Florida),12107,2004,73.73708117
+Saint Johns County (Florida),12109,2004,79.24935544
+Saint Lucie County (Florida),12111,2004,77.795444
+Santa Rosa County (Florida),12113,2004,76.77489721
+Sarasota County (Florida),12115,2004,80.03820598
+Seminole County (Florida),12117,2004,78.70787629
+Sumter County (Florida),12119,2004,79.02883343
+Suwannee County (Florida),12121,2004,74.42258179
+Taylor County (Florida),12123,2004,74.42495365
+Union County (Florida),12125,2004,67.60211057
+Volusia County (Florida),12127,2004,76.72674299
+Wakulla County (Florida),12129,2004,75.44020557
+Walton County (Florida),12131,2004,76.13212649
+Washington County (Florida),12133,2004,74.21479982
+Appling County (Georgia),13001,2004,73.14350773
+Atkinson County (Georgia),13003,2004,72.68887811
+Bacon County (Georgia),13005,2004,71.67646481
+Baker County (Georgia),13007,2004,76.17970566
+Baldwin County (Georgia),13009,2004,75.04230091
+Banks County (Georgia),13011,2004,76.36048784
+Barrow County (Georgia),13013,2004,74.97932545
+Bartow County (Georgia),13015,2004,74.95670088
+Ben Hill County (Georgia),13017,2004,72.79521292
+Berrien County (Georgia),13019,2004,74.03853228
+Bibb County (Georgia),13021,2004,73.07830576
+Bleckley County (Georgia),13023,2004,74.54443277
+Brantley County (Georgia),13025,2004,73.21376905
+Brooks County (Georgia),13027,2004,74.34775069
+Bryan County (Georgia),13029,2004,74.84146308
+Bulloch County (Georgia),13031,2004,75.97616777
+Burke County (Georgia),13033,2004,72.31988531
+Butts County (Georgia),13035,2004,73.58739642
+Calhoun County (Georgia),13037,2004,73.47979438
+Camden County (Georgia),13039,2004,76.33702259
+Candler County (Georgia),13043,2004,72.76267316
+Carroll County (Georgia),13045,2004,74.57176657
+Catoosa County (Georgia),13047,2004,76.64766161
+Charlton County (Georgia),13049,2004,74.91736747
+Chatham County (Georgia),13051,2004,75.40683129
+Chattahoochee County (Georgia),13053,2004,75.46554449
+Chattooga County (Georgia),13055,2004,74.11453249
+Cherokee County (Georgia),13057,2004,78.04766243
+Clarke County (Georgia),13059,2004,77.3600368
+Clay County (Georgia),13061,2004,73.64319058
+Clayton County (Georgia),13063,2004,75.2372973
+Clinch County (Georgia),13065,2004,71.97285748
+Cobb County (Georgia),13067,2004,78.31903559
+Coffee County (Georgia),13069,2004,73.96724403
+Colquitt County (Georgia),13071,2004,73.91294079
+Columbia County (Georgia),13073,2004,78.37569469
+Cook County (Georgia),13075,2004,73.3318449
+Coweta County (Georgia),13077,2004,76.54081203
+Crawford County (Georgia),13079,2004,74.59756364
+Crisp County (Georgia),13081,2004,73.47010104
+Dade County (Georgia),13083,2004,74.93996667
+Dawson County (Georgia),13085,2004,75.83463765
+Decatur County (Georgia),13087,2004,73.56615389
+DeKalb County (Georgia),13089,2004,77.55478835
+Dodge County (Georgia),13091,2004,73.59967532
+Dooly County (Georgia),13093,2004,75.96589044
+Dougherty County (Georgia),13095,2004,74.3130714
+Douglas County (Georgia),13097,2004,75.50889613
+Early County (Georgia),13099,2004,73.16498745
+Echols County (Georgia),13101,2004,75.8966309
+Effingham County (Georgia),13103,2004,75.55817443
+Elbert County (Georgia),13105,2004,73.88683601
+Emanuel County (Georgia),13107,2004,72.40528391
+Evans County (Georgia),13109,2004,73.76446601
+Fannin County (Georgia),13111,2004,75.4752135
+Fayette County (Georgia),13113,2004,79.65533093
+Floyd County (Georgia),13115,2004,74.86649199
+Forsyth County (Georgia),13117,2004,78.93915169
+Franklin County (Georgia),13119,2004,74.50662506
+Fulton County (Georgia),13121,2004,75.29269116
+Gilmer County (Georgia),13123,2004,76.33446843
+Glascock County (Georgia),13125,2004,72.58859531
+Glynn County (Georgia),13127,2004,75.495961
+Gordon County (Georgia),13129,2004,74.70587652
+Grady County (Georgia),13131,2004,74.20408612
+Greene County (Georgia),13133,2004,75.54364991
+Gwinnett County (Georgia),13135,2004,78.76688318
+Habersham County (Georgia),13137,2004,77.39135272
+Hall County (Georgia),13139,2004,77.0044693
+Hancock County (Georgia),13141,2004,74.17141227
+Haralson County (Georgia),13143,2004,73.05843569
+Harris County (Georgia),13145,2004,77.4300316
+Hart County (Georgia),13147,2004,75.72917355
+Heard County (Georgia),13149,2004,73.86061423
+Henry County (Georgia),13151,2004,76.5290952
+Houston County (Georgia),13153,2004,76.20221585
+Irwin County (Georgia),13155,2004,74.23564651
+Jackson County (Georgia),13157,2004,74.66841934
+Jasper County (Georgia),13159,2004,75.26703435
+Jeff Davis County (Georgia),13161,2004,72.30656658
+Jefferson County (Georgia),13163,2004,72.41640939
+Jenkins County (Georgia),13165,2004,73.32080411
+Johnson County (Georgia),13167,2004,74.9613006
+Jones County (Georgia),13169,2004,76.80973645
+Lamar County (Georgia),13171,2004,73.84063363
+Lanier County (Georgia),13173,2004,73.87079068
+Laurens County (Georgia),13175,2004,74.37427377
+Lee County (Georgia),13177,2004,75.9396618
+Liberty County (Georgia),13179,2004,74.97790007
+Lincoln County (Georgia),13181,2004,74.2575712
+Long County (Georgia),13183,2004,75.65509778
+Lowndes County (Georgia),13185,2004,74.72478422
+Lumpkin County (Georgia),13187,2004,76.17103074
+McDuffie County (Georgia),13189,2004,72.55977618
+McIntosh County (Georgia),13191,2004,76.33179254
+Macon County (Georgia),13193,2004,73.14993319
+Madison County (Georgia),13195,2004,74.8255556
+Marion County (Georgia),13197,2004,73.81179675
+Meriwether County (Georgia),13199,2004,73.75736903
+Miller County (Georgia),13201,2004,73.27463388
+Mitchell County (Georgia),13205,2004,73.6580902
+Monroe County (Georgia),13207,2004,75.6662471
+Montgomery County (Georgia),13209,2004,74.34082706
+Morgan County (Georgia),13211,2004,76.69926998
+Murray County (Georgia),13213,2004,74.21974961
+Muscogee County (Georgia),13215,2004,73.49631363
+Newton County (Georgia),13217,2004,75.45829016
+Oconee County (Georgia),13219,2004,79.24187681
+Oglethorpe County (Georgia),13221,2004,76.37100385
+Paulding County (Georgia),13223,2004,76.58465759
+Peach County (Georgia),13225,2004,73.16742925
+Pickens County (Georgia),13227,2004,76.24410034
+Pierce County (Georgia),13229,2004,73.41019367
+Pike County (Georgia),13231,2004,75.07656661
+Polk County (Georgia),13233,2004,72.9686687
+Pulaski County (Georgia),13235,2004,75.13071367
+Putnam County (Georgia),13237,2004,75.94879766
+Quitman County (Georgia),13239,2004,74.16136595
+Rabun County (Georgia),13241,2004,76.71714041
+Randolph County (Georgia),13243,2004,73.28858499
+Richmond County (Georgia),13245,2004,72.72955679
+Rockdale County (Georgia),13247,2004,76.7439618
+Schley County (Georgia),13249,2004,74.83273485
+Screven County (Georgia),13251,2004,73.81860654
+Seminole County (Georgia),13253,2004,73.42413472
+Spalding County (Georgia),13255,2004,73.78141388
+Stephens County (Georgia),13257,2004,73.72023445
+Stewart County (Georgia),13259,2004,73.36501618
+Sumter County (Georgia),13261,2004,74.14401545
+Talbot County (Georgia),13263,2004,73.15133885
+Taliaferro County (Georgia),13265,2004,73.48530136
+Tattnall County (Georgia),13267,2004,73.78481818
+Taylor County (Georgia),13269,2004,73.12291632
+Telfair County (Georgia),13271,2004,74.99644396
+Terrell County (Georgia),13273,2004,72.99995711
+Thomas County (Georgia),13275,2004,74.54519887
+Tift County (Georgia),13277,2004,74.78777409
+Toombs County (Georgia),13279,2004,73.42550406
+Towns County (Georgia),13281,2004,77.08977279
+Treutlen County (Georgia),13283,2004,73.73389808
+Troup County (Georgia),13285,2004,73.96006374
+Turner County (Georgia),13287,2004,73.04217538
+Twiggs County (Georgia),13289,2004,73.19060793
+Union County (Georgia),13291,2004,77.12836887
+Upson County (Georgia),13293,2004,72.91301364
+Walker County (Georgia),13295,2004,74.30921777
+Walton County (Georgia),13297,2004,76.00876129
+Ware County (Georgia),13299,2004,73.31644256
+Warren County (Georgia),13301,2004,72.77937666
+Washington County (Georgia),13303,2004,74.12248623
+Wayne County (Georgia),13305,2004,73.49428296
+Webster County (Georgia),13307,2004,75.98348462
+Wheeler County (Georgia),13309,2004,75.61417678
+White County (Georgia),13311,2004,77.02269257
+Whitfield County (Georgia),13313,2004,76.01837771
+Wilcox County (Georgia),13315,2004,73.64163603
+Wilkes County (Georgia),13317,2004,74.09771396
+Wilkinson County (Georgia),13319,2004,73.70522313
+Worth County (Georgia),13321,2004,75.25819597
+Hawaii County (Hawaii),15001,2004,78.66571758
+Honolulu County (Hawaii),15003,2004,80.47236037
+Kauai County (Hawaii),15007,2004,79.72211129
+Kalawao County (Hawaii),15005,2004,79.88821798
+Maui County (Hawaii),15009,2004,79.88821798
+Ada County (Idaho),16001,2004,79.53029387
+Adams County (Idaho),16003,2004,79.79510604
+Bannock County (Idaho),16005,2004,77.25691821
+Bear Lake County (Idaho),16007,2004,78.02194246
+Benewah County (Idaho),16009,2004,76.18909014
+Bingham County (Idaho),16011,2004,77.62738038
+Blaine County (Idaho),16013,2004,83.09146966
+Boise County (Idaho),16015,2004,80.14702487
+Bonner County (Idaho),16017,2004,78.02921536
+Bonneville County (Idaho),16019,2004,77.90906492
+Boundary County (Idaho),16021,2004,76.76369746
+Butte County (Idaho),16023,2004,77.99644547
+Camas County (Idaho),16025,2004,80.31507653
+Canyon County (Idaho),16027,2004,78.18103041
+Caribou County (Idaho),16029,2004,77.74554899
+Cassia County (Idaho),16031,2004,77.44415996
+Clearwater County (Idaho),16035,2004,77.6538787
+Custer County (Idaho),16037,2004,79.33903826
+Elmore County (Idaho),16039,2004,77.32244099
+Franklin County (Idaho),16041,2004,79.21293006
+Fremont County (Idaho),16043,2004,78.46968627
+Gem County (Idaho),16045,2004,77.21511114
+Gooding County (Idaho),16047,2004,77.35259939
+Idaho County (Idaho),16049,2004,78.36223447
+Jefferson County (Idaho),16051,2004,78.7292111
+Jerome County (Idaho),16053,2004,77.62911547
+Kootenai County (Idaho),16055,2004,78.98018647
+Latah County (Idaho),16057,2004,80.40366025
+Lemhi County (Idaho),16059,2004,77.75315325
+Lewis County (Idaho),16061,2004,77.79115571
+Lincoln County (Idaho),16063,2004,77.54396248
+Madison County (Idaho),16065,2004,79.98235569
+Minidoka County (Idaho),16067,2004,77.03926501
+Nez Perce County (Idaho),16069,2004,77.51905143
+Oneida County (Idaho),16071,2004,79.06410663
+Owyhee County (Idaho),16073,2004,77.73097637
+Payette County (Idaho),16075,2004,77.3517495
+Power County (Idaho),16077,2004,78.03678659
+Shoshone County (Idaho),16079,2004,75.32328513
+Teton County (Idaho),16081,2004,80.69816678
+Twin Falls County (Idaho),16083,2004,77.44277703
+Valley County (Idaho),16085,2004,80.72364068
+Washington County (Idaho),16087,2004,77.95514315
+Adams County (Illinois),17001,2004,77.42847974
+Alexander County (Illinois),17003,2004,73.60827962
+Bond County (Illinois),17005,2004,77.56281759
+Boone County (Illinois),17007,2004,78.74923962
+Brown County (Illinois),17009,2004,77.7104898
+Bureau County (Illinois),17011,2004,78.07460458
+Calhoun County (Illinois),17013,2004,78.14528611
+Carroll County (Illinois),17015,2004,78.23522645
+Cass County (Illinois),17017,2004,76.49700816
+Champaign County (Illinois),17019,2004,79.07857298
+Christian County (Illinois),17021,2004,76.80665781
+Clark County (Illinois),17023,2004,76.33900988
+Clay County (Illinois),17025,2004,76.7730803
+Clinton County (Illinois),17027,2004,78.31158612
+Coles County (Illinois),17029,2004,77.19147767
+Cook County (Illinois),17031,2004,76.82099213
+Crawford County (Illinois),17033,2004,76.92317552
+Cumberland County (Illinois),17035,2004,77.76353736
+DeKalb County (Illinois),17037,2004,78.97093561
+De Witt County (Illinois),17039,2004,76.42856586
+Douglas County (Illinois),17041,2004,78.07746199
+DuPage County (Illinois),17043,2004,80.35735677
+Edgar County (Illinois),17045,2004,76.27723417
+Edwards County (Illinois),17047,2004,76.65870767
+Effingham County (Illinois),17049,2004,77.9192443
+Fayette County (Illinois),17051,2004,77.26375307
+Ford County (Illinois),17053,2004,76.46028289
+Franklin County (Illinois),17055,2004,74.4007399
+Fulton County (Illinois),17057,2004,76.8773124
+Gallatin County (Illinois),17059,2004,74.52816434
+Greene County (Illinois),17061,2004,76.84714813
+Grundy County (Illinois),17063,2004,77.814206
+Hamilton County (Illinois),17065,2004,76.78076043
+Hancock County (Illinois),17067,2004,79.01750997
+Hardin County (Illinois),17069,2004,74.51375835
+Henderson County (Illinois),17071,2004,77.95020453
+Henry County (Illinois),17073,2004,78.51856147
+Iroquois County (Illinois),17075,2004,76.51497872
+Jackson County (Illinois),17077,2004,77.22559408
+Jasper County (Illinois),17079,2004,78.25634426
+Jefferson County (Illinois),17081,2004,76.61576103
+Jersey County (Illinois),17083,2004,77.02994789
+Jo Daviess County (Illinois),17085,2004,79.91995602
+Johnson County (Illinois),17087,2004,76.92315
+Kane County (Illinois),17089,2004,79.24983753
+Kankakee County (Illinois),17091,2004,75.78193982
+Kendall County (Illinois),17093,2004,79.99482431
+Knox County (Illinois),17095,2004,76.78476937
+Lake County (Illinois),17097,2004,79.52247413
+LaSalle County (Illinois),17099,2004,76.95927152
+Lawrence County (Illinois),17101,2004,75.80574607
+Lee County (Illinois),17103,2004,77.26303846
+Livingston County (Illinois),17105,2004,77.16836033
+Logan County (Illinois),17107,2004,77.21589214
+McDonough County (Illinois),17109,2004,78.81132349
+McHenry County (Illinois),17111,2004,78.69438814
+McLean County (Illinois),17113,2004,78.83732097
+Macon County (Illinois),17115,2004,76.8896067
+Macoupin County (Illinois),17117,2004,77.03088771
+Madison County (Illinois),17119,2004,76.41961592
+Marion County (Illinois),17121,2004,75.60249955
+Marshall County (Illinois),17123,2004,76.87611979
+Mason County (Illinois),17125,2004,76.48572245
+Massac County (Illinois),17127,2004,75.0915029
+Menard County (Illinois),17129,2004,77.7105278
+Mercer County (Illinois),17131,2004,78.49552957
+Monroe County (Illinois),17133,2004,79.05209248
+Montgomery County (Illinois),17135,2004,76.81758055
+Morgan County (Illinois),17137,2004,77.17102386
+Moultrie County (Illinois),17139,2004,77.27421068
+Ogle County (Illinois),17141,2004,78.52908936
+Peoria County (Illinois),17143,2004,77.19822604
+Perry County (Illinois),17145,2004,76.58641216
+Piatt County (Illinois),17147,2004,78.73716935
+Pike County (Illinois),17149,2004,77.70942593
+Pope County (Illinois),17151,2004,77.05942832
+Pulaski County (Illinois),17153,2004,74.20476197
+Putnam County (Illinois),17155,2004,78.79452038
+Randolph County (Illinois),17157,2004,76.69986768
+Richland County (Illinois),17159,2004,77.42733172
+Rock Island County (Illinois),17161,2004,78.11776659
+Saint Clair County (Illinois),17163,2004,75.21973154
+Saline County (Illinois),17165,2004,73.80506191
+Sangamon County (Illinois),17167,2004,77.15892983
+Schuyler County (Illinois),17169,2004,77.75966851
+Scott County (Illinois),17171,2004,77.70348891
+Shelby County (Illinois),17173,2004,78.57491645
+Stark County (Illinois),17175,2004,76.88474203
+Stephenson County (Illinois),17177,2004,78.44751994
+Tazewell County (Illinois),17179,2004,77.77341124
+Union County (Illinois),17181,2004,75.39743718
+Vermilion County (Illinois),17183,2004,75.46516367
+Wabash County (Illinois),17185,2004,77.84396595
+Warren County (Illinois),17187,2004,77.74103047
+Washington County (Illinois),17189,2004,77.58680075
+Wayne County (Illinois),17191,2004,77.25858593
+White County (Illinois),17193,2004,76.00841412
+Whiteside County (Illinois),17195,2004,77.84853884
+Will County (Illinois),17197,2004,78.5351119
+Williamson County (Illinois),17199,2004,76.05326069
+Winnebago County (Illinois),17201,2004,77.32930828
+Woodford County (Illinois),17203,2004,79.40885919
+Adams County (Indiana),18001,2004,78.770299
+Allen County (Indiana),18003,2004,77.84972783
+Bartholomew County (Indiana),18005,2004,76.93096669
+Benton County (Indiana),18007,2004,77.29946216
+Blackford County (Indiana),18009,2004,76.28278851
+Boone County (Indiana),18011,2004,77.75616943
+Brown County (Indiana),18013,2004,78.18689134
+Carroll County (Indiana),18015,2004,78.63874147
+Cass County (Indiana),18017,2004,76.48985421
+Clark County (Indiana),18019,2004,75.54603174
+Clay County (Indiana),18021,2004,75.533299
+Clinton County (Indiana),18023,2004,76.5676139
+Crawford County (Indiana),18025,2004,75.18159497
+Daviess County (Indiana),18027,2004,76.75289203
+Dearborn County (Indiana),18029,2004,77.39282349
+Decatur County (Indiana),18031,2004,77.15039765
+DeKalb County (Indiana),18033,2004,77.48880452
+Delaware County (Indiana),18035,2004,76.1354473
+Dubois County (Indiana),18037,2004,78.24770261
+Elkhart County (Indiana),18039,2004,77.9841371
+Fayette County (Indiana),18041,2004,74.74316186
+Floyd County (Indiana),18043,2004,76.32374748
+Fountain County (Indiana),18045,2004,76.14881227
+Franklin County (Indiana),18047,2004,78.11494106
+Fulton County (Indiana),18049,2004,75.95822235
+Gibson County (Indiana),18051,2004,77.38168032
+Grant County (Indiana),18053,2004,75.70355522
+Greene County (Indiana),18055,2004,75.95932582
+Hamilton County (Indiana),18057,2004,80.37755947
+Hancock County (Indiana),18059,2004,77.80913082
+Harrison County (Indiana),18061,2004,77.13578695
+Hendricks County (Indiana),18063,2004,79.0747383
+Henry County (Indiana),18065,2004,75.8224987
+Howard County (Indiana),18067,2004,75.91475176
+Huntington County (Indiana),18069,2004,77.62741276
+Jackson County (Indiana),18071,2004,76.11692943
+Jasper County (Indiana),18073,2004,77.2660707
+Jay County (Indiana),18075,2004,76.31373457
+Jefferson County (Indiana),18077,2004,76.11217877
+Jennings County (Indiana),18079,2004,74.97730977
+Johnson County (Indiana),18081,2004,77.43062379
+Knox County (Indiana),18083,2004,75.55955219
+Kosciusko County (Indiana),18085,2004,77.95605962
+LaGrange County (Indiana),18087,2004,78.96332869
+Lake County (Indiana),18089,2004,75.09603174
+LaPorte County (Indiana),18091,2004,76.18632676
+Lawrence County (Indiana),18093,2004,76.03720959
+Madison County (Indiana),18095,2004,75.75780046
+Marion County (Indiana),18097,2004,75.37592663
+Marshall County (Indiana),18099,2004,78.04090227
+Martin County (Indiana),18101,2004,76.49708859
+Miami County (Indiana),18103,2004,77.10947162
+Monroe County (Indiana),18105,2004,79.16202796
+Montgomery County (Indiana),18107,2004,77.08380864
+Morgan County (Indiana),18109,2004,76.29844885
+Newton County (Indiana),18111,2004,75.95025194
+Noble County (Indiana),18113,2004,77.05794617
+Ohio County (Indiana),18115,2004,77.14872843
+Orange County (Indiana),18117,2004,75.79156429
+Owen County (Indiana),18119,2004,75.74587135
+Parke County (Indiana),18121,2004,77.34684875
+Perry County (Indiana),18123,2004,76.91702525
+Pike County (Indiana),18125,2004,76.23101374
+Porter County (Indiana),18127,2004,77.67032603
+Posey County (Indiana),18129,2004,77.73553875
+Pulaski County (Indiana),18131,2004,75.95977331
+Putnam County (Indiana),18133,2004,77.50980212
+Randolph County (Indiana),18135,2004,76.86823045
+Ripley County (Indiana),18137,2004,77.41823625
+Rush County (Indiana),18139,2004,76.75683311
+Saint Joseph County (Indiana),18141,2004,77.38069064
+Scott County (Indiana),18143,2004,73.16839412
+Shelby County (Indiana),18145,2004,76.51946821
+Spencer County (Indiana),18147,2004,77.61997197
+Starke County (Indiana),18149,2004,73.96610358
+Steuben County (Indiana),18151,2004,78.17925796
+Sullivan County (Indiana),18153,2004,74.68694909
+Switzerland County (Indiana),18155,2004,75.96483704
+Tippecanoe County (Indiana),18157,2004,78.09633097
+Tipton County (Indiana),18159,2004,77.82163874
+Union County (Indiana),18161,2004,76.82327368
+Vanderburgh County (Indiana),18163,2004,76.40123916
+Vermillion County (Indiana),18165,2004,74.82325438
+Vigo County (Indiana),18167,2004,75.5677309
+Wabash County (Indiana),18169,2004,77.17821716
+Warren County (Indiana),18171,2004,77.24010577
+Warrick County (Indiana),18173,2004,77.88159727
+Washington County (Indiana),18175,2004,75.31708766
+Wayne County (Indiana),18177,2004,75.88484331
+Wells County (Indiana),18179,2004,78.68014988
+White County (Indiana),18181,2004,76.75371861
+Whitley County (Indiana),18183,2004,78.18656834
+Adair County (Iowa),19001,2004,78.54926279
+Adams County (Iowa),19003,2004,78.66489376
+Allamakee County (Iowa),19005,2004,79.0513001
+Appanoose County (Iowa),19007,2004,77.19556984
+Audubon County (Iowa),19009,2004,78.94136517
+Benton County (Iowa),19011,2004,79.82243231
+Black Hawk County (Iowa),19013,2004,78.85747463
+Boone County (Iowa),19015,2004,78.55670385
+Bremer County (Iowa),19017,2004,81.19207163
+Buchanan County (Iowa),19019,2004,78.81110766
+Buena Vista County (Iowa),19021,2004,80.63732944
+Butler County (Iowa),19023,2004,78.99370531
+Calhoun County (Iowa),19025,2004,79.12427481
+Carroll County (Iowa),19027,2004,79.95538871
+Cass County (Iowa),19029,2004,77.91325919
+Cedar County (Iowa),19031,2004,80.57138552
+Cerro Gordo County (Iowa),19033,2004,78.34302733
+Cherokee County (Iowa),19035,2004,79.30285022
+Chickasaw County (Iowa),19037,2004,79.81773856
+Clarke County (Iowa),19039,2004,77.82382286
+Clay County (Iowa),19041,2004,79.72226135
+Clayton County (Iowa),19043,2004,79.59138185
+Clinton County (Iowa),19045,2004,77.84888154
+Crawford County (Iowa),19047,2004,79.59568906
+Dallas County (Iowa),19049,2004,80.35289587
+Davis County (Iowa),19051,2004,78.79500242
+Decatur County (Iowa),19053,2004,77.92101073
+Delaware County (Iowa),19055,2004,80.24059414
+Des Moines County (Iowa),19057,2004,78.59151681
+Dickinson County (Iowa),19059,2004,80.60648712
+Dubuque County (Iowa),19061,2004,79.32014294
+Emmet County (Iowa),19063,2004,78.98062366
+Fayette County (Iowa),19065,2004,78.85749361
+Floyd County (Iowa),19067,2004,79.31396506
+Franklin County (Iowa),19069,2004,79.66343543
+Fremont County (Iowa),19071,2004,78.16003361
+Greene County (Iowa),19073,2004,79.16548143
+Grundy County (Iowa),19075,2004,80.28717032
+Guthrie County (Iowa),19077,2004,78.99155527
+Hamilton County (Iowa),19079,2004,79.62965939
+Hancock County (Iowa),19081,2004,79.99750075
+Hardin County (Iowa),19083,2004,78.92802814
+Harrison County (Iowa),19085,2004,77.18614029
+Henry County (Iowa),19087,2004,78.85664766
+Howard County (Iowa),19089,2004,79.40868848
+Humboldt County (Iowa),19091,2004,79.86786828
+Ida County (Iowa),19093,2004,78.57424771
+Iowa County (Iowa),19095,2004,80.2006044
+Jackson County (Iowa),19097,2004,78.75483455
+Jasper County (Iowa),19099,2004,79.10345653
+Jefferson County (Iowa),19101,2004,79.84004976
+Johnson County (Iowa),19103,2004,81.33865971
+Jones County (Iowa),19105,2004,79.90874678
+Keokuk County (Iowa),19107,2004,79.51181492
+Kossuth County (Iowa),19109,2004,80.7333287
+Lee County (Iowa),19111,2004,76.90230603
+Linn County (Iowa),19113,2004,79.63202606
+Louisa County (Iowa),19115,2004,78.45698075
+Lucas County (Iowa),19117,2004,78.56905878
+Lyon County (Iowa),19119,2004,80.15798491
+Madison County (Iowa),19121,2004,78.82745222
+Mahaska County (Iowa),19123,2004,79.4167847
+Marion County (Iowa),19125,2004,78.85767962
+Marshall County (Iowa),19127,2004,76.97847806
+Mills County (Iowa),19129,2004,77.22413941
+Mitchell County (Iowa),19131,2004,80.62246577
+Monona County (Iowa),19133,2004,76.86707619
+Monroe County (Iowa),19135,2004,77.45951483
+Montgomery County (Iowa),19137,2004,77.71293177
+Muscatine County (Iowa),19139,2004,78.38468556
+O'Brien County (Iowa),19141,2004,79.43473971
+Osceola County (Iowa),19143,2004,79.35908747
+Page County (Iowa),19145,2004,78.11368713
+Palo Alto County (Iowa),19147,2004,78.63991657
+Plymouth County (Iowa),19149,2004,79.72061182
+Pocahontas County (Iowa),19151,2004,78.77429548
+Polk County (Iowa),19153,2004,78.51568226
+Pottawattamie County (Iowa),19155,2004,76.81420134
+Poweshiek County (Iowa),19157,2004,79.13318318
+Ringgold County (Iowa),19159,2004,78.29544828
+Sac County (Iowa),19161,2004,78.96665278
+Scott County (Iowa),19163,2004,78.25137575
+Shelby County (Iowa),19165,2004,79.82935119
+Sioux County (Iowa),19167,2004,81.84321628
+Story County (Iowa),19169,2004,81.22825087
+Tama County (Iowa),19171,2004,79.03917687
+Taylor County (Iowa),19173,2004,79.12003115
+Union County (Iowa),19175,2004,77.75124078
+Van Buren County (Iowa),19177,2004,77.82344954
+Wapello County (Iowa),19179,2004,77.23501533
+Warren County (Iowa),19181,2004,79.01944221
+Washington County (Iowa),19183,2004,79.73609084
+Wayne County (Iowa),19185,2004,77.6144419
+Webster County (Iowa),19187,2004,77.33060195
+Winnebago County (Iowa),19189,2004,79.73636136
+Winneshiek County (Iowa),19191,2004,81.71155016
+Woodbury County (Iowa),19193,2004,77.68540142
+Worth County (Iowa),19195,2004,78.93919945
+Wright County (Iowa),19197,2004,79.38291854
+Allen County (Kansas),20001,2004,75.83477507
+Anderson County (Kansas),20003,2004,77.68450575
+Atchison County (Kansas),20005,2004,76.74270024
+Barber County (Kansas),20007,2004,77.45983881
+Barton County (Kansas),20009,2004,77.92019925
+Bourbon County (Kansas),20011,2004,76.17561461
+Brown County (Kansas),20013,2004,76.60788797
+Butler County (Kansas),20015,2004,77.44796454
+Chase County (Kansas),20017,2004,77.7154448
+Chautauqua County (Kansas),20019,2004,76.02506894
+Cherokee County (Kansas),20021,2004,74.46778882
+Cheyenne County (Kansas),20023,2004,78.61939362
+Clark County (Kansas),20025,2004,77.63233502
+Clay County (Kansas),20027,2004,78.90574863
+Cloud County (Kansas),20029,2004,77.54213111
+Coffey County (Kansas),20031,2004,76.81502566
+Comanche County (Kansas),20033,2004,75.5307765
+Cowley County (Kansas),20035,2004,75.82257271
+Crawford County (Kansas),20037,2004,76.01716383
+Decatur County (Kansas),20039,2004,77.84940607
+Dickinson County (Kansas),20041,2004,77.91859744
+Doniphan County (Kansas),20043,2004,77.93866165
+Douglas County (Kansas),20045,2004,79.65163176
+Edwards County (Kansas),20047,2004,76.97976106
+Elk County (Kansas),20049,2004,75.94372025
+Ellis County (Kansas),20051,2004,79.07499511
+Ellsworth County (Kansas),20053,2004,78.07167673
+Finney County (Kansas),20055,2004,78.42449523
+Ford County (Kansas),20057,2004,77.62126558
+Franklin County (Kansas),20059,2004,77.45445936
+Geary County (Kansas),20061,2004,76.04173097
+Gove County (Kansas),20063,2004,78.90138513
+Graham County (Kansas),20065,2004,78.52683181
+Grant County (Kansas),20067,2004,77.71153958
+Gray County (Kansas),20069,2004,77.95061127
+Greeley County (Kansas),20071,2004,76.67704919
+Greenwood County (Kansas),20073,2004,75.59581205
+Hamilton County (Kansas),20075,2004,76.91797825
+Harper County (Kansas),20077,2004,75.9433006
+Harvey County (Kansas),20079,2004,78.93290735
+Haskell County (Kansas),20081,2004,78.35274937
+Hodgeman County (Kansas),20083,2004,78.75772057
+Jackson County (Kansas),20085,2004,77.52574861
+Jefferson County (Kansas),20087,2004,78.0340364
+Jewell County (Kansas),20089,2004,79.04451081
+Johnson County (Kansas),20091,2004,80.70450021
+Kearny County (Kansas),20093,2004,76.76096403
+Kingman County (Kansas),20095,2004,76.82520368
+Kiowa County (Kansas),20097,2004,78.87129479
+Labette County (Kansas),20099,2004,75.21843481
+Lane County (Kansas),20101,2004,76.59617097
+Leavenworth County (Kansas),20103,2004,77.39871544
+Lincoln County (Kansas),20105,2004,78.0085759
+Linn County (Kansas),20107,2004,77.15903825
+Logan County (Kansas),20109,2004,77.93839371
+Lyon County (Kansas),20111,2004,77.9737573
+McPherson County (Kansas),20113,2004,78.69644858
+Marion County (Kansas),20115,2004,78.3966581
+Marshall County (Kansas),20117,2004,78.85126033
+Meade County (Kansas),20119,2004,78.2293368
+Miami County (Kansas),20121,2004,78.01403698
+Mitchell County (Kansas),20123,2004,78.26059663
+Montgomery County (Kansas),20125,2004,75.40796114
+Morris County (Kansas),20127,2004,78.45452294
+Morton County (Kansas),20129,2004,76.728226
+Nemaha County (Kansas),20131,2004,78.96383346
+Neosho County (Kansas),20133,2004,76.56147617
+Ness County (Kansas),20135,2004,78.23547294
+Norton County (Kansas),20137,2004,78.46425038
+Osage County (Kansas),20139,2004,77.18341278
+Osborne County (Kansas),20141,2004,77.8237952
+Ottawa County (Kansas),20143,2004,77.39518542
+Pawnee County (Kansas),20145,2004,77.43921095
+Phillips County (Kansas),20147,2004,77.72917939
+Pottawatomie County (Kansas),20149,2004,78.68268714
+Pratt County (Kansas),20151,2004,77.49584112
+Rawlins County (Kansas),20153,2004,77.97671069
+Reno County (Kansas),20155,2004,77.91408498
+Republic County (Kansas),20157,2004,78.12658885
+Rice County (Kansas),20159,2004,76.96883579
+Riley County (Kansas),20161,2004,80.49544371
+Rooks County (Kansas),20163,2004,77.87004595
+Rush County (Kansas),20165,2004,77.40565418
+Russell County (Kansas),20167,2004,77.87654703
+Saline County (Kansas),20169,2004,77.54771956
+Scott County (Kansas),20171,2004,78.20660201
+Sedgwick County (Kansas),20173,2004,76.82867247
+Seward County (Kansas),20175,2004,77.83695065
+Shawnee County (Kansas),20177,2004,76.79492854
+Sheridan County (Kansas),20179,2004,78.63370962
+Sherman County (Kansas),20181,2004,77.31062148
+Smith County (Kansas),20183,2004,78.60191843
+Stafford County (Kansas),20185,2004,77.08397957
+Stanton County (Kansas),20187,2004,78.12717617
+Stevens County (Kansas),20189,2004,78.28117897
+Sumner County (Kansas),20191,2004,76.52951555
+Thomas County (Kansas),20193,2004,78.20635862
+Trego County (Kansas),20195,2004,77.87122405
+Wabaunsee County (Kansas),20197,2004,78.03714161
+Wallace County (Kansas),20199,2004,78.39927671
+Washington County (Kansas),20201,2004,79.17589791
+Wichita County (Kansas),20203,2004,77.94841357
+Wilson County (Kansas),20205,2004,75.48248876
+Woodson County (Kansas),20207,2004,75.58283496
+Wyandotte County (Kansas),20209,2004,73.85540451
+Adair County (Kentucky),21001,2004,76.50662842
+Allen County (Kentucky),21003,2004,74.88826929
+Anderson County (Kentucky),21005,2004,76.11919611
+Ballard County (Kentucky),21007,2004,74.71370872
+Barren County (Kentucky),21009,2004,76.04715248
+Bath County (Kentucky),21011,2004,74.02488191
+Bell County (Kentucky),21013,2004,72.25578414
+Boone County (Kentucky),21015,2004,77.49152332
+Bourbon County (Kentucky),21017,2004,76.00744367
+Boyd County (Kentucky),21019,2004,74.66584246
+Boyle County (Kentucky),21021,2004,76.07833248
+Bracken County (Kentucky),21023,2004,74.5742184
+Breathitt County (Kentucky),21025,2004,70.50914987
+Breckinridge County (Kentucky),21027,2004,75.20273998
+Bullitt County (Kentucky),21029,2004,77.33308267
+Butler County (Kentucky),21031,2004,74.91682195
+Caldwell County (Kentucky),21033,2004,74.84835936
+Calloway County (Kentucky),21035,2004,77.23165081
+Campbell County (Kentucky),21037,2004,76.04969089
+Carlisle County (Kentucky),21039,2004,75.14260654
+Carroll County (Kentucky),21041,2004,73.18423823
+Carter County (Kentucky),21043,2004,74.21780831
+Casey County (Kentucky),21045,2004,74.42047693
+Christian County (Kentucky),21047,2004,74.58084037
+Clark County (Kentucky),21049,2004,75.48939773
+Clay County (Kentucky),21051,2004,72.19160183
+Clinton County (Kentucky),21053,2004,73.80716865
+Crittenden County (Kentucky),21055,2004,74.40737858
+Cumberland County (Kentucky),21057,2004,73.718832
+Daviess County (Kentucky),21059,2004,76.60210815
+Edmonson County (Kentucky),21061,2004,76.72276704
+Elliott County (Kentucky),21063,2004,74.87033495
+Estill County (Kentucky),21065,2004,73.32540334
+Fayette County (Kentucky),21067,2004,77.43150082
+Fleming County (Kentucky),21069,2004,74.37501135
+Floyd County (Kentucky),21071,2004,71.52276522
+Franklin County (Kentucky),21073,2004,75.97876642
+Fulton County (Kentucky),21075,2004,72.62377372
+Gallatin County (Kentucky),21077,2004,72.65922771
+Garrard County (Kentucky),21079,2004,76.97132297
+Grant County (Kentucky),21081,2004,74.70458734
+Graves County (Kentucky),21083,2004,75.44805624
+Grayson County (Kentucky),21085,2004,74.30648782
+Green County (Kentucky),21087,2004,76.24468901
+Greenup County (Kentucky),21089,2004,74.88505055
+Hancock County (Kentucky),21091,2004,76.39502283
+Hardin County (Kentucky),21093,2004,76.64376166
+Harlan County (Kentucky),21095,2004,71.07364391
+Harrison County (Kentucky),21097,2004,75.08019804
+Hart County (Kentucky),21099,2004,74.89172801
+Henderson County (Kentucky),21101,2004,75.62610056
+Henry County (Kentucky),21103,2004,75.1843677
+Hickman County (Kentucky),21105,2004,76.03186463
+Hopkins County (Kentucky),21107,2004,74.53863167
+Jackson County (Kentucky),21109,2004,73.07355528
+Jefferson County (Kentucky),21111,2004,75.91947467
+Jessamine County (Kentucky),21113,2004,76.66009907
+Johnson County (Kentucky),21115,2004,72.6498549
+Kenton County (Kentucky),21117,2004,75.83651751
+Knott County (Kentucky),21119,2004,72.78661641
+Knox County (Kentucky),21121,2004,72.80634091
+Larue County (Kentucky),21123,2004,76.07285712
+Laurel County (Kentucky),21125,2004,74.58156995
+Lawrence County (Kentucky),21127,2004,72.81489221
+Lee County (Kentucky),21129,2004,72.1507052
+Leslie County (Kentucky),21131,2004,71.58937582
+Letcher County (Kentucky),21133,2004,71.91631168
+Lewis County (Kentucky),21135,2004,73.79273612
+Lincoln County (Kentucky),21137,2004,74.82927016
+Livingston County (Kentucky),21139,2004,74.98800012
+Logan County (Kentucky),21141,2004,75.35083781
+Lyon County (Kentucky),21143,2004,75.89860075
+McCracken County (Kentucky),21145,2004,75.74699954
+McCreary County (Kentucky),21147,2004,73.10669894
+McLean County (Kentucky),21149,2004,74.70258308
+Madison County (Kentucky),21151,2004,76.62203723
+Magoffin County (Kentucky),21153,2004,72.72544001
+Marion County (Kentucky),21155,2004,75.7691726
+Marshall County (Kentucky),21157,2004,75.98659077
+Martin County (Kentucky),21159,2004,72.49121352
+Mason County (Kentucky),21161,2004,74.8891528
+Meade County (Kentucky),21163,2004,76.76834786
+Menifee County (Kentucky),21165,2004,74.54898405
+Mercer County (Kentucky),21167,2004,75.26494984
+Metcalfe County (Kentucky),21169,2004,73.94843045
+Monroe County (Kentucky),21171,2004,73.76913766
+Montgomery County (Kentucky),21173,2004,75.5513037
+Morgan County (Kentucky),21175,2004,75.44295545
+Muhlenberg County (Kentucky),21177,2004,74.41698878
+Nelson County (Kentucky),21179,2004,76.400828
+Nicholas County (Kentucky),21181,2004,73.39101687
+Ohio County (Kentucky),21183,2004,75.2415549
+Oldham County (Kentucky),21185,2004,78.4635612
+Owen County (Kentucky),21187,2004,76.22712227
+Owsley County (Kentucky),21189,2004,69.91885285
+Pendleton County (Kentucky),21191,2004,74.78599285
+Perry County (Kentucky),21193,2004,70.56984972
+Pike County (Kentucky),21195,2004,71.81361949
+Powell County (Kentucky),21197,2004,71.73730836
+Pulaski County (Kentucky),21199,2004,74.9990621
+Robertson County (Kentucky),21201,2004,74.15335023
+Rockcastle County (Kentucky),21203,2004,74.33547767
+Rowan County (Kentucky),21205,2004,75.44704491
+Russell County (Kentucky),21207,2004,75.12904728
+Scott County (Kentucky),21209,2004,77.22864318
+Shelby County (Kentucky),21211,2004,77.66441382
+Simpson County (Kentucky),21213,2004,75.26532112
+Spencer County (Kentucky),21215,2004,76.6930169
+Taylor County (Kentucky),21217,2004,75.57241003
+Todd County (Kentucky),21219,2004,74.8205133
+Trigg County (Kentucky),21221,2004,75.7507578
+Trimble County (Kentucky),21223,2004,75.05444151
+Union County (Kentucky),21225,2004,74.50444372
+Warren County (Kentucky),21227,2004,76.55158002
+Washington County (Kentucky),21229,2004,76.37320197
+Wayne County (Kentucky),21231,2004,75.36593903
+Webster County (Kentucky),21233,2004,74.67206462
+Whitley County (Kentucky),21235,2004,72.45389533
+Wolfe County (Kentucky),21237,2004,71.29250697
+Woodford County (Kentucky),21239,2004,77.02677063
+Acadia Parish (Louisiana),22001,2004,73.10202714
+Allen Parish (Louisiana),22003,2004,76.552381
+Ascension Parish (Louisiana),22005,2004,75.85360191
+Assumption Parish (Louisiana),22007,2004,75.33150119
+Avoyelles Parish (Louisiana),22009,2004,73.33727467
+Beauregard Parish (Louisiana),22011,2004,74.17726094
+Bienville Parish (Louisiana),22013,2004,73.11333209
+Bossier Parish (Louisiana),22015,2004,76.12079385
+Caddo Parish (Louisiana),22017,2004,74.10304377
+Calcasieu Parish (Louisiana),22019,2004,74.10808767
+Caldwell Parish (Louisiana),22021,2004,72.75827337
+Cameron Parish (Louisiana),22023,2004,77.40994435
+Catahoula Parish (Louisiana),22025,2004,72.64084595
+Claiborne Parish (Louisiana),22027,2004,75.04929155
+Concordia Parish (Louisiana),22029,2004,73.17057876
+De Soto Parish (Louisiana),22031,2004,74.05150442
+East Baton Rouge Parish (Louisiana),22033,2004,75.0916238
+East Carroll Parish (Louisiana),22035,2004,71.64622532
+East Feliciana Parish (Louisiana),22037,2004,72.3262107
+Evangeline Parish (Louisiana),22039,2004,72.88228889
+Franklin Parish (Louisiana),22041,2004,73.18248251
+Grant Parish (Louisiana),22043,2004,74.19828364
+Iberia Parish (Louisiana),22045,2004,74.45900636
+Iberville Parish (Louisiana),22047,2004,73.44736471
+Jackson Parish (Louisiana),22049,2004,74.31872079
+Jefferson Parish (Louisiana),22051,2004,75.47110772
+Jefferson Davis Parish (Louisiana),22053,2004,73.70077777
+Lafayette Parish (Louisiana),22055,2004,76.03657561
+Lafourche Parish (Louisiana),22057,2004,75.93385708
+LaSalle Parish (Louisiana),22059,2004,74.04575849
+Lincoln Parish (Louisiana),22061,2004,76.89520076
+Livingston Parish (Louisiana),22063,2004,74.6011627
+Madison Parish (Louisiana),22065,2004,70.94169082
+Morehouse Parish (Louisiana),22067,2004,72.4569066
+Natchitoches Parish (Louisiana),22069,2004,74.49575795
+Orleans Parish (Louisiana),22071,2004,72.35774152
+Ouachita Parish (Louisiana),22073,2004,74.58519332
+Plaquemines Parish (Louisiana),22075,2004,74.61853719
+Pointe Coupee Parish (Louisiana),22077,2004,74.80341243
+Rapides Parish (Louisiana),22079,2004,74.08802251
+Red River Parish (Louisiana),22081,2004,72.83735278
+Richland Parish (Louisiana),22083,2004,73.24423645
+Sabine Parish (Louisiana),22085,2004,74.88634615
+Saint Bernard Parish (Louisiana),22087,2004,72.6594516
+Saint Charles Parish (Louisiana),22089,2004,75.85450105
+Saint Helena Parish (Louisiana),22091,2004,73.68893872
+Saint James Parish (Louisiana),22093,2004,75.11614578
+Saint John the Baptist Parish (Louisiana),22095,2004,74.15103094
+Saint Landry Parish (Louisiana),22097,2004,73.20325067
+Saint Martin Parish (Louisiana),22099,2004,74.63772996
+Saint Mary Parish (Louisiana),22101,2004,73.80765761
+Saint Tammany Parish (Louisiana),22103,2004,76.33122743
+Tangipahoa Parish (Louisiana),22105,2004,72.9103386
+Tensas Parish (Louisiana),22107,2004,73.77693623
+Terrebonne Parish (Louisiana),22109,2004,74.61643071
+Union Parish (Louisiana),22111,2004,74.59587251
+Vermilion Parish (Louisiana),22113,2004,75.33185636
+Vernon Parish (Louisiana),22115,2004,75.12183681
+Washington Parish (Louisiana),22117,2004,71.80439228
+Webster Parish (Louisiana),22119,2004,73.41263028
+West Baton Rouge Parish (Louisiana),22121,2004,74.90788543
+West Carroll Parish (Louisiana),22123,2004,74.22183617
+West Feliciana Parish (Louisiana),22125,2004,75.63866366
+Winn Parish (Louisiana),22127,2004,73.25476052
+Androscoggin County (Maine),23001,2004,77.34432985
+Aroostook County (Maine),23003,2004,77.22952335
+Cumberland County (Maine),23005,2004,78.92452364
+Franklin County (Maine),23007,2004,78.36184133
+Hancock County (Maine),23009,2004,78.24288998
+Kennebec County (Maine),23011,2004,77.62832202
+Knox County (Maine),23013,2004,78.49380065
+Lincoln County (Maine),23015,2004,78.87852211
+Oxford County (Maine),23017,2004,77.23128354
+Penobscot County (Maine),23019,2004,77.13015548
+Piscataquis County (Maine),23021,2004,76.59847777
+Sagadahoc County (Maine),23023,2004,78.51714339
+Somerset County (Maine),23025,2004,76.8163526
+Waldo County (Maine),23027,2004,77.61498535
+Washington County (Maine),23029,2004,75.90384036
+York County (Maine),23031,2004,78.85236937
+Allegany County (Maryland),24001,2004,76.60487436
+Anne Arundel County (Maryland),24003,2004,77.42528555
+Baltimore County (Maryland),24005,2004,77.26335754
+Calvert County (Maryland),24009,2004,77.24542726
+Caroline County (Maryland),24011,2004,75.1901797
+Carroll County (Maryland),24013,2004,78.06534842
+Cecil County (Maryland),24015,2004,75.70202906
+Charles County (Maryland),24017,2004,76.68598405
+Dorchester County (Maryland),24019,2004,75.23266333
+Frederick County (Maryland),24021,2004,78.93384483
+Garrett County (Maryland),24023,2004,77.53231456
+Harford County (Maryland),24025,2004,77.78270114
+Howard County (Maryland),24027,2004,80.83167869
+Kent County (Maryland),24029,2004,77.21296262
+Queen Anne's County (Maryland),24035,2004,78.0117619
+Saint Mary's County (Maryland),24037,2004,77.1547371
+Somerset County (Maryland),24039,2004,75.51600437
+Talbot County (Maryland),24041,2004,78.69714997
+Washington County (Maryland),24043,2004,77.03641905
+Wicomico County (Maryland),24045,2004,75.62353081
+Worcester County (Maryland),24047,2004,77.57975043
+Baltimore City (Maryland),24510,2004,69.96248203
+Montgomery County (Maryland),24031,2004,79.21432082
+Prince George's County (Maryland),24033,2004,79.21432082
+Barnstable County (Massachusetts),25001,2004,79.80970391
+Berkshire County (Massachusetts),25003,2004,78.656628
+Bristol County (Massachusetts),25005,2004,78.1241812
+Dukes County (Massachusetts),25007,2004,80.536156
+Essex County (Massachusetts),25009,2004,79.13793636
+Franklin County (Massachusetts),25011,2004,79.37104482
+Hampden County (Massachusetts),25013,2004,77.52446726
+Hampshire County (Massachusetts),25015,2004,79.70752929
+Middlesex County (Massachusetts),25017,2004,80.13348568
+Nantucket County (Massachusetts),25019,2004,80.11653321
+Norfolk County (Massachusetts),25021,2004,80.11431795
+Plymouth County (Massachusetts),25023,2004,78.25079486
+Suffolk County (Massachusetts),25025,2004,77.62667785
+Worcester County (Massachusetts),25027,2004,78.36489107
+Alcona County (Michigan),26001,2004,76.93835636
+Alger County (Michigan),26003,2004,78.16189849
+Allegan County (Michigan),26005,2004,77.95755403
+Alpena County (Michigan),26007,2004,77.44388791
+Antrim County (Michigan),26009,2004,78.87421903
+Arenac County (Michigan),26011,2004,76.3210152
+Baraga County (Michigan),26013,2004,77.16803802
+Barry County (Michigan),26015,2004,77.93023087
+Bay County (Michigan),26017,2004,77.39206043
+Benzie County (Michigan),26019,2004,78.69621864
+Berrien County (Michigan),26021,2004,76.92122665
+Branch County (Michigan),26023,2004,77.10687569
+Calhoun County (Michigan),26025,2004,75.68687666
+Cass County (Michigan),26027,2004,77.28355821
+Charlevoix County (Michigan),26029,2004,78.85000042
+Cheboygan County (Michigan),26031,2004,78.11638269
+Chippewa County (Michigan),26033,2004,78.27474593
+Clare County (Michigan),26035,2004,75.44627064
+Clinton County (Michigan),26037,2004,79.8852849
+Crawford County (Michigan),26039,2004,76.66165032
+Delta County (Michigan),26041,2004,78.46217348
+Dickinson County (Michigan),26043,2004,78.34432766
+Eaton County (Michigan),26045,2004,78.73165168
+Emmet County (Michigan),26047,2004,79.36427416
+Genesee County (Michigan),26049,2004,75.34016037
+Gladwin County (Michigan),26051,2004,76.66629994
+Gogebic County (Michigan),26053,2004,77.68817989
+Grand Traverse County (Michigan),26055,2004,79.68397273
+Gratiot County (Michigan),26057,2004,77.22713475
+Hillsdale County (Michigan),26059,2004,77.55233532
+Houghton County (Michigan),26061,2004,77.86411299
+Huron County (Michigan),26063,2004,77.42857546
+Ingham County (Michigan),26065,2004,77.94856051
+Ionia County (Michigan),26067,2004,77.5662937
+Iosco County (Michigan),26069,2004,76.11056832
+Iron County (Michigan),26071,2004,77.77942145
+Isabella County (Michigan),26073,2004,77.97565955
+Jackson County (Michigan),26075,2004,76.82898131
+Kalamazoo County (Michigan),26077,2004,77.9183896
+Kalkaska County (Michigan),26079,2004,76.77662562
+Kent County (Michigan),26081,2004,78.63581577
+Keweenaw County (Michigan),26083,2004,78.76082137
+Lake County (Michigan),26085,2004,75.92421736
+Lapeer County (Michigan),26087,2004,77.84139924
+Leelanau County (Michigan),26089,2004,81.78662412
+Lenawee County (Michigan),26091,2004,77.97371566
+Livingston County (Michigan),26093,2004,79.22105322
+Luce County (Michigan),26095,2004,77.04465184
+Mackinac County (Michigan),26097,2004,77.64199454
+Macomb County (Michigan),26099,2004,77.86547794
+Manistee County (Michigan),26101,2004,77.5714362
+Marquette County (Michigan),26103,2004,78.04377904
+Mason County (Michigan),26105,2004,77.72225932
+Mecosta County (Michigan),26107,2004,78.12732361
+Menominee County (Michigan),26109,2004,78.38088213
+Midland County (Michigan),26111,2004,79.3483858
+Missaukee County (Michigan),26113,2004,77.72192624
+Monroe County (Michigan),26115,2004,77.23206318
+Montcalm County (Michigan),26117,2004,76.92036525
+Montmorency County (Michigan),26119,2004,76.40937648
+Muskegon County (Michigan),26121,2004,76.48977113
+Newaygo County (Michigan),26123,2004,77.00771263
+Oakland County (Michigan),26125,2004,78.99840192
+Oceana County (Michigan),26127,2004,77.84613713
+Ogemaw County (Michigan),26129,2004,75.39881921
+Ontonagon County (Michigan),26131,2004,76.93919791
+Osceola County (Michigan),26133,2004,77.30213388
+Oscoda County (Michigan),26135,2004,76.33713494
+Otsego County (Michigan),26137,2004,77.77119723
+Ottawa County (Michigan),26139,2004,80.68728373
+Presque Isle County (Michigan),26141,2004,78.24933685
+Roscommon County (Michigan),26143,2004,76.29005533
+Saginaw County (Michigan),26145,2004,76.26319287
+Saint Clair County (Michigan),26147,2004,77.12591239
+Saint Joseph County (Michigan),26149,2004,76.53945381
+Sanilac County (Michigan),26151,2004,77.39217197
+Schoolcraft County (Michigan),26153,2004,77.37315379
+Shiawassee County (Michigan),26155,2004,77.20244383
+Tuscola County (Michigan),26157,2004,77.1637485
+Van Buren County (Michigan),26159,2004,76.57938606
+Washtenaw County (Michigan),26161,2004,79.63839501
+Wayne County (Michigan),26163,2004,74.0075979
+Wexford County (Michigan),26165,2004,76.98132711
+Aitkin County (Minnesota),27001,2004,79.18348577
+Anoka County (Minnesota),27003,2004,80.16481435
+Becker County (Minnesota),27005,2004,78.11875865
+Beltrami County (Minnesota),27007,2004,77.58708985
+Benton County (Minnesota),27009,2004,78.50695678
+Big Stone County (Minnesota),27011,2004,78.76973666
+Blue Earth County (Minnesota),27013,2004,80.21548206
+Brown County (Minnesota),27015,2004,80.55356508
+Carlton County (Minnesota),27017,2004,77.86952008
+Carver County (Minnesota),27019,2004,81.9709999
+Cass County (Minnesota),27021,2004,77.65113443
+Chippewa County (Minnesota),27023,2004,79.90464505
+Chisago County (Minnesota),27025,2004,79.06907974
+Clay County (Minnesota),27027,2004,80.09204118
+Clearwater County (Minnesota),27029,2004,77.60189895
+Cook County (Minnesota),27031,2004,80.51391528
+Cottonwood County (Minnesota),27033,2004,80.52926476
+Crow Wing County (Minnesota),27035,2004,79.73954492
+Dakota County (Minnesota),27037,2004,80.7522466
+Dodge County (Minnesota),27039,2004,80.66343119
+Douglas County (Minnesota),27041,2004,80.73469729
+Faribault County (Minnesota),27043,2004,79.504503
+Fillmore County (Minnesota),27045,2004,80.31432684
+Freeborn County (Minnesota),27047,2004,79.78762054
+Goodhue County (Minnesota),27049,2004,79.62075095
+Grant County (Minnesota),27051,2004,79.56986138
+Hennepin County (Minnesota),27053,2004,79.85624048
+Houston County (Minnesota),27055,2004,80.81287
+Hubbard County (Minnesota),27057,2004,80.18671211
+Isanti County (Minnesota),27059,2004,79.49526385
+Itasca County (Minnesota),27061,2004,78.19294717
+Jackson County (Minnesota),27063,2004,80.65513483
+Kanabec County (Minnesota),27065,2004,79.27782194
+Kandiyohi County (Minnesota),27067,2004,80.58653825
+Kittson County (Minnesota),27069,2004,78.49203959
+Koochiching County (Minnesota),27071,2004,78.26442374
+Lac qui Parle County (Minnesota),27073,2004,80.39224815
+Lake County (Minnesota),27075,2004,78.30406274
+Lake of the Woods County (Minnesota),27077,2004,79.08049869
+Le Sueur County (Minnesota),27079,2004,80.21406586
+Lincoln County (Minnesota),27081,2004,79.44106487
+Lyon County (Minnesota),27083,2004,79.9353604
+McLeod County (Minnesota),27085,2004,80.66639714
+Mahnomen County (Minnesota),27087,2004,76.39941295
+Marshall County (Minnesota),27089,2004,80.97935739
+Martin County (Minnesota),27091,2004,80.49360998
+Meeker County (Minnesota),27093,2004,79.75252457
+Mille Lacs County (Minnesota),27095,2004,77.65914961
+Morrison County (Minnesota),27097,2004,79.2085664
+Mower County (Minnesota),27099,2004,80.76871745
+Murray County (Minnesota),27101,2004,80.69649215
+Nicollet County (Minnesota),27103,2004,81.30372533
+Nobles County (Minnesota),27105,2004,81.56721755
+Norman County (Minnesota),27107,2004,77.62185324
+Olmsted County (Minnesota),27109,2004,81.57233289
+Otter Tail County (Minnesota),27111,2004,79.74219962
+Pennington County (Minnesota),27113,2004,78.80572737
+Pine County (Minnesota),27115,2004,78.4207175
+Pipestone County (Minnesota),27117,2004,79.29586372
+Polk County (Minnesota),27119,2004,78.19704897
+Pope County (Minnesota),27121,2004,79.85563465
+Ramsey County (Minnesota),27123,2004,79.06412873
+Red Lake County (Minnesota),27125,2004,78.605723
+Redwood County (Minnesota),27127,2004,79.07445791
+Renville County (Minnesota),27129,2004,78.69838051
+Rice County (Minnesota),27131,2004,80.0590901
+Rock County (Minnesota),27133,2004,78.70779565
+Roseau County (Minnesota),27135,2004,79.42965239
+Saint Louis County (Minnesota),27137,2004,78.24589901
+Scott County (Minnesota),27139,2004,80.4426265
+Sherburne County (Minnesota),27141,2004,79.64942252
+Sibley County (Minnesota),27143,2004,79.93664946
+Stearns County (Minnesota),27145,2004,81.50451481
+Steele County (Minnesota),27147,2004,80.73486054
+Stevens County (Minnesota),27149,2004,81.85163533
+Swift County (Minnesota),27151,2004,79.92718107
+Todd County (Minnesota),27153,2004,79.84350906
+Traverse County (Minnesota),27155,2004,79.67464556
+Wabasha County (Minnesota),27157,2004,80.66258729
+Wadena County (Minnesota),27159,2004,77.37859123
+Waseca County (Minnesota),27161,2004,80.40763945
+Washington County (Minnesota),27163,2004,80.70474722
+Watonwan County (Minnesota),27165,2004,80.15791244
+Wilkin County (Minnesota),27167,2004,78.65398731
+Winona County (Minnesota),27169,2004,80.09428495
+Wright County (Minnesota),27171,2004,80.05820004
+Yellow Medicine County (Minnesota),27173,2004,79.91731285
+Adams County (Mississippi),28001,2004,73.44012983
+Alcorn County (Mississippi),28003,2004,73.8836301
+Amite County (Mississippi),28005,2004,74.90134334
+Attala County (Mississippi),28007,2004,73.04462383
+Benton County (Mississippi),28009,2004,73.91205841
+Bolivar County (Mississippi),28011,2004,71.13197208
+Calhoun County (Mississippi),28013,2004,74.42008203
+Carroll County (Mississippi),28015,2004,75.79345247
+Chickasaw County (Mississippi),28017,2004,74.86252832
+Choctaw County (Mississippi),28019,2004,75.81673092
+Claiborne County (Mississippi),28021,2004,72.57440123
+Clarke County (Mississippi),28023,2004,73.94015851
+Clay County (Mississippi),28025,2004,74.89245834
+Coahoma County (Mississippi),28027,2004,70.42623318
+Copiah County (Mississippi),28029,2004,73.74478645
+Covington County (Mississippi),28031,2004,72.83953319
+DeSoto County (Mississippi),28033,2004,75.87309832
+Forrest County (Mississippi),28035,2004,73.4629278
+Franklin County (Mississippi),28037,2004,74.36829464
+George County (Mississippi),28039,2004,72.29442606
+Greene County (Mississippi),28041,2004,74.16099929
+Grenada County (Mississippi),28043,2004,71.7217076
+Hancock County (Mississippi),28045,2004,75.28761487
+Harrison County (Mississippi),28047,2004,73.87165757
+Hinds County (Mississippi),28049,2004,74.80398753
+Holmes County (Mississippi),28051,2004,70.57108142
+Humphreys County (Mississippi),28053,2004,71.27114521
+Issaquena County (Mississippi),28055,2004,73.98948433
+Itawamba County (Mississippi),28057,2004,73.7774578
+Jackson County (Mississippi),28059,2004,74.46635561
+Jasper County (Mississippi),28061,2004,74.30933691
+Jefferson County (Mississippi),28063,2004,72.90603511
+Jefferson Davis County (Mississippi),28065,2004,72.7751982
+Jones County (Mississippi),28067,2004,73.97457063
+Kemper County (Mississippi),28069,2004,76.21682384
+Lafayette County (Mississippi),28071,2004,76.35481242
+Lamar County (Mississippi),28073,2004,76.83323833
+Lauderdale County (Mississippi),28075,2004,73.40078108
+Lawrence County (Mississippi),28077,2004,72.83808616
+Leake County (Mississippi),28079,2004,72.7611471
+Lee County (Mississippi),28081,2004,74.04527185
+Leflore County (Mississippi),28083,2004,71.87752112
+Lincoln County (Mississippi),28085,2004,73.56017847
+Lowndes County (Mississippi),28087,2004,75.51633203
+Madison County (Mississippi),28089,2004,72.33092424
+Marion County (Mississippi),28091,2004,71.47650555
+Marshall County (Mississippi),28093,2004,72.66675512
+Monroe County (Mississippi),28095,2004,75.12900186
+Montgomery County (Mississippi),28097,2004,73.43987732
+Neshoba County (Mississippi),28099,2004,72.6685033
+Newton County (Mississippi),28101,2004,74.00583972
+Noxubee County (Mississippi),28103,2004,74.78062326
+Oktibbeha County (Mississippi),28105,2004,76.87255779
+Panola County (Mississippi),28107,2004,72.35864612
+Pearl River County (Mississippi),28109,2004,73.6528307
+Perry County (Mississippi),28111,2004,73.12660447
+Pike County (Mississippi),28113,2004,72.61363522
+Pontotoc County (Mississippi),28115,2004,76.6213322
+Prentiss County (Mississippi),28117,2004,75.67619032
+Quitman County (Mississippi),28119,2004,70.53795582
+Rankin County (Mississippi),28121,2004,77.08403836
+Scott County (Mississippi),28123,2004,73.5453994
+Sharkey County (Mississippi),28125,2004,72.20186992
+Simpson County (Mississippi),28127,2004,73.12882981
+Smith County (Mississippi),28129,2004,74.06926673
+Stone County (Mississippi),28131,2004,73.10820038
+Sunflower County (Mississippi),28133,2004,70.990461
+Tallahatchie County (Mississippi),28135,2004,73.6355705
+Tate County (Mississippi),28137,2004,73.95524407
+Tippah County (Mississippi),28139,2004,73.72946842
+Tishomingo County (Mississippi),28141,2004,73.44925346
+Tunica County (Mississippi),28143,2004,70.24299386
+Union County (Mississippi),28145,2004,75.76470383
+Walthall County (Mississippi),28147,2004,73.70321258
+Warren County (Mississippi),28149,2004,73.34235116
+Washington County (Mississippi),28151,2004,71.32289657
+Wayne County (Mississippi),28153,2004,74.27471151
+Webster County (Mississippi),28155,2004,72.81748211
+Wilkinson County (Mississippi),28157,2004,71.312229
+Winston County (Mississippi),28159,2004,74.62533243
+Yalobusha County (Mississippi),28161,2004,72.97271757
+Yazoo County (Mississippi),28163,2004,73.1786206
+Adair County (Missouri),29001,2004,77.18845656
+Andrew County (Missouri),29003,2004,77.95656104
+Atchison County (Missouri),29005,2004,77.61238761
+Audrain County (Missouri),29007,2004,76.78475236
+Barry County (Missouri),29009,2004,75.47461595
+Barton County (Missouri),29011,2004,77.06668197
+Bates County (Missouri),29013,2004,75.98776471
+Benton County (Missouri),29015,2004,75.39388679
+Bollinger County (Missouri),29017,2004,76.0430951
+Boone County (Missouri),29019,2004,78.83322097
+Buchanan County (Missouri),29021,2004,76.01793857
+Butler County (Missouri),29023,2004,73.75156855
+Caldwell County (Missouri),29025,2004,76.35694276
+Callaway County (Missouri),29027,2004,76.51003448
+Camden County (Missouri),29029,2004,77.69614395
+Cape Girardeau County (Missouri),29031,2004,77.56764746
+Carroll County (Missouri),29033,2004,76.28215171
+Carter County (Missouri),29035,2004,72.96003211
+Cass County (Missouri),29037,2004,77.39612617
+Cedar County (Missouri),29039,2004,75.45254822
+Chariton County (Missouri),29041,2004,77.53384897
+Christian County (Missouri),29043,2004,77.86401567
+Clark County (Missouri),29045,2004,76.87354553
+Clay County (Missouri),29047,2004,77.83440649
+Clinton County (Missouri),29049,2004,75.9600337
+Cole County (Missouri),29051,2004,77.68999389
+Cooper County (Missouri),29053,2004,76.92235101
+Crawford County (Missouri),29055,2004,75.36228728
+Dade County (Missouri),29057,2004,75.50149753
+Dallas County (Missouri),29059,2004,75.78414579
+Daviess County (Missouri),29061,2004,76.93107687
+DeKalb County (Missouri),29063,2004,77.44904043
+Dent County (Missouri),29065,2004,75.02770965
+Douglas County (Missouri),29067,2004,76.44778442
+Dunklin County (Missouri),29069,2004,72.21049262
+Franklin County (Missouri),29071,2004,76.16700635
+Gasconade County (Missouri),29073,2004,76.28406277
+Gentry County (Missouri),29075,2004,77.36286184
+Greene County (Missouri),29077,2004,77.04867548
+Grundy County (Missouri),29079,2004,76.74498066
+Harrison County (Missouri),29081,2004,77.28459634
+Henry County (Missouri),29083,2004,75.34596518
+Hickory County (Missouri),29085,2004,76.23513569
+Holt County (Missouri),29087,2004,78.37385469
+Howard County (Missouri),29089,2004,77.36849117
+Howell County (Missouri),29091,2004,74.81757404
+Iron County (Missouri),29093,2004,72.60763975
+Jackson County (Missouri),29095,2004,75.86166603
+Jasper County (Missouri),29097,2004,75.56879814
+Jefferson County (Missouri),29099,2004,75.71599198
+Johnson County (Missouri),29101,2004,77.34365198
+Knox County (Missouri),29103,2004,76.6105762
+Laclede County (Missouri),29105,2004,75.51376006
+Lafayette County (Missouri),29107,2004,76.25273883
+Lawrence County (Missouri),29109,2004,75.95709865
+Lewis County (Missouri),29111,2004,76.63342313
+Lincoln County (Missouri),29113,2004,76.00823746
+Linn County (Missouri),29115,2004,76.15537473
+Livingston County (Missouri),29117,2004,77.01916785
+McDonald County (Missouri),29119,2004,74.17693548
+Macon County (Missouri),29121,2004,76.5197514
+Madison County (Missouri),29123,2004,74.35208722
+Maries County (Missouri),29125,2004,76.30589641
+Marion County (Missouri),29127,2004,76.13628144
+Mercer County (Missouri),29129,2004,78.34846067
+Miller County (Missouri),29131,2004,75.54094464
+Mississippi County (Missouri),29133,2004,73.40353609
+Moniteau County (Missouri),29135,2004,77.17223708
+Monroe County (Missouri),29137,2004,77.55287315
+Montgomery County (Missouri),29139,2004,75.60898033
+Morgan County (Missouri),29141,2004,75.2576308
+New Madrid County (Missouri),29143,2004,73.26047286
+Newton County (Missouri),29145,2004,76.49822514
+Nodaway County (Missouri),29147,2004,79.17373181
+Oregon County (Missouri),29149,2004,75.26859632
+Osage County (Missouri),29151,2004,77.64676053
+Ozark County (Missouri),29153,2004,75.01184537
+Pemiscot County (Missouri),29155,2004,71.92721406
+Perry County (Missouri),29157,2004,77.520278
+Pettis County (Missouri),29159,2004,76.71241159
+Phelps County (Missouri),29161,2004,75.9433597
+Pike County (Missouri),29163,2004,76.27784368
+Platte County (Missouri),29165,2004,79.24729975
+Polk County (Missouri),29167,2004,75.91386641
+Pulaski County (Missouri),29169,2004,75.45422953
+Putnam County (Missouri),29171,2004,76.84453602
+Ralls County (Missouri),29173,2004,78.30189361
+Randolph County (Missouri),29175,2004,75.54501507
+Ray County (Missouri),29177,2004,75.6141607
+Reynolds County (Missouri),29179,2004,73.9550578
+Ripley County (Missouri),29181,2004,73.5080379
+Saint Charles County (Missouri),29183,2004,79.11079281
+Saint Clair County (Missouri),29185,2004,75.98142804
+Sainte Genevieve County (Missouri),29186,2004,77.77163547
+Saint Francois County (Missouri),29187,2004,74.18342311
+Saint Louis County (Missouri),29189,2004,77.98728792
+Saline County (Missouri),29195,2004,76.47574401
+Schuyler County (Missouri),29197,2004,77.53446102
+Scotland County (Missouri),29199,2004,77.2325544
+Scott County (Missouri),29201,2004,75.07203651
+Shannon County (Missouri),29203,2004,75.18778142
+Shelby County (Missouri),29205,2004,76.91608056
+Stoddard County (Missouri),29207,2004,75.34093269
+Stone County (Missouri),29209,2004,77.55965166
+Sullivan County (Missouri),29211,2004,76.1759909
+Taney County (Missouri),29213,2004,76.93457739
+Texas County (Missouri),29215,2004,76.18762678
+Vernon County (Missouri),29217,2004,75.43888553
+Warren County (Missouri),29219,2004,77.41764793
+Washington County (Missouri),29221,2004,73.14173783
+Wayne County (Missouri),29223,2004,73.83909896
+Webster County (Missouri),29225,2004,76.65217114
+Worth County (Missouri),29227,2004,77.85687732
+Wright County (Missouri),29229,2004,74.96885833
+Saint Louis City (Missouri),29510,2004,71.98453721
+Beaverhead County (Montana),30001,2004,78.95771225
+Big Horn County (Montana),30003,2004,72.38702333
+Blaine County (Montana),30005,2004,74.76957335
+Broadwater County (Montana),30007,2004,77.60336469
+Carbon County (Montana),30009,2004,79.06419378
+Carter County (Montana),30011,2004,78.05524118
+Cascade County (Montana),30013,2004,77.50668625
+Chouteau County (Montana),30015,2004,78.36208051
+Custer County (Montana),30017,2004,76.63507022
+Daniels County (Montana),30019,2004,77.97011122
+Dawson County (Montana),30021,2004,77.27348526
+Deer Lodge County (Montana),30023,2004,75.78605722
+Fallon County (Montana),30025,2004,77.63465882
+Fergus County (Montana),30027,2004,77.51476654
+Flathead County (Montana),30029,2004,77.82958338
+Gallatin County (Montana),30031,2004,80.75742731
+Garfield County (Montana),30033,2004,78.31999624
+Glacier County (Montana),30035,2004,72.1030168
+Granite County (Montana),30039,2004,79.74984699
+Hill County (Montana),30041,2004,76.30506551
+Jefferson County (Montana),30043,2004,77.42646622
+Judith Basin County (Montana),30045,2004,79.9568437
+Lake County (Montana),30047,2004,76.70358007
+Lewis and Clark County (Montana),30049,2004,77.95353037
+Liberty County (Montana),30051,2004,80.49587367
+Lincoln County (Montana),30053,2004,76.4361446
+McCone County (Montana),30055,2004,78.46093827
+Madison County (Montana),30057,2004,79.18641702
+Meagher County (Montana),30059,2004,77.6274728
+Mineral County (Montana),30061,2004,76.43132299
+Missoula County (Montana),30063,2004,78.77740912
+Musselshell County (Montana),30065,2004,76.00904077
+Phillips County (Montana),30071,2004,77.11552352
+Pondera County (Montana),30073,2004,76.80818904
+Powder River County (Montana),30075,2004,78.44058905
+Powell County (Montana),30077,2004,76.1192103
+Prairie County (Montana),30079,2004,77.29517552
+Ravalli County (Montana),30081,2004,78.71269626
+Richland County (Montana),30083,2004,76.77961718
+Roosevelt County (Montana),30085,2004,70.9216346
+Rosebud County (Montana),30087,2004,75.10807429
+Sanders County (Montana),30089,2004,77.06003937
+Sheridan County (Montana),30091,2004,76.93313671
+Silver Bow County (Montana),30093,2004,75.27262071
+Stillwater County (Montana),30095,2004,78.65176674
+Sweet Grass County (Montana),30097,2004,80.13556017
+Teton County (Montana),30099,2004,78.80559394
+Toole County (Montana),30101,2004,77.02699692
+Valley County (Montana),30105,2004,77.57669912
+Wheatland County (Montana),30107,2004,77.90720807
+Wibaux County (Montana),30109,2004,76.74517203
+Yellowstone County (Montana),30111,2004,78.00010028
+Park County (Montana),30067,2004,78.4916299
+Yellowstone National Park (Montana),30113,2004,78.4916299
+Adams County (Nebraska),31001,2004,79.22139063
+Antelope County (Nebraska),31003,2004,80.24682413
+Boone County (Nebraska),31011,2004,79.99895232
+Box Butte County (Nebraska),31013,2004,77.86382438
+Boyd County (Nebraska),31015,2004,78.45949544
+Brown County (Nebraska),31017,2004,79.89877088
+Buffalo County (Nebraska),31019,2004,79.4785163
+Burt County (Nebraska),31021,2004,78.06083447
+Butler County (Nebraska),31023,2004,78.63684205
+Cass County (Nebraska),31025,2004,78.28109515
+Cedar County (Nebraska),31027,2004,80.12626602
+Chase County (Nebraska),31029,2004,78.08241505
+Cherry County (Nebraska),31031,2004,78.42020566
+Cheyenne County (Nebraska),31033,2004,77.9836073
+Clay County (Nebraska),31035,2004,78.5698654
+Colfax County (Nebraska),31037,2004,79.98402179
+Cuming County (Nebraska),31039,2004,80.21342633
+Custer County (Nebraska),31041,2004,78.20089327
+Dakota County (Nebraska),31043,2004,77.94694014
+Dawes County (Nebraska),31045,2004,78.12180783
+Dawson County (Nebraska),31047,2004,78.28073088
+Deuel County (Nebraska),31049,2004,78.32758417
+Dixon County (Nebraska),31051,2004,78.65663499
+Dodge County (Nebraska),31053,2004,78.4885006
+Douglas County (Nebraska),31055,2004,77.68840665
+Dundy County (Nebraska),31057,2004,77.84703533
+Fillmore County (Nebraska),31059,2004,78.53136697
+Franklin County (Nebraska),31061,2004,78.45925781
+Frontier County (Nebraska),31063,2004,80.98230324
+Furnas County (Nebraska),31065,2004,77.60047149
+Gage County (Nebraska),31067,2004,78.1938172
+Garden County (Nebraska),31069,2004,77.45793973
+Garfield County (Nebraska),31071,2004,78.31109803
+Gosper County (Nebraska),31073,2004,78.64309293
+Greeley County (Nebraska),31077,2004,79.55163522
+Hall County (Nebraska),31079,2004,78.19909915
+Hamilton County (Nebraska),31081,2004,79.36607653
+Harlan County (Nebraska),31083,2004,79.16373641
+Hitchcock County (Nebraska),31087,2004,77.48062516
+Holt County (Nebraska),31089,2004,79.48517259
+Howard County (Nebraska),31093,2004,79.01358995
+Jefferson County (Nebraska),31095,2004,78.9528959
+Johnson County (Nebraska),31097,2004,79.12184394
+Kearney County (Nebraska),31099,2004,79.19546504
+Keith County (Nebraska),31101,2004,77.79445667
+Kimball County (Nebraska),31105,2004,76.86608937
+Knox County (Nebraska),31107,2004,78.38986972
+Lancaster County (Nebraska),31109,2004,79.9302326
+Lincoln County (Nebraska),31111,2004,78.03851165
+Madison County (Nebraska),31119,2004,78.49886172
+Merrick County (Nebraska),31121,2004,79.0038826
+Morrill County (Nebraska),31123,2004,77.60465324
+Nance County (Nebraska),31125,2004,76.83214185
+Nemaha County (Nebraska),31127,2004,78.29999239
+Nuckolls County (Nebraska),31129,2004,78.99699874
+Otoe County (Nebraska),31131,2004,79.29109259
+Pawnee County (Nebraska),31133,2004,78.9435754
+Perkins County (Nebraska),31135,2004,78.80656581
+Phelps County (Nebraska),31137,2004,78.73362571
+Pierce County (Nebraska),31139,2004,79.08850657
+Platte County (Nebraska),31141,2004,79.87587798
+Polk County (Nebraska),31143,2004,80.1907346
+Red Willow County (Nebraska),31145,2004,78.42602501
+Richardson County (Nebraska),31147,2004,77.00351666
+Rock County (Nebraska),31149,2004,78.8167322
+Saline County (Nebraska),31151,2004,78.7935574
+Sarpy County (Nebraska),31153,2004,79.42233452
+Saunders County (Nebraska),31155,2004,79.14579373
+Scotts Bluff County (Nebraska),31157,2004,76.69144133
+Seward County (Nebraska),31159,2004,79.14791135
+Sheridan County (Nebraska),31161,2004,77.50621786
+Sherman County (Nebraska),31163,2004,78.5307301
+Sioux County (Nebraska),31165,2004,82.02896819
+Stanton County (Nebraska),31167,2004,80.10790788
+Thayer County (Nebraska),31169,2004,78.85571165
+Thurston County (Nebraska),31173,2004,73.64952443
+Valley County (Nebraska),31175,2004,79.37500518
+Washington County (Nebraska),31177,2004,79.54249893
+Wayne County (Nebraska),31179,2004,81.82590622
+Webster County (Nebraska),31181,2004,77.42743466
+York County (Nebraska),31185,2004,79.75022001
+Churchill County (Nevada),32001,2004,75.33615876
+Clark County (Nevada),32003,2004,76.08627316
+Douglas County (Nevada),32005,2004,79.89200175
+Elko County (Nevada),32007,2004,76.67216419
+Eureka County (Nevada),32011,2004,76.79377951
+Humboldt County (Nevada),32013,2004,75.14621811
+Lander County (Nevada),32015,2004,75.28974851
+Lincoln County (Nevada),32017,2004,76.58580098
+Lyon County (Nevada),32019,2004,75.37932531
+Mineral County (Nevada),32021,2004,72.68972964
+Nye County (Nevada),32023,2004,73.07847406
+Pershing County (Nevada),32027,2004,76.55712985
+Storey County (Nevada),32029,2004,80.69042749
+Washoe County (Nevada),32031,2004,76.71706435
+White Pine County (Nevada),32033,2004,75.476448
+Carson City (Nevada),32510,2004,75.34835017
+Belknap County (New Hampshire),33001,2004,78.15428882
+Carroll County (New Hampshire),33003,2004,79.29587116
+Cheshire County (New Hampshire),33005,2004,78.85629565
+Coos County (New Hampshire),33007,2004,77.09120237
+Grafton County (New Hampshire),33009,2004,79.79476979
+Hillsborough County (New Hampshire),33011,2004,78.79841244
+Merrimack County (New Hampshire),33013,2004,78.92845858
+Rockingham County (New Hampshire),33015,2004,79.45266094
+Strafford County (New Hampshire),33017,2004,78.45175458
+Sullivan County (New Hampshire),33019,2004,78.33325792
+Atlantic County (New Jersey),34001,2004,75.80757873
+Bergen County (New Jersey),34003,2004,80.83813252
+Burlington County (New Jersey),34005,2004,78.20450652
+Camden County (New Jersey),34007,2004,76.23145234
+Cape May County (New Jersey),34009,2004,76.77649346
+Cumberland County (New Jersey),34011,2004,75.04207864
+Essex County (New Jersey),34013,2004,76.05835286
+Gloucester County (New Jersey),34015,2004,76.70601696
+Hudson County (New Jersey),34017,2004,77.99285738
+Hunterdon County (New Jersey),34019,2004,80.62733278
+Mercer County (New Jersey),34021,2004,78.44970554
+Middlesex County (New Jersey),34023,2004,79.65510778
+Monmouth County (New Jersey),34025,2004,78.6224945
+Morris County (New Jersey),34027,2004,80.48962033
+Ocean County (New Jersey),34029,2004,78.54651786
+Passaic County (New Jersey),34031,2004,78.22701161
+Salem County (New Jersey),34033,2004,75.52578027
+Somerset County (New Jersey),34035,2004,80.55330491
+Sussex County (New Jersey),34037,2004,78.33331381
+Union County (New Jersey),34039,2004,78.84583067
+Warren County (New Jersey),34041,2004,78.70431595
+Bernalillo County (New Mexico),35001,2004,77.80409971
+Catron County (New Mexico),35003,2004,79.21159339
+Chaves County (New Mexico),35005,2004,76.04787222
+Colfax County (New Mexico),35007,2004,77.52953911
+Curry County (New Mexico),35009,2004,76.74307179
+De Baca County (New Mexico),35011,2004,77.39474911
+Dona Ana County (New Mexico),35013,2004,78.61195925
+Eddy County (New Mexico),35015,2004,75.48889016
+Grant County (New Mexico),35017,2004,77.0681448
+Guadalupe County (New Mexico),35019,2004,76.04005402
+Hidalgo County (New Mexico),35023,2004,76.77430673
+Lea County (New Mexico),35025,2004,75.7035932
+Lincoln County (New Mexico),35027,2004,79.14957726
+Los Alamos County (New Mexico),35028,2004,82.62528469
+Luna County (New Mexico),35029,2004,76.55112963
+McKinley County (New Mexico),35031,2004,74.17873002
+Mora County (New Mexico),35033,2004,77.72997846
+Otero County (New Mexico),35035,2004,77.08437255
+Quay County (New Mexico),35037,2004,75.01294885
+Rio Arriba County (New Mexico),35039,2004,74.29951821
+Roosevelt County (New Mexico),35041,2004,76.82906537
+Sandoval County (New Mexico),35043,2004,79.1646821
+San Juan County (New Mexico),35045,2004,76.63357946
+San Miguel County (New Mexico),35047,2004,75.86812682
+Santa Fe County (New Mexico),35049,2004,79.93268998
+Sierra County (New Mexico),35051,2004,74.43339301
+Socorro County (New Mexico),35053,2004,75.97491194
+Taos County (New Mexico),35055,2004,78.57592608
+Torrance County (New Mexico),35057,2004,76.06680911
+Union County (New Mexico),35059,2004,76.98803822
+Cibola County (New Mexico),35006,2004,76.20452224
+Valencia County (New Mexico),35061,2004,76.20452224
+Albany County (New York),36001,2004,78.36822779
+Allegany County (New York),36003,2004,77.7923713
+Bronx County (New York),36005,2004,76.53463394
+Broome County (New York),36007,2004,78.21767014
+Cattaraugus County (New York),36009,2004,76.93947124
+Cayuga County (New York),36011,2004,78.86025976
+Chautauqua County (New York),36013,2004,77.84066588
+Chemung County (New York),36015,2004,77.57538104
+Chenango County (New York),36017,2004,77.44466763
+Clinton County (New York),36019,2004,78.03776501
+Columbia County (New York),36021,2004,77.94785301
+Cortland County (New York),36023,2004,77.68023155
+Delaware County (New York),36025,2004,77.92218703
+Dutchess County (New York),36027,2004,78.92743363
+Erie County (New York),36029,2004,77.46225846
+Essex County (New York),36031,2004,78.55572292
+Franklin County (New York),36033,2004,77.60095414
+Fulton County (New York),36035,2004,77.77640559
+Genesee County (New York),36037,2004,78.14090812
+Greene County (New York),36039,2004,76.75372703
+Hamilton County (New York),36041,2004,77.99819701
+Herkimer County (New York),36043,2004,77.93981974
+Jefferson County (New York),36045,2004,77.66728085
+Kings County (New York),36047,2004,78.28132814
+Lewis County (New York),36049,2004,78.54436227
+Livingston County (New York),36051,2004,78.86757679
+Madison County (New York),36053,2004,78.73988566
+Monroe County (New York),36055,2004,79.02251181
+Montgomery County (New York),36057,2004,77.5524382
+Nassau County (New York),36059,2004,80.42196239
+New York County (New York),36061,2004,79.94963636
+Niagara County (New York),36063,2004,77.16945668
+Oneida County (New York),36065,2004,77.90977751
+Onondaga County (New York),36067,2004,78.41003294
+Ontario County (New York),36069,2004,78.65410789
+Orange County (New York),36071,2004,78.18649821
+Orleans County (New York),36073,2004,77.98339884
+Oswego County (New York),36075,2004,77.03384286
+Otsego County (New York),36077,2004,78.82340157
+Putnam County (New York),36079,2004,79.8865257
+Queens County (New York),36081,2004,80.22122787
+Rensselaer County (New York),36083,2004,77.53403734
+Richmond County (New York),36085,2004,78.02738176
+Rockland County (New York),36087,2004,80.21146772
+Saint Lawrence County (New York),36089,2004,76.78409513
+Saratoga County (New York),36091,2004,79.80419581
+Schenectady County (New York),36093,2004,78.42934909
+Schoharie County (New York),36095,2004,78.60967571
+Schuyler County (New York),36097,2004,78.15836284
+Seneca County (New York),36099,2004,78.44360408
+Steuben County (New York),36101,2004,77.47502222
+Suffolk County (New York),36103,2004,78.75348033
+Sullivan County (New York),36105,2004,76.47025399
+Tioga County (New York),36107,2004,78.85450543
+Tompkins County (New York),36109,2004,80.39035776
+Ulster County (New York),36111,2004,78.41694817
+Warren County (New York),36113,2004,78.62025039
+Washington County (New York),36115,2004,77.80544071
+Wayne County (New York),36117,2004,77.86905181
+Westchester County (New York),36119,2004,80.66298357
+Wyoming County (New York),36121,2004,78.15375409
+Yates County (New York),36123,2004,78.39147006
+Alamance County (North Carolina),37001,2004,76.67253791
+Alexander County (North Carolina),37003,2004,76.61992685
+Alleghany County (North Carolina),37005,2004,76.51226796
+Anson County (North Carolina),37007,2004,74.21784223
+Ashe County (North Carolina),37009,2004,77.01084876
+Avery County (North Carolina),37011,2004,76.73607253
+Beaufort County (North Carolina),37013,2004,74.74617153
+Bertie County (North Carolina),37015,2004,73.72877055
+Bladen County (North Carolina),37017,2004,73.23695534
+Brunswick County (North Carolina),37019,2004,76.68322493
+Buncombe County (North Carolina),37021,2004,77.37752093
+Burke County (North Carolina),37023,2004,76.12566986
+Cabarrus County (North Carolina),37025,2004,76.62018503
+Caldwell County (North Carolina),37027,2004,75.65968332
+Camden County (North Carolina),37029,2004,77.39459067
+Carteret County (North Carolina),37031,2004,76.34084134
+Caswell County (North Carolina),37033,2004,75.13805167
+Catawba County (North Carolina),37035,2004,76.10573334
+Chatham County (North Carolina),37037,2004,78.88845451
+Cherokee County (North Carolina),37039,2004,75.83535227
+Chowan County (North Carolina),37041,2004,75.38980304
+Clay County (North Carolina),37043,2004,77.36038865
+Cleveland County (North Carolina),37045,2004,74.56129528
+Columbus County (North Carolina),37047,2004,72.72949409
+Craven County (North Carolina),37049,2004,76.05785423
+Cumberland County (North Carolina),37051,2004,74.788631
+Currituck County (North Carolina),37053,2004,76.061935
+Dare County (North Carolina),37055,2004,77.64885242
+Davidson County (North Carolina),37057,2004,75.88052697
+Davie County (North Carolina),37059,2004,77.59779182
+Duplin County (North Carolina),37061,2004,75.51139321
+Durham County (North Carolina),37063,2004,77.14931002
+Edgecombe County (North Carolina),37065,2004,73.45270035
+Forsyth County (North Carolina),37067,2004,76.88401802
+Franklin County (North Carolina),37069,2004,75.6488187
+Gaston County (North Carolina),37071,2004,74.29920155
+Gates County (North Carolina),37073,2004,74.98356228
+Graham County (North Carolina),37075,2004,75.57889914
+Granville County (North Carolina),37077,2004,75.3559602
+Greene County (North Carolina),37079,2004,75.51971833
+Guilford County (North Carolina),37081,2004,77.44253348
+Halifax County (North Carolina),37083,2004,73.46733517
+Harnett County (North Carolina),37085,2004,75.36161121
+Haywood County (North Carolina),37087,2004,77.00689413
+Henderson County (North Carolina),37089,2004,77.90695448
+Hertford County (North Carolina),37091,2004,74.16448232
+Hoke County (North Carolina),37093,2004,74.38342077
+Hyde County (North Carolina),37095,2004,75.68327223
+Iredell County (North Carolina),37097,2004,76.3780833
+Jackson County (North Carolina),37099,2004,77.29570213
+Johnston County (North Carolina),37101,2004,76.00318513
+Jones County (North Carolina),37103,2004,74.85942656
+Lee County (North Carolina),37105,2004,75.36601257
+Lenoir County (North Carolina),37107,2004,73.54143457
+Lincoln County (North Carolina),37109,2004,75.95724974
+McDowell County (North Carolina),37111,2004,76.86308031
+Macon County (North Carolina),37113,2004,77.19249662
+Madison County (North Carolina),37115,2004,77.0015752
+Martin County (North Carolina),37117,2004,72.41100196
+Mecklenburg County (North Carolina),37119,2004,77.78159292
+Mitchell County (North Carolina),37121,2004,75.63616442
+Montgomery County (North Carolina),37123,2004,76.10184914
+Moore County (North Carolina),37125,2004,78.17255477
+Nash County (North Carolina),37127,2004,74.58541849
+New Hanover County (North Carolina),37129,2004,77.97589715
+Northampton County (North Carolina),37131,2004,74.58461952
+Onslow County (North Carolina),37133,2004,76.32803634
+Orange County (North Carolina),37135,2004,79.05304801
+Pamlico County (North Carolina),37137,2004,76.68351255
+Pasquotank County (North Carolina),37139,2004,75.81288802
+Pender County (North Carolina),37141,2004,76.39192492
+Perquimans County (North Carolina),37143,2004,76.34418663
+Person County (North Carolina),37145,2004,74.99961637
+Pitt County (North Carolina),37147,2004,75.83182601
+Polk County (North Carolina),37149,2004,77.82930251
+Randolph County (North Carolina),37151,2004,76.4964936
+Richmond County (North Carolina),37153,2004,73.29555922
+Robeson County (North Carolina),37155,2004,72.39572211
+Rockingham County (North Carolina),37157,2004,74.92375683
+Rowan County (North Carolina),37159,2004,75.80351622
+Rutherford County (North Carolina),37161,2004,74.91615255
+Sampson County (North Carolina),37163,2004,74.44094087
+Scotland County (North Carolina),37165,2004,73.39026379
+Stanly County (North Carolina),37167,2004,75.86913921
+Stokes County (North Carolina),37169,2004,75.9787728
+Surry County (North Carolina),37171,2004,75.91126086
+Swain County (North Carolina),37173,2004,73.27070696
+Transylvania County (North Carolina),37175,2004,78.86084046
+Tyrrell County (North Carolina),37177,2004,76.06998329
+Union County (North Carolina),37179,2004,77.53024916
+Vance County (North Carolina),37181,2004,73.01511849
+Wake County (North Carolina),37183,2004,79.33465178
+Warren County (North Carolina),37185,2004,75.66661721
+Washington County (North Carolina),37187,2004,75.10205806
+Watauga County (North Carolina),37189,2004,79.88750584
+Wayne County (North Carolina),37191,2004,74.59665991
+Wilkes County (North Carolina),37193,2004,76.17329681
+Wilson County (North Carolina),37195,2004,74.81625019
+Yadkin County (North Carolina),37197,2004,76.16616758
+Yancey County (North Carolina),37199,2004,77.62652616
+Adams County (North Dakota),38001,2004,77.84352181
+Barnes County (North Dakota),38003,2004,78.84661534
+Benson County (North Dakota),38005,2004,74.05300546
+Bottineau County (North Dakota),38009,2004,78.26633427
+Bowman County (North Dakota),38011,2004,78.1707713
+Burke County (North Dakota),38013,2004,78.69444441
+Burleigh County (North Dakota),38015,2004,80.29762185
+Cass County (North Dakota),38017,2004,80.22335822
+Cavalier County (North Dakota),38019,2004,79.25623071
+Dickey County (North Dakota),38021,2004,79.04542853
+Divide County (North Dakota),38023,2004,79.59950712
+Dunn County (North Dakota),38025,2004,78.59164033
+Eddy County (North Dakota),38027,2004,76.19042324
+Emmons County (North Dakota),38029,2004,78.36205248
+Foster County (North Dakota),38031,2004,78.45192913
+Golden Valley County (North Dakota),38033,2004,80.8777623
+Grand Forks County (North Dakota),38035,2004,79.03343703
+Grant County (North Dakota),38037,2004,78.24698929
+Griggs County (North Dakota),38039,2004,78.7677026
+Hettinger County (North Dakota),38041,2004,79.53577357
+Kidder County (North Dakota),38043,2004,80.02428005
+LaMoure County (North Dakota),38045,2004,80.3899022
+Logan County (North Dakota),38047,2004,79.4954767
+McHenry County (North Dakota),38049,2004,79.31249206
+McIntosh County (North Dakota),38051,2004,79.42138218
+McKenzie County (North Dakota),38053,2004,77.38935559
+McLean County (North Dakota),38055,2004,78.42759168
+Mercer County (North Dakota),38057,2004,79.30431432
+Morton County (North Dakota),38059,2004,78.42124484
+Mountrail County (North Dakota),38061,2004,75.49231349
+Nelson County (North Dakota),38063,2004,76.8771817
+Oliver County (North Dakota),38065,2004,81.99935451
+Pembina County (North Dakota),38067,2004,79.74253776
+Pierce County (North Dakota),38069,2004,78.41827017
+Ramsey County (North Dakota),38071,2004,77.57065479
+Ransom County (North Dakota),38073,2004,77.72504721
+Renville County (North Dakota),38075,2004,78.9460239
+Richland County (North Dakota),38077,2004,80.39555535
+Rolette County (North Dakota),38079,2004,72.70514105
+Sargent County (North Dakota),38081,2004,80.05956167
+Sheridan County (North Dakota),38083,2004,82.16226746
+Sioux County (North Dakota),38085,2004,69.0443994
+Stark County (North Dakota),38089,2004,80.12093614
+Steele County (North Dakota),38091,2004,80.61878687
+Stutsman County (North Dakota),38093,2004,78.58431616
+Towner County (North Dakota),38095,2004,78.48311453
+Traill County (North Dakota),38097,2004,79.69626181
+Walsh County (North Dakota),38099,2004,78.16106033
+Ward County (North Dakota),38101,2004,78.89790673
+Wells County (North Dakota),38103,2004,78.61922013
+Williams County (North Dakota),38105,2004,78.37006372
+Adams County (Ohio),39001,2004,74.0794087
+Allen County (Ohio),39003,2004,77.05609345
+Ashland County (Ohio),39005,2004,78.24764107
+Ashtabula County (Ohio),39007,2004,76.16894923
+Athens County (Ohio),39009,2004,76.27975115
+Auglaize County (Ohio),39011,2004,78.153915
+Belmont County (Ohio),39013,2004,76.28795993
+Brown County (Ohio),39015,2004,75.30781812
+Butler County (Ohio),39017,2004,76.65769948
+Carroll County (Ohio),39019,2004,78.06419939
+Champaign County (Ohio),39021,2004,76.29470029
+Clark County (Ohio),39023,2004,75.40519272
+Clermont County (Ohio),39025,2004,77.07413468
+Clinton County (Ohio),39027,2004,75.9444457
+Columbiana County (Ohio),39029,2004,76.4945088
+Coshocton County (Ohio),39031,2004,76.76033354
+Crawford County (Ohio),39033,2004,76.47185109
+Cuyahoga County (Ohio),39035,2004,76.53177127
+Darke County (Ohio),39037,2004,77.69676282
+Defiance County (Ohio),39039,2004,78.02388059
+Delaware County (Ohio),39041,2004,79.80486993
+Erie County (Ohio),39043,2004,77.30933985
+Fairfield County (Ohio),39045,2004,77.56266185
+Fayette County (Ohio),39047,2004,74.59982736
+Franklin County (Ohio),39049,2004,76.11047442
+Fulton County (Ohio),39051,2004,78.1755822
+Gallia County (Ohio),39053,2004,74.76770302
+Geauga County (Ohio),39055,2004,80.27848101
+Greene County (Ohio),39057,2004,78.67836597
+Guernsey County (Ohio),39059,2004,75.86281704
+Hamilton County (Ohio),39061,2004,76.04316673
+Hancock County (Ohio),39063,2004,78.61906147
+Hardin County (Ohio),39065,2004,76.09936838
+Harrison County (Ohio),39067,2004,75.5943391
+Henry County (Ohio),39069,2004,78.408173
+Highland County (Ohio),39071,2004,75.33945295
+Hocking County (Ohio),39073,2004,75.63182153
+Holmes County (Ohio),39075,2004,79.04376441
+Huron County (Ohio),39077,2004,76.84246166
+Jackson County (Ohio),39079,2004,73.92211577
+Jefferson County (Ohio),39081,2004,74.91036956
+Knox County (Ohio),39083,2004,77.00552119
+Lake County (Ohio),39085,2004,78.26036098
+Lawrence County (Ohio),39087,2004,74.07261301
+Licking County (Ohio),39089,2004,77.03589082
+Logan County (Ohio),39091,2004,76.41174929
+Lorain County (Ohio),39093,2004,77.64621252
+Lucas County (Ohio),39095,2004,76.03242959
+Madison County (Ohio),39097,2004,76.13250665
+Mahoning County (Ohio),39099,2004,76.36817043
+Marion County (Ohio),39101,2004,76.19842479
+Medina County (Ohio),39103,2004,79.33878754
+Meigs County (Ohio),39105,2004,74.81196877
+Mercer County (Ohio),39107,2004,78.58936914
+Miami County (Ohio),39109,2004,77.6535277
+Monroe County (Ohio),39111,2004,76.80816914
+Montgomery County (Ohio),39113,2004,76.19762744
+Morgan County (Ohio),39115,2004,76.63942676
+Morrow County (Ohio),39117,2004,77.25979154
+Muskingum County (Ohio),39119,2004,76.3879981
+Noble County (Ohio),39121,2004,79.49285323
+Ottawa County (Ohio),39123,2004,77.84291683
+Paulding County (Ohio),39125,2004,77.29601399
+Perry County (Ohio),39127,2004,75.85533869
+Pickaway County (Ohio),39129,2004,75.96921844
+Pike County (Ohio),39131,2004,74.0675205
+Portage County (Ohio),39133,2004,78.00863558
+Preble County (Ohio),39135,2004,76.66788353
+Putnam County (Ohio),39137,2004,79.10298258
+Richland County (Ohio),39139,2004,77.19010116
+Ross County (Ohio),39141,2004,75.18709143
+Sandusky County (Ohio),39143,2004,77.14976537
+Scioto County (Ohio),39145,2004,73.93461187
+Seneca County (Ohio),39147,2004,77.34327707
+Shelby County (Ohio),39149,2004,77.91582821
+Stark County (Ohio),39151,2004,77.4646609
+Summit County (Ohio),39153,2004,77.06729155
+Trumbull County (Ohio),39155,2004,76.36198978
+Tuscarawas County (Ohio),39157,2004,77.95676236
+Union County (Ohio),39159,2004,77.82990214
+Van Wert County (Ohio),39161,2004,77.69002253
+Vinton County (Ohio),39163,2004,74.90231202
+Warren County (Ohio),39165,2004,78.31912233
+Washington County (Ohio),39167,2004,76.63016054
+Wayne County (Ohio),39169,2004,77.9703405
+Williams County (Ohio),39171,2004,78.04220454
+Wood County (Ohio),39173,2004,78.54691591
+Wyandot County (Ohio),39175,2004,77.72185402
+Adair County (Oklahoma),40001,2004,73.03855754
+Alfalfa County (Oklahoma),40003,2004,77.62995834
+Atoka County (Oklahoma),40005,2004,75.03502869
+Beaver County (Oklahoma),40007,2004,77.73013849
+Beckham County (Oklahoma),40009,2004,73.72196306
+Blaine County (Oklahoma),40011,2004,74.12578074
+Bryan County (Oklahoma),40013,2004,74.64041797
+Caddo County (Oklahoma),40015,2004,72.89096118
+Canadian County (Oklahoma),40017,2004,77.29960795
+Carter County (Oklahoma),40019,2004,73.12950008
+Cherokee County (Oklahoma),40021,2004,75.03523927
+Choctaw County (Oklahoma),40023,2004,72.37436512
+Cimarron County (Oklahoma),40025,2004,75.94161902
+Cleveland County (Oklahoma),40027,2004,77.71069231
+Coal County (Oklahoma),40029,2004,72.41442299
+Comanche County (Oklahoma),40031,2004,75.40442158
+Cotton County (Oklahoma),40033,2004,74.73380669
+Craig County (Oklahoma),40035,2004,74.08613523
+Creek County (Oklahoma),40037,2004,74.11297915
+Custer County (Oklahoma),40039,2004,75.14773083
+Delaware County (Oklahoma),40041,2004,75.39745903
+Dewey County (Oklahoma),40043,2004,73.81648211
+Ellis County (Oklahoma),40045,2004,76.31805591
+Garfield County (Oklahoma),40047,2004,75.58075667
+Garvin County (Oklahoma),40049,2004,73.41035165
+Grady County (Oklahoma),40051,2004,75.17681424
+Grant County (Oklahoma),40053,2004,75.88287568
+Greer County (Oklahoma),40055,2004,75.04274276
+Harmon County (Oklahoma),40057,2004,74.40279868
+Harper County (Oklahoma),40059,2004,75.96983167
+Haskell County (Oklahoma),40061,2004,74.18244356
+Hughes County (Oklahoma),40063,2004,73.34247781
+Jackson County (Oklahoma),40065,2004,75.12953502
+Jefferson County (Oklahoma),40067,2004,73.06675239
+Johnston County (Oklahoma),40069,2004,72.86469669
+Kay County (Oklahoma),40071,2004,74.8588674
+Kingfisher County (Oklahoma),40073,2004,76.26352431
+Kiowa County (Oklahoma),40075,2004,72.77290646
+Latimer County (Oklahoma),40077,2004,74.55565118
+Le Flore County (Oklahoma),40079,2004,73.42216045
+Lincoln County (Oklahoma),40081,2004,74.64773618
+Logan County (Oklahoma),40083,2004,76.94868102
+Love County (Oklahoma),40085,2004,74.73143052
+McClain County (Oklahoma),40087,2004,75.58587729
+McCurtain County (Oklahoma),40089,2004,72.2902583
+McIntosh County (Oklahoma),40091,2004,74.29126027
+Major County (Oklahoma),40093,2004,76.16618743
+Marshall County (Oklahoma),40095,2004,75.40024025
+Mayes County (Oklahoma),40097,2004,74.76613263
+Murray County (Oklahoma),40099,2004,73.46011958
+Muskogee County (Oklahoma),40101,2004,74.02273835
+Noble County (Oklahoma),40103,2004,76.13268252
+Nowata County (Oklahoma),40105,2004,75.53079973
+Okfuskee County (Oklahoma),40107,2004,72.86266903
+Oklahoma County (Oklahoma),40109,2004,75.24904545
+Okmulgee County (Oklahoma),40111,2004,73.61296262
+Osage County (Oklahoma),40113,2004,77.08215106
+Ottawa County (Oklahoma),40115,2004,73.6774055
+Pawnee County (Oklahoma),40117,2004,74.30011277
+Payne County (Oklahoma),40119,2004,77.49565284
+Pittsburg County (Oklahoma),40121,2004,74.13641925
+Pontotoc County (Oklahoma),40123,2004,73.84163262
+Pottawatomie County (Oklahoma),40125,2004,74.32088428
+Pushmataha County (Oklahoma),40127,2004,73.45997476
+Roger Mills County (Oklahoma),40129,2004,76.78022766
+Rogers County (Oklahoma),40131,2004,76.78228833
+Seminole County (Oklahoma),40133,2004,72.59919368
+Sequoyah County (Oklahoma),40135,2004,73.99480004
+Stephens County (Oklahoma),40137,2004,74.70804523
+Texas County (Oklahoma),40139,2004,76.63915679
+Tillman County (Oklahoma),40141,2004,74.61737649
+Tulsa County (Oklahoma),40143,2004,75.38929034
+Wagoner County (Oklahoma),40145,2004,77.41686592
+Washington County (Oklahoma),40147,2004,76.70378426
+Washita County (Oklahoma),40149,2004,75.77006535
+Woods County (Oklahoma),40151,2004,76.59086291
+Woodward County (Oklahoma),40153,2004,75.89251453
+Baker County (Oregon),41001,2004,77.17675576
+Benton County (Oregon),41003,2004,81.26251807
+Clackamas County (Oregon),41005,2004,79.0800406
+Clatsop County (Oregon),41007,2004,77.06186676
+Columbia County (Oregon),41009,2004,77.19688552
+Coos County (Oregon),41011,2004,75.94209197
+Crook County (Oregon),41013,2004,77.85941872
+Curry County (Oregon),41015,2004,76.41218645
+Deschutes County (Oregon),41017,2004,79.48147281
+Douglas County (Oregon),41019,2004,76.73601412
+Gilliam County (Oregon),41021,2004,79.29151458
+Grant County (Oregon),41023,2004,78.38738523
+Harney County (Oregon),41025,2004,77.2115831
+Hood River County (Oregon),41027,2004,78.92227634
+Jackson County (Oregon),41029,2004,78.24495689
+Jefferson County (Oregon),41031,2004,76.26560727
+Josephine County (Oregon),41033,2004,76.53041268
+Klamath County (Oregon),41035,2004,75.89951472
+Lake County (Oregon),41037,2004,77.112554
+Lane County (Oregon),41039,2004,78.33714985
+Lincoln County (Oregon),41041,2004,76.79831319
+Linn County (Oregon),41043,2004,77.38957939
+Malheur County (Oregon),41045,2004,77.64303775
+Marion County (Oregon),41047,2004,77.87581141
+Morrow County (Oregon),41049,2004,78.24831522
+Multnomah County (Oregon),41051,2004,77.20172134
+Polk County (Oregon),41053,2004,79.9315322
+Sherman County (Oregon),41055,2004,79.33737612
+Tillamook County (Oregon),41057,2004,77.77732167
+Umatilla County (Oregon),41059,2004,77.60004069
+Union County (Oregon),41061,2004,78.23634878
+Wallowa County (Oregon),41063,2004,79.5152877
+Wasco County (Oregon),41065,2004,76.8618843
+Washington County (Oregon),41067,2004,80.28810666
+Wheeler County (Oregon),41069,2004,78.50037817
+Yamhill County (Oregon),41071,2004,78.48332657
+Adams County (Pennsylvania),42001,2004,78.47926939
+Allegheny County (Pennsylvania),42003,2004,77.08953714
+Armstrong County (Pennsylvania),42005,2004,76.92000876
+Beaver County (Pennsylvania),42007,2004,77.1041026
+Bedford County (Pennsylvania),42009,2004,78.12453827
+Berks County (Pennsylvania),42011,2004,78.46387758
+Blair County (Pennsylvania),42013,2004,76.37665413
+Bradford County (Pennsylvania),42015,2004,77.57974703
+Bucks County (Pennsylvania),42017,2004,78.76128867
+Butler County (Pennsylvania),42019,2004,78.14424734
+Cambria County (Pennsylvania),42021,2004,76.9359155
+Cameron County (Pennsylvania),42023,2004,78.10759128
+Carbon County (Pennsylvania),42025,2004,76.23954589
+Centre County (Pennsylvania),42027,2004,80.13874681
+Chester County (Pennsylvania),42029,2004,79.63487678
+Clarion County (Pennsylvania),42031,2004,77.05237747
+Clearfield County (Pennsylvania),42033,2004,77.48237559
+Clinton County (Pennsylvania),42035,2004,77.36219536
+Columbia County (Pennsylvania),42037,2004,77.81307206
+Crawford County (Pennsylvania),42039,2004,77.280073
+Cumberland County (Pennsylvania),42041,2004,79.07677085
+Dauphin County (Pennsylvania),42043,2004,77.34216483
+Delaware County (Pennsylvania),42045,2004,77.25130174
+Elk County (Pennsylvania),42047,2004,78.1015857
+Erie County (Pennsylvania),42049,2004,77.59360885
+Fayette County (Pennsylvania),42051,2004,76.03050917
+Forest County (Pennsylvania),42053,2004,76.44510806
+Franklin County (Pennsylvania),42055,2004,78.73148533
+Fulton County (Pennsylvania),42057,2004,77.39704368
+Greene County (Pennsylvania),42059,2004,76.26371314
+Huntingdon County (Pennsylvania),42061,2004,77.67623065
+Indiana County (Pennsylvania),42063,2004,78.03294086
+Jefferson County (Pennsylvania),42065,2004,77.20581291
+Juniata County (Pennsylvania),42067,2004,78.23818952
+Lackawanna County (Pennsylvania),42069,2004,76.66902917
+Lancaster County (Pennsylvania),42071,2004,79.05589424
+Lawrence County (Pennsylvania),42073,2004,77.20245068
+Lebanon County (Pennsylvania),42075,2004,78.43737008
+Lehigh County (Pennsylvania),42077,2004,78.65801782
+Luzerne County (Pennsylvania),42079,2004,76.30670655
+Lycoming County (Pennsylvania),42081,2004,77.71070866
+McKean County (Pennsylvania),42083,2004,76.66832875
+Mercer County (Pennsylvania),42085,2004,77.07803828
+Mifflin County (Pennsylvania),42087,2004,77.30650088
+Monroe County (Pennsylvania),42089,2004,77.60530639
+Montgomery County (Pennsylvania),42091,2004,79.43349946
+Montour County (Pennsylvania),42093,2004,77.26261703
+Northampton County (Pennsylvania),42095,2004,79.20398989
+Northumberland County (Pennsylvania),42097,2004,77.03033987
+Perry County (Pennsylvania),42099,2004,76.65700828
+Philadelphia County (Pennsylvania),42101,2004,73.30027705
+Pike County (Pennsylvania),42103,2004,79.18400762
+Potter County (Pennsylvania),42105,2004,77.44311863
+Schuylkill County (Pennsylvania),42107,2004,75.93202275
+Snyder County (Pennsylvania),42109,2004,78.89925901
+Somerset County (Pennsylvania),42111,2004,77.63839021
+Sullivan County (Pennsylvania),42113,2004,75.9584339
+Susquehanna County (Pennsylvania),42115,2004,77.16939233
+Tioga County (Pennsylvania),42117,2004,78.20879637
+Union County (Pennsylvania),42119,2004,79.96461133
+Venango County (Pennsylvania),42121,2004,76.59250912
+Warren County (Pennsylvania),42123,2004,77.51469406
+Washington County (Pennsylvania),42125,2004,77.18002527
+Wayne County (Pennsylvania),42127,2004,76.92696389
+Westmoreland County (Pennsylvania),42129,2004,77.87322438
+Wyoming County (Pennsylvania),42131,2004,76.98815129
+York County (Pennsylvania),42133,2004,78.51464563
+Bristol County (Rhode Island),44001,2004,79.75074847
+Kent County (Rhode Island),44003,2004,77.91802619
+Newport County (Rhode Island),44005,2004,79.80723813
+Providence County (Rhode Island),44007,2004,78.0128913
+Washington County (Rhode Island),44009,2004,79.87339078
+Abbeville County (South Carolina),45001,2004,76.31941622
+Aiken County (South Carolina),45003,2004,75.58869496
+Allendale County (South Carolina),45005,2004,72.51004358
+Anderson County (South Carolina),45007,2004,75.07267539
+Bamberg County (South Carolina),45009,2004,73.70898192
+Barnwell County (South Carolina),45011,2004,73.34603594
+Beaufort County (South Carolina),45013,2004,80.1906958
+Berkeley County (South Carolina),45015,2004,76.13625052
+Calhoun County (South Carolina),45017,2004,74.94631514
+Charleston County (South Carolina),45019,2004,76.11047637
+Cherokee County (South Carolina),45021,2004,73.32743011
+Chester County (South Carolina),45023,2004,73.54222685
+Chesterfield County (South Carolina),45025,2004,73.76806123
+Clarendon County (South Carolina),45027,2004,74.59708349
+Colleton County (South Carolina),45029,2004,72.91538185
+Darlington County (South Carolina),45031,2004,72.96762592
+Dillon County (South Carolina),45033,2004,72.23021149
+Dorchester County (South Carolina),45035,2004,76.68739008
+Edgefield County (South Carolina),45037,2004,76.32856549
+Fairfield County (South Carolina),45039,2004,72.8869059
+Florence County (South Carolina),45041,2004,73.47091391
+Georgetown County (South Carolina),45043,2004,76.18206843
+Greenville County (South Carolina),45045,2004,76.74787051
+Greenwood County (South Carolina),45047,2004,75.55872966
+Hampton County (South Carolina),45049,2004,73.58642262
+Horry County (South Carolina),45051,2004,75.95667181
+Jasper County (South Carolina),45053,2004,75.19458639
+Kershaw County (South Carolina),45055,2004,75.54808965
+Lancaster County (South Carolina),45057,2004,75.52151454
+Laurens County (South Carolina),45059,2004,74.1456944
+Lee County (South Carolina),45061,2004,72.40531953
+Lexington County (South Carolina),45063,2004,76.6308276
+McCormick County (South Carolina),45065,2004,75.30862295
+Marion County (South Carolina),45067,2004,72.18366152
+Marlboro County (South Carolina),45069,2004,71.78714935
+Newberry County (South Carolina),45071,2004,75.33409758
+Oconee County (South Carolina),45073,2004,76.42767762
+Orangeburg County (South Carolina),45075,2004,73.35432265
+Pickens County (South Carolina),45077,2004,76.87542901
+Richland County (South Carolina),45079,2004,75.82803641
+Saluda County (South Carolina),45081,2004,75.90975683
+Spartanburg County (South Carolina),45083,2004,74.76429734
+Sumter County (South Carolina),45085,2004,74.86830114
+Union County (South Carolina),45087,2004,73.48475876
+Williamsburg County (South Carolina),45089,2004,72.55358638
+York County (South Carolina),45091,2004,76.29766938
+Aurora County (South Dakota),46003,2004,79.10341491
+Beadle County (South Dakota),46005,2004,78.457725
+Bennett County (South Dakota),46007,2004,73.08036863
+Bon Homme County (South Dakota),46009,2004,80.18741899
+Brookings County (South Dakota),46011,2004,80.66935866
+Brown County (South Dakota),46013,2004,79.56441561
+Brule County (South Dakota),46015,2004,78.44274024
+Buffalo County (South Dakota),46017,2004,70.07866174
+Butte County (South Dakota),46019,2004,76.90203864
+Campbell County (South Dakota),46021,2004,80.7443535
+Charles Mix County (South Dakota),46023,2004,77.56254479
+Clark County (South Dakota),46025,2004,78.97725184
+Clay County (South Dakota),46027,2004,78.98156487
+Codington County (South Dakota),46029,2004,79.56758978
+Corson County (South Dakota),46031,2004,70.85855585
+Custer County (South Dakota),46033,2004,78.81657895
+Davison County (South Dakota),46035,2004,79.55253364
+Day County (South Dakota),46037,2004,78.1326769
+Deuel County (South Dakota),46039,2004,79.38928784
+Dewey County (South Dakota),46041,2004,70.2373618
+Douglas County (South Dakota),46043,2004,79.94182567
+Edmunds County (South Dakota),46045,2004,79.20987848
+Fall River County (South Dakota),46047,2004,75.11182123
+Faulk County (South Dakota),46049,2004,79.52939431
+Grant County (South Dakota),46051,2004,78.68850099
+Gregory County (South Dakota),46053,2004,77.36669961
+Haakon County (South Dakota),46055,2004,77.62912017
+Hamlin County (South Dakota),46057,2004,78.50667844
+Hand County (South Dakota),46059,2004,79.90378461
+Hanson County (South Dakota),46061,2004,80.40181667
+Harding County (South Dakota),46063,2004,80.41979048
+Hughes County (South Dakota),46065,2004,78.68759138
+Hutchinson County (South Dakota),46067,2004,79.61736968
+Hyde County (South Dakota),46069,2004,77.40189148
+Jerauld County (South Dakota),46073,2004,79.21284261
+Jones County (South Dakota),46075,2004,78.35532728
+Kingsbury County (South Dakota),46077,2004,78.18529211
+Lake County (South Dakota),46079,2004,79.98167107
+Lawrence County (South Dakota),46081,2004,79.65134554
+Lincoln County (South Dakota),46083,2004,81.31743158
+Lyman County (South Dakota),46085,2004,76.70270411
+McCook County (South Dakota),46087,2004,78.4282529
+McPherson County (South Dakota),46089,2004,79.76584797
+Marshall County (South Dakota),46091,2004,79.31816607
+Meade County (South Dakota),46093,2004,77.51428287
+Mellette County (South Dakota),46095,2004,72.36408052
+Miner County (South Dakota),46097,2004,78.92388477
+Minnehaha County (South Dakota),46099,2004,78.79774946
+Moody County (South Dakota),46101,2004,79.79644167
+Pennington County (South Dakota),46103,2004,78.90855954
+Perkins County (South Dakota),46105,2004,77.78579957
+Potter County (South Dakota),46107,2004,78.05487108
+Roberts County (South Dakota),46109,2004,76.96381416
+Sanborn County (South Dakota),46111,2004,79.18304197
+Oglala Lakota County (South Dakota),46102,2004,65.7999498
+Shannon County (South Dakota),46113,2004,65.7999498
+Spink County (South Dakota),46115,2004,78.62922862
+Stanley County (South Dakota),46117,2004,79.76103948
+Sully County (South Dakota),46119,2004,80.55454565
+Todd County (South Dakota),46121,2004,68.07259903
+Tripp County (South Dakota),46123,2004,77.20214895
+Turner County (South Dakota),46125,2004,79.1341646
+Union County (South Dakota),46127,2004,80.01741529
+Walworth County (South Dakota),46129,2004,76.70753533
+Yankton County (South Dakota),46135,2004,79.71974359
+Ziebach County (South Dakota),46137,2004,75.96386165
+Jackson County (South Dakota),46071,2004,73.77639075
+Washabaugh County (South Dakota),46131,2004,73.77639075
+Anderson County (Tennessee),47001,2004,76.10065903
+Bedford County (Tennessee),47003,2004,74.83208743
+Benton County (Tennessee),47005,2004,72.85765279
+Bledsoe County (Tennessee),47007,2004,75.75527619
+Blount County (Tennessee),47009,2004,76.45398383
+Bradley County (Tennessee),47011,2004,75.91203247
+Campbell County (Tennessee),47013,2004,73.8476316
+Cannon County (Tennessee),47015,2004,74.61678192
+Carroll County (Tennessee),47017,2004,72.82409172
+Carter County (Tennessee),47019,2004,75.32632226
+Cheatham County (Tennessee),47021,2004,74.78910356
+Chester County (Tennessee),47023,2004,76.16897483
+Claiborne County (Tennessee),47025,2004,73.3569466
+Clay County (Tennessee),47027,2004,73.90235526
+Cocke County (Tennessee),47029,2004,72.55915374
+Coffee County (Tennessee),47031,2004,74.57041666
+Crockett County (Tennessee),47033,2004,74.27734959
+Cumberland County (Tennessee),47035,2004,76.98446929
+Davidson County (Tennessee),47037,2004,75.39147446
+Decatur County (Tennessee),47039,2004,74.10687215
+DeKalb County (Tennessee),47041,2004,73.76226694
+Dickson County (Tennessee),47043,2004,74.97925819
+Dyer County (Tennessee),47045,2004,73.85363386
+Fayette County (Tennessee),47047,2004,75.74693462
+Fentress County (Tennessee),47049,2004,72.67968992
+Franklin County (Tennessee),47051,2004,75.85923173
+Gibson County (Tennessee),47053,2004,73.26178167
+Giles County (Tennessee),47055,2004,74.62173609
+Grainger County (Tennessee),47057,2004,74.10721763
+Greene County (Tennessee),47059,2004,74.6678813
+Grundy County (Tennessee),47061,2004,71.7427233
+Hamblen County (Tennessee),47063,2004,74.69477987
+Hamilton County (Tennessee),47065,2004,76.03391733
+Hancock County (Tennessee),47067,2004,72.50264071
+Hardeman County (Tennessee),47069,2004,74.26661598
+Hardin County (Tennessee),47071,2004,73.46912636
+Hawkins County (Tennessee),47073,2004,75.11108733
+Haywood County (Tennessee),47075,2004,73.77229725
+Henderson County (Tennessee),47077,2004,73.49885722
+Henry County (Tennessee),47079,2004,73.85649688
+Hickman County (Tennessee),47081,2004,74.04334198
+Houston County (Tennessee),47083,2004,74.15082345
+Humphreys County (Tennessee),47085,2004,74.32603425
+Jackson County (Tennessee),47087,2004,73.76064555
+Jefferson County (Tennessee),47089,2004,75.31975229
+Johnson County (Tennessee),47091,2004,74.93761722
+Knox County (Tennessee),47093,2004,76.35699337
+Lake County (Tennessee),47095,2004,72.33439757
+Lauderdale County (Tennessee),47097,2004,73.48476723
+Lawrence County (Tennessee),47099,2004,74.8356211
+Lewis County (Tennessee),47101,2004,73.99379529
+Lincoln County (Tennessee),47103,2004,74.81346644
+Loudon County (Tennessee),47105,2004,76.77142907
+McMinn County (Tennessee),47107,2004,74.89137305
+McNairy County (Tennessee),47109,2004,73.51350222
+Macon County (Tennessee),47111,2004,73.88893723
+Madison County (Tennessee),47113,2004,75.64158803
+Marion County (Tennessee),47115,2004,73.55505676
+Marshall County (Tennessee),47117,2004,75.03870354
+Maury County (Tennessee),47119,2004,75.29425251
+Meigs County (Tennessee),47121,2004,73.32746773
+Monroe County (Tennessee),47123,2004,75.1060057
+Montgomery County (Tennessee),47125,2004,75.95019018
+Moore County (Tennessee),47127,2004,78.06988802
+Morgan County (Tennessee),47129,2004,74.91546847
+Obion County (Tennessee),47131,2004,74.65087764
+Overton County (Tennessee),47133,2004,73.83062554
+Perry County (Tennessee),47135,2004,73.50698344
+Pickett County (Tennessee),47137,2004,75.29186847
+Polk County (Tennessee),47139,2004,73.49360518
+Putnam County (Tennessee),47141,2004,75.88853744
+Rhea County (Tennessee),47143,2004,74.63491041
+Roane County (Tennessee),47145,2004,75.2307108
+Robertson County (Tennessee),47147,2004,74.95245485
+Rutherford County (Tennessee),47149,2004,76.87468239
+Scott County (Tennessee),47151,2004,73.44660415
+Sequatchie County (Tennessee),47153,2004,75.41855331
+Sevier County (Tennessee),47155,2004,76.20103271
+Shelby County (Tennessee),47157,2004,74.02134499
+Smith County (Tennessee),47159,2004,74.43677353
+Stewart County (Tennessee),47161,2004,74.22590256
+Sullivan County (Tennessee),47163,2004,75.62789649
+Sumner County (Tennessee),47165,2004,76.87882258
+Tipton County (Tennessee),47167,2004,74.14234735
+Trousdale County (Tennessee),47169,2004,73.4864724
+Unicoi County (Tennessee),47171,2004,74.45432603
+Union County (Tennessee),47173,2004,74.55941097
+Van Buren County (Tennessee),47175,2004,75.10805671
+Warren County (Tennessee),47177,2004,74.5024856
+Washington County (Tennessee),47179,2004,75.73696742
+Wayne County (Tennessee),47181,2004,75.05423082
+Weakley County (Tennessee),47183,2004,75.78293445
+White County (Tennessee),47185,2004,74.12092544
+Williamson County (Tennessee),47187,2004,80.11300994
+Wilson County (Tennessee),47189,2004,76.62040763
+Anderson County (Texas),48001,2004,73.11844956
+Andrews County (Texas),48003,2004,75.96857831
+Angelina County (Texas),48005,2004,75.33254998
+Aransas County (Texas),48007,2004,75.50547622
+Archer County (Texas),48009,2004,78.36156269
+Armstrong County (Texas),48011,2004,76.87891799
+Atascosa County (Texas),48013,2004,76.80231806
+Austin County (Texas),48015,2004,76.4969731
+Bailey County (Texas),48017,2004,77.36485199
+Bandera County (Texas),48019,2004,78.77888783
+Bastrop County (Texas),48021,2004,76.58412102
+Baylor County (Texas),48023,2004,75.03732189
+Bee County (Texas),48025,2004,77.15792201
+Bell County (Texas),48027,2004,76.82732278
+Bexar County (Texas),48029,2004,77.42350184
+Blanco County (Texas),48031,2004,77.93672139
+Bosque County (Texas),48035,2004,75.8100689
+Bowie County (Texas),48037,2004,74.78160451
+Brazoria County (Texas),48039,2004,76.64706703
+Brazos County (Texas),48041,2004,78.85929995
+Brewster County (Texas),48043,2004,78.74340729
+Briscoe County (Texas),48045,2004,77.77128574
+Brooks County (Texas),48047,2004,76.30138349
+Brown County (Texas),48049,2004,74.70019419
+Burleson County (Texas),48051,2004,77.16898099
+Burnet County (Texas),48053,2004,77.7061342
+Caldwell County (Texas),48055,2004,77.16430266
+Calhoun County (Texas),48057,2004,76.50802484
+Callahan County (Texas),48059,2004,75.92596107
+Cameron County (Texas),48061,2004,79.99588623
+Camp County (Texas),48063,2004,74.089353
+Carson County (Texas),48065,2004,77.17805602
+Cass County (Texas),48067,2004,74.68376772
+Castro County (Texas),48069,2004,78.18959323
+Chambers County (Texas),48071,2004,75.64536128
+Cherokee County (Texas),48073,2004,75.17792054
+Childress County (Texas),48075,2004,75.43629637
+Clay County (Texas),48077,2004,76.95939369
+Cochran County (Texas),48079,2004,75.48253149
+Coke County (Texas),48081,2004,76.04408941
+Coleman County (Texas),48083,2004,74.81173263
+Collin County (Texas),48085,2004,80.25478327
+Collingsworth County (Texas),48087,2004,74.83367252
+Colorado County (Texas),48089,2004,76.48494502
+Comal County (Texas),48091,2004,78.7434552
+Comanche County (Texas),48093,2004,76.18461565
+Concho County (Texas),48095,2004,77.69974078
+Cooke County (Texas),48097,2004,76.27122492
+Coryell County (Texas),48099,2004,76.88325314
+Cottle County (Texas),48101,2004,76.71535379
+Crane County (Texas),48103,2004,75.44036819
+Crockett County (Texas),48105,2004,76.5633491
+Crosby County (Texas),48107,2004,76.14040394
+Culberson County (Texas),48109,2004,78.45073378
+Dallam County (Texas),48111,2004,75.33217775
+Dallas County (Texas),48113,2004,76.90336913
+Dawson County (Texas),48115,2004,75.93792733
+Deaf Smith County (Texas),48117,2004,76.83971808
+Delta County (Texas),48119,2004,75.04013285
+Denton County (Texas),48121,2004,79.12609775
+DeWitt County (Texas),48123,2004,76.62649174
+Dickens County (Texas),48125,2004,76.36261494
+Dimmit County (Texas),48127,2004,77.31130428
+Donley County (Texas),48129,2004,75.93750649
+Duval County (Texas),48131,2004,75.84538622
+Eastland County (Texas),48133,2004,74.80225809
+Ector County (Texas),48135,2004,74.47688416
+Edwards County (Texas),48137,2004,78.4498176
+Ellis County (Texas),48139,2004,76.44460832
+El Paso County (Texas),48141,2004,78.76877461
+Erath County (Texas),48143,2004,77.30536099
+Falls County (Texas),48145,2004,75.24752088
+Fannin County (Texas),48147,2004,74.65308721
+Fayette County (Texas),48149,2004,77.72710406
+Fisher County (Texas),48151,2004,77.20787104
+Floyd County (Texas),48153,2004,77.0725181
+Foard County (Texas),48155,2004,76.89535615
+Fort Bend County (Texas),48157,2004,79.87877351
+Franklin County (Texas),48159,2004,76.85896018
+Freestone County (Texas),48161,2004,75.64470135
+Frio County (Texas),48163,2004,77.07816411
+Gaines County (Texas),48165,2004,76.95219076
+Galveston County (Texas),48167,2004,75.40537375
+Garza County (Texas),48169,2004,76.15279306
+Gillespie County (Texas),48171,2004,79.71756611
+Glasscock County (Texas),48173,2004,79.35717689
+Goliad County (Texas),48175,2004,78.24972574
+Gonzales County (Texas),48177,2004,76.27056438
+Gray County (Texas),48179,2004,74.98522121
+Grayson County (Texas),48181,2004,75.60701469
+Gregg County (Texas),48183,2004,74.52597493
+Grimes County (Texas),48185,2004,75.44906908
+Guadalupe County (Texas),48187,2004,78.69366924
+Hale County (Texas),48189,2004,77.16438663
+Hall County (Texas),48191,2004,75.66658775
+Hamilton County (Texas),48193,2004,75.97672316
+Hansford County (Texas),48195,2004,76.22885897
+Hardeman County (Texas),48197,2004,77.40720181
+Hardin County (Texas),48199,2004,74.71353671
+Harris County (Texas),48201,2004,77.01662389
+Harrison County (Texas),48203,2004,74.84597728
+Hartley County (Texas),48205,2004,79.33513297
+Haskell County (Texas),48207,2004,76.11422973
+Hays County (Texas),48209,2004,79.21901227
+Hemphill County (Texas),48211,2004,77.2221296
+Henderson County (Texas),48213,2004,74.85990276
+Hidalgo County (Texas),48215,2004,80.40539839
+Hill County (Texas),48217,2004,75.33944953
+Hockley County (Texas),48219,2004,76.14188193
+Hood County (Texas),48221,2004,77.01245323
+Hopkins County (Texas),48223,2004,75.64749488
+Houston County (Texas),48225,2004,75.01814098
+Howard County (Texas),48227,2004,74.48172256
+Hudspeth County (Texas),48229,2004,80.45744117
+Hunt County (Texas),48231,2004,75.31584096
+Hutchinson County (Texas),48233,2004,74.92978308
+Irion County (Texas),48235,2004,78.93646023
+Jack County (Texas),48237,2004,75.77991145
+Jackson County (Texas),48239,2004,76.29881475
+Jasper County (Texas),48241,2004,74.58224886
+Jeff Davis County (Texas),48243,2004,81.96445928
+Jefferson County (Texas),48245,2004,74.72189499
+Jim Hogg County (Texas),48247,2004,77.25181668
+Jim Wells County (Texas),48249,2004,75.80837417
+Johnson County (Texas),48251,2004,75.7855644
+Jones County (Texas),48253,2004,75.93467044
+Karnes County (Texas),48255,2004,76.09134579
+Kaufman County (Texas),48257,2004,74.80484742
+Kendall County (Texas),48259,2004,78.60483759
+Kerr County (Texas),48265,2004,77.59254816
+Kimble County (Texas),48267,2004,77.06387853
+Kinney County (Texas),48271,2004,79.85718811
+Kleberg County (Texas),48273,2004,76.88406084
+Knox County (Texas),48275,2004,75.82381695
+Lamar County (Texas),48277,2004,74.84047052
+Lamb County (Texas),48279,2004,75.61669714
+Lampasas County (Texas),48281,2004,76.33604879
+La Salle County (Texas),48283,2004,76.89540144
+Lavaca County (Texas),48285,2004,77.94413848
+Lee County (Texas),48287,2004,77.61652358
+Leon County (Texas),48289,2004,75.25268476
+Liberty County (Texas),48291,2004,73.13877151
+Limestone County (Texas),48293,2004,73.86936022
+Lipscomb County (Texas),48295,2004,77.16354972
+Live Oak County (Texas),48297,2004,79.0881126
+Llano County (Texas),48299,2004,77.72397282
+Lubbock County (Texas),48303,2004,76.32617256
+Lynn County (Texas),48305,2004,76.54485213
+McCulloch County (Texas),48307,2004,75.70130484
+McLennan County (Texas),48309,2004,76.27756979
+Madison County (Texas),48313,2004,75.68621887
+Marion County (Texas),48315,2004,73.63967622
+Martin County (Texas),48317,2004,75.26737707
+Mason County (Texas),48319,2004,78.78125197
+Matagorda County (Texas),48321,2004,75.40464749
+Maverick County (Texas),48323,2004,78.73429656
+Medina County (Texas),48325,2004,77.81027275
+Menard County (Texas),48327,2004,76.67396975
+Midland County (Texas),48329,2004,77.58239519
+Milam County (Texas),48331,2004,75.60229551
+Mills County (Texas),48333,2004,77.1492037
+Mitchell County (Texas),48335,2004,74.71903866
+Montague County (Texas),48337,2004,74.20596982
+Montgomery County (Texas),48339,2004,76.98145558
+Moore County (Texas),48341,2004,77.09125642
+Morris County (Texas),48343,2004,73.7493603
+Motley County (Texas),48345,2004,77.00866941
+Nacogdoches County (Texas),48347,2004,75.33895654
+Navarro County (Texas),48349,2004,74.77791597
+Newton County (Texas),48351,2004,73.97777697
+Nolan County (Texas),48353,2004,75.03753889
+Nueces County (Texas),48355,2004,77.10720735
+Ochiltree County (Texas),48357,2004,76.40505358
+Oldham County (Texas),48359,2004,77.71908483
+Orange County (Texas),48361,2004,73.30201246
+Palo Pinto County (Texas),48363,2004,74.37180938
+Panola County (Texas),48365,2004,74.91200269
+Parker County (Texas),48367,2004,76.28991442
+Parmer County (Texas),48369,2004,78.03004462
+Pecos County (Texas),48371,2004,77.04716892
+Polk County (Texas),48373,2004,72.57624037
+Potter County (Texas),48375,2004,73.59954653
+Presidio County (Texas),48377,2004,83.36907526
+Rains County (Texas),48379,2004,75.75244562
+Randall County (Texas),48381,2004,78.53204453
+Reagan County (Texas),48383,2004,76.31181884
+Real County (Texas),48385,2004,76.07294353
+Red River County (Texas),48387,2004,73.33237401
+Reeves County (Texas),48389,2004,76.25586099
+Refugio County (Texas),48391,2004,76.02133391
+Robertson County (Texas),48395,2004,75.10051148
+Rockwall County (Texas),48397,2004,78.23713021
+Runnels County (Texas),48399,2004,76.17310373
+Rusk County (Texas),48401,2004,75.57994861
+Sabine County (Texas),48403,2004,74.26870002
+San Augustine County (Texas),48405,2004,74.3124139
+San Jacinto County (Texas),48407,2004,75.39502976
+San Patricio County (Texas),48409,2004,76.12274854
+San Saba County (Texas),48411,2004,77.21153045
+Schleicher County (Texas),48413,2004,76.81814159
+Scurry County (Texas),48415,2004,76.35484338
+Shackelford County (Texas),48417,2004,77.00596915
+Shelby County (Texas),48419,2004,73.83214465
+Sherman County (Texas),48421,2004,77.34017461
+Smith County (Texas),48423,2004,77.09588088
+Somervell County (Texas),48425,2004,76.40180384
+Starr County (Texas),48427,2004,78.90291859
+Stephens County (Texas),48429,2004,75.55167077
+Sterling County (Texas),48431,2004,77.08679584
+Stonewall County (Texas),48433,2004,77.17536869
+Sutton County (Texas),48435,2004,77.49466143
+Swisher County (Texas),48437,2004,77.2992097
+Tarrant County (Texas),48439,2004,77.12626253
+Taylor County (Texas),48441,2004,75.83425767
+Terry County (Texas),48445,2004,76.13541888
+Throckmorton County (Texas),48447,2004,77.12901424
+Titus County (Texas),48449,2004,76.25262215
+Tom Green County (Texas),48451,2004,76.55491148
+Travis County (Texas),48453,2004,79.04499603
+Trinity County (Texas),48455,2004,73.67537539
+Tyler County (Texas),48457,2004,74.8389604
+Upshur County (Texas),48459,2004,74.16686008
+Upton County (Texas),48461,2004,76.60014243
+Uvalde County (Texas),48463,2004,77.56235095
+Val Verde County (Texas),48465,2004,78.41960465
+Van Zandt County (Texas),48467,2004,75.1003075
+Victoria County (Texas),48469,2004,76.85579185
+Walker County (Texas),48471,2004,76.68640947
+Waller County (Texas),48473,2004,76.58179254
+Ward County (Texas),48475,2004,75.16632278
+Washington County (Texas),48477,2004,77.38682352
+Webb County (Texas),48479,2004,78.9748133
+Wharton County (Texas),48481,2004,76.26822378
+Wheeler County (Texas),48483,2004,74.96981929
+Wichita County (Texas),48485,2004,74.88266887
+Wilbarger County (Texas),48487,2004,74.89637347
+Willacy County (Texas),48489,2004,79.80063364
+Williamson County (Texas),48491,2004,80.42731342
+Wilson County (Texas),48493,2004,77.75112146
+Winkler County (Texas),48495,2004,73.90601174
+Wise County (Texas),48497,2004,75.69466073
+Wood County (Texas),48499,2004,75.51049374
+Yoakum County (Texas),48501,2004,77.17898206
+Young County (Texas),48503,2004,74.45732967
+Zapata County (Texas),48505,2004,78.92043836
+Zavala County (Texas),48507,2004,76.64341974
+Beaver County (Utah),49001,2004,75.83976813
+Box Elder County (Utah),49003,2004,78.51066115
+Cache County (Utah),49005,2004,81.17062823
+Carbon County (Utah),49007,2004,75.63867854
+Daggett County (Utah),49009,2004,78.63517824
+Davis County (Utah),49011,2004,79.68692425
+Duchesne County (Utah),49013,2004,75.77671799
+Emery County (Utah),49015,2004,76.83970474
+Garfield County (Utah),49017,2004,78.58228497
+Grand County (Utah),49019,2004,77.48560828
+Iron County (Utah),49021,2004,78.44295625
+Juab County (Utah),49023,2004,76.79651663
+Kane County (Utah),49025,2004,77.8709079
+Millard County (Utah),49027,2004,77.74612734
+Morgan County (Utah),49029,2004,80.07698201
+Piute County (Utah),49031,2004,77.45129388
+Rich County (Utah),49033,2004,80.89659486
+Salt Lake County (Utah),49035,2004,78.56777228
+San Juan County (Utah),49037,2004,77.71385122
+Sanpete County (Utah),49039,2004,78.0762566
+Sevier County (Utah),49041,2004,77.07372303
+Summit County (Utah),49043,2004,81.13303639
+Tooele County (Utah),49045,2004,77.07997984
+Uintah County (Utah),49047,2004,76.40672532
+Utah County (Utah),49049,2004,79.71171001
+Wasatch County (Utah),49051,2004,79.08059723
+Washington County (Utah),49053,2004,80.92785224
+Wayne County (Utah),49055,2004,78.64734973
+Weber County (Utah),49057,2004,78.0189824
+Addison County (Vermont),50001,2004,79.71028356
+Bennington County (Vermont),50003,2004,78.619955
+Caledonia County (Vermont),50005,2004,78.61494639
+Chittenden County (Vermont),50007,2004,80.02731173
+Essex County (Vermont),50009,2004,78.26611899
+Franklin County (Vermont),50011,2004,77.83921346
+Grand Isle County (Vermont),50013,2004,78.3656429
+Lamoille County (Vermont),50015,2004,78.67337473
+Orange County (Vermont),50017,2004,79.12172259
+Orleans County (Vermont),50019,2004,78.09356232
+Rutland County (Vermont),50021,2004,78.09566031
+Washington County (Vermont),50023,2004,79.36295058
+Windham County (Vermont),50025,2004,78.66450643
+Windsor County (Vermont),50027,2004,79.36625391
+Accomack County (Virginia),51001,2004,74.57307686
+Amelia County (Virginia),51007,2004,75.15612657
+Amherst County (Virginia),51009,2004,76.50928
+Appomattox County (Virginia),51011,2004,76.23471547
+Arlington County (Virginia),51013,2004,81.0553913
+Bath County (Virginia),51017,2004,75.7359549
+Bland County (Virginia),51021,2004,75.05212785
+Botetourt County (Virginia),51023,2004,77.91291127
+Brunswick County (Virginia),51025,2004,74.45670222
+Buchanan County (Virginia),51027,2004,72.49518721
+Buckingham County (Virginia),51029,2004,75.76641332
+Campbell County (Virginia),51031,2004,77.50287798
+Caroline County (Virginia),51033,2004,75.66312382
+Carroll County (Virginia),51035,2004,76.85236881
+Charles City County (Virginia),51036,2004,75.64935401
+Charlotte County (Virginia),51037,2004,75.06675882
+Chesterfield County (Virginia),51041,2004,78.38142164
+Clarke County (Virginia),51043,2004,77.49502992
+Craig County (Virginia),51045,2004,76.83494511
+Culpeper County (Virginia),51047,2004,76.57527584
+Cumberland County (Virginia),51049,2004,76.88376396
+Dickenson County (Virginia),51051,2004,72.95180579
+Dinwiddie County (Virginia),51053,2004,75.81669116
+Essex County (Virginia),51057,2004,75.49942785
+Fauquier County (Virginia),51061,2004,77.71448714
+Floyd County (Virginia),51063,2004,77.85773467
+Fluvanna County (Virginia),51065,2004,78.75552616
+Franklin County (Virginia),51067,2004,77.36309616
+Frederick County (Virginia),51069,2004,78.37102306
+Giles County (Virginia),51071,2004,75.06049334
+Gloucester County (Virginia),51073,2004,76.50905536
+Goochland County (Virginia),51075,2004,78.13190666
+Grayson County (Virginia),51077,2004,75.70307302
+Greene County (Virginia),51079,2004,77.84017063
+Hanover County (Virginia),51085,2004,78.2895721
+Henrico County (Virginia),51087,2004,77.96566168
+Henry County (Virginia),51089,2004,75.07838985
+Highland County (Virginia),51091,2004,78.51329122
+Isle of Wight County (Virginia),51093,2004,76.50006963
+King and Queen County (Virginia),51097,2004,75.51578592
+King George County (Virginia),51099,2004,77.00853035
+King William County (Virginia),51101,2004,75.95416061
+Lancaster County (Virginia),51103,2004,76.71027231
+Lee County (Virginia),51105,2004,73.97228834
+Loudoun County (Virginia),51107,2004,80.97990201
+Louisa County (Virginia),51109,2004,76.2396465
+Lunenburg County (Virginia),51111,2004,75.27342987
+Madison County (Virginia),51113,2004,77.79295714
+Mathews County (Virginia),51115,2004,76.96104988
+Mecklenburg County (Virginia),51117,2004,74.62378266
+Middlesex County (Virginia),51119,2004,76.53530413
+Montgomery County (Virginia),51121,2004,78.41978015
+Nelson County (Virginia),51125,2004,76.28511902
+New Kent County (Virginia),51127,2004,77.12402194
+Northampton County (Virginia),51131,2004,74.54061458
+Northumberland County (Virginia),51133,2004,77.51130391
+Nottoway County (Virginia),51135,2004,74.94017978
+Orange County (Virginia),51137,2004,77.18482218
+Page County (Virginia),51139,2004,76.39410977
+Patrick County (Virginia),51141,2004,76.18570046
+Powhatan County (Virginia),51145,2004,77.99025728
+Prince Edward County (Virginia),51147,2004,75.67881704
+Prince George County (Virginia),51149,2004,78.51628857
+Pulaski County (Virginia),51155,2004,75.15826991
+Rappahannock County (Virginia),51157,2004,78.43886476
+Richmond County (Virginia),51159,2004,75.51948653
+Roanoke County (Virginia),51161,2004,78.37271504
+Russell County (Virginia),51167,2004,73.71194428
+Scott County (Virginia),51169,2004,74.77336671
+Shenandoah County (Virginia),51171,2004,77.89420712
+Smyth County (Virginia),51173,2004,74.37854078
+Stafford County (Virginia),51179,2004,78.23828863
+Surry County (Virginia),51181,2004,76.24422969
+Sussex County (Virginia),51183,2004,73.88600029
+Tazewell County (Virginia),51185,2004,73.35590302
+Warren County (Virginia),51187,2004,76.12169587
+Washington County (Virginia),51191,2004,76.14771016
+Westmoreland County (Virginia),51193,2004,75.37060222
+Wise County (Virginia),51195,2004,73.31082393
+Wythe County (Virginia),51197,2004,75.5642113
+Alexandria City (Virginia),51510,2004,79.71766825
+Bristol City (Virginia),51520,2004,74.55684718
+Chesapeake City (Virginia),51550,2004,76.69410214
+Colonial Heights City (Virginia),51570,2004,76.58637345
+Covington City (Virginia),51580,2004,74.09601853
+Falls Church City (Virginia),51610,2004,79.88453302
+Galax City (Virginia),51640,2004,74.07367413
+Hampton City (Virginia),51650,2004,75.88587609
+Hopewell City (Virginia),51670,2004,73.13141549
+Lexington City (Virginia),51678,2004,78.95111993
+Lynchburg City (Virginia),51680,2004,76.4205074
+Martinsville City (Virginia),51690,2004,72.76825595
+Norfolk City (Virginia),51710,2004,74.10672096
+Norton City (Virginia),51720,2004,74.58343225
+Petersburg City (Virginia),51730,2004,70.60540271
+Poquoson City (Virginia),51735,2004,78.78121294
+Portsmouth City (Virginia),51740,2004,73.57332599
+Radford City (Virginia),51750,2004,76.34575119
+Richmond City (Virginia),51760,2004,71.99345783
+Roanoke City (Virginia),51770,2004,73.72135074
+Salem City (Virginia),51775,2004,75.68403173
+Suffolk City (Virginia),51800,2004,75.25662133
+Virginia Beach City (Virginia),51810,2004,78.50375155
+Winchester City (Virginia),51840,2004,76.02563213
+Fairfax County (Virginia),51059,2004,82.04933386
+Fairfax City (Virginia),51600,2004,82.04933386
+Rockingham County (Virginia),51165,2004,79.34292927
+Harrisonburg City (Virginia),51660,2004,79.34292927
+James City County (Virginia),51095,2004,80.84099093
+Williamsburg City (Virginia),51830,2004,80.84099093
+Prince William County (Virginia),51153,2004,78.84216168
+Manassas City (Virginia),51683,2004,78.84216168
+Manassas Park City (Virginia),51685,2004,78.84216168
+Rockbridge County (Virginia),51163,2004,77.68187556
+Buena Vista City (Virginia),51530,2004,77.68187556
+Spotsylvania County (Virginia),51177,2004,77.40764949
+Fredericksburg City (Virginia),51630,2004,77.40764949
+Augusta County (Virginia),51015,2004,77.50353157
+Staunton City (Virginia),51790,2004,77.50353157
+Waynesboro City (Virginia),51820,2004,77.50353157
+Pittsylvania County (Virginia),51143,2004,74.83932484
+Danville City (Virginia),51590,2004,74.83932484
+Greensville County (Virginia),51081,2004,73.66577903
+Emporia City (Virginia),51595,2004,73.66577903
+Albemarle County (Virginia),51003,2004,79.59322261
+Charlottesville City (Virginia),51540,2004,79.59322261
+Bedford County (Virginia),51019,2004,77.9253958
+Bedford City (Virginia),51515,2004,77.9253958
+Halifax County (Virginia),51083,2004,74.60948025
+South Boston City (Virginia),51780,2004,74.60948025
+Southampton County (Virginia),51175,2004,74.37398894
+Franklin City (Virginia),51620,2004,74.37398894
+Alleghany County (Virginia),51005,2004,75.07412583
+Clifton Forge City (Virginia),51560,2004,75.07412583
+York County (Virginia),51199,2004,76.81315006
+Newport News City (Virginia),51700,2004,76.81315006
+Adams County (Washington),53001,2004,78.58074996
+Asotin County (Washington),53003,2004,78.85741776
+Benton County (Washington),53005,2004,78.96635674
+Chelan County (Washington),53007,2004,79.63003251
+Clallam County (Washington),53009,2004,78.36078482
+Clark County (Washington),53011,2004,78.49572793
+Columbia County (Washington),53013,2004,78.19319138
+Cowlitz County (Washington),53015,2004,76.52394959
+Douglas County (Washington),53017,2004,79.54555138
+Ferry County (Washington),53019,2004,76.50938725
+Franklin County (Washington),53021,2004,78.72921192
+Garfield County (Washington),53023,2004,79.67942452
+Grant County (Washington),53025,2004,78.05664383
+Grays Harbor County (Washington),53027,2004,75.64001691
+Island County (Washington),53029,2004,80.22289538
+Jefferson County (Washington),53031,2004,80.03883268
+King County (Washington),53033,2004,80.07074416
+Kitsap County (Washington),53035,2004,78.70355994
+Kittitas County (Washington),53037,2004,79.8357662
+Klickitat County (Washington),53039,2004,78.56952573
+Lewis County (Washington),53041,2004,76.96912032
+Lincoln County (Washington),53043,2004,78.92041068
+Mason County (Washington),53045,2004,77.46805671
+Okanogan County (Washington),53047,2004,77.33323042
+Pacific County (Washington),53049,2004,76.11007252
+Pend Oreille County (Washington),53051,2004,76.28297348
+Pierce County (Washington),53053,2004,77.32226887
+San Juan County (Washington),53055,2004,83.09108195
+Skagit County (Washington),53057,2004,78.64076057
+Skamania County (Washington),53059,2004,79.24273777
+Snohomish County (Washington),53061,2004,78.86475184
+Spokane County (Washington),53063,2004,77.98993058
+Stevens County (Washington),53065,2004,76.90620798
+Thurston County (Washington),53067,2004,78.92226699
+Wahkiakum County (Washington),53069,2004,77.73816253
+Walla Walla County (Washington),53071,2004,78.81300038
+Whatcom County (Washington),53073,2004,79.73532021
+Whitman County (Washington),53075,2004,80.58968316
+Yakima County (Washington),53077,2004,77.38823589
+Barbour County (West Virginia),54001,2004,75.31923218
+Berkeley County (West Virginia),54003,2004,75.4366292
+Boone County (West Virginia),54005,2004,72.48376197
+Braxton County (West Virginia),54007,2004,75.58023154
+Brooke County (West Virginia),54009,2004,75.93820299
+Cabell County (West Virginia),54011,2004,74.27829326
+Calhoun County (West Virginia),54013,2004,75.88006557
+Clay County (West Virginia),54015,2004,73.78708897
+Doddridge County (West Virginia),54017,2004,76.20712786
+Fayette County (West Virginia),54019,2004,73.74640831
+Gilmer County (West Virginia),54021,2004,76.47774134
+Grant County (West Virginia),54023,2004,77.14392291
+Greenbrier County (West Virginia),54025,2004,75.54491424
+Hampshire County (West Virginia),54027,2004,76.39116401
+Hancock County (West Virginia),54029,2004,75.59180931
+Hardy County (West Virginia),54031,2004,76.28953235
+Harrison County (West Virginia),54033,2004,74.95882227
+Jackson County (West Virginia),54035,2004,76.15113539
+Jefferson County (West Virginia),54037,2004,76.368717
+Kanawha County (West Virginia),54039,2004,74.68260507
+Lewis County (West Virginia),54041,2004,74.3037373
+Lincoln County (West Virginia),54043,2004,72.60144438
+Logan County (West Virginia),54045,2004,71.48056627
+McDowell County (West Virginia),54047,2004,69.37667346
+Marion County (West Virginia),54049,2004,76.04919594
+Marshall County (West Virginia),54051,2004,76.6330184
+Mason County (West Virginia),54053,2004,74.72119047
+Mercer County (West Virginia),54055,2004,73.77909849
+Mineral County (West Virginia),54057,2004,75.89171519
+Mingo County (West Virginia),54059,2004,70.8232063
+Monongalia County (West Virginia),54061,2004,77.90798959
+Monroe County (West Virginia),54063,2004,76.20544984
+Morgan County (West Virginia),54065,2004,75.80450203
+Nicholas County (West Virginia),54067,2004,74.52436721
+Ohio County (West Virginia),54069,2004,76.55726978
+Pendleton County (West Virginia),54071,2004,78.10181046
+Pleasants County (West Virginia),54073,2004,75.90604138
+Pocahontas County (West Virginia),54075,2004,75.52457052
+Preston County (West Virginia),54077,2004,76.24018935
+Putnam County (West Virginia),54079,2004,76.6209518
+Raleigh County (West Virginia),54081,2004,74.41934815
+Randolph County (West Virginia),54083,2004,75.78547416
+Ritchie County (West Virginia),54085,2004,75.72330988
+Roane County (West Virginia),54087,2004,74.58212034
+Summers County (West Virginia),54089,2004,75.59770481
+Taylor County (West Virginia),54091,2004,75.89458479
+Tucker County (West Virginia),54093,2004,76.86374057
+Tyler County (West Virginia),54095,2004,75.69258653
+Upshur County (West Virginia),54097,2004,76.22189447
+Wayne County (West Virginia),54099,2004,75.09885686
+Webster County (West Virginia),54101,2004,74.39842721
+Wetzel County (West Virginia),54103,2004,75.79277264
+Wirt County (West Virginia),54105,2004,76.11328527
+Wood County (West Virginia),54107,2004,76.18351335
+Wyoming County (West Virginia),54109,2004,71.95460243
+Adams County (Wisconsin),55001,2004,77.50290431
+Ashland County (Wisconsin),55003,2004,76.47953765
+Barron County (Wisconsin),55005,2004,78.81874427
+Bayfield County (Wisconsin),55007,2004,78.75501331
+Brown County (Wisconsin),55009,2004,79.60992189
+Buffalo County (Wisconsin),55011,2004,79.75119913
+Burnett County (Wisconsin),55013,2004,78.04714786
+Calumet County (Wisconsin),55015,2004,80.82892215
+Chippewa County (Wisconsin),55017,2004,79.25984337
+Clark County (Wisconsin),55019,2004,79.27896748
+Columbia County (Wisconsin),55021,2004,78.59432526
+Crawford County (Wisconsin),55023,2004,78.58486109
+Dane County (Wisconsin),55025,2004,80.35252611
+Dodge County (Wisconsin),55027,2004,78.16408659
+Door County (Wisconsin),55029,2004,79.93326961
+Douglas County (Wisconsin),55031,2004,77.33851789
+Dunn County (Wisconsin),55033,2004,80.09458178
+Eau Claire County (Wisconsin),55035,2004,79.80321687
+Florence County (Wisconsin),55037,2004,77.91446509
+Fond du Lac County (Wisconsin),55039,2004,79.14747101
+Forest County (Wisconsin),55041,2004,77.13007158
+Grant County (Wisconsin),55043,2004,78.64404958
+Green County (Wisconsin),55045,2004,79.17529712
+Green Lake County (Wisconsin),55047,2004,78.1747608
+Iowa County (Wisconsin),55049,2004,78.95770285
+Iron County (Wisconsin),55051,2004,78.24327431
+Jackson County (Wisconsin),55053,2004,77.66443163
+Jefferson County (Wisconsin),55055,2004,79.29707908
+Juneau County (Wisconsin),55057,2004,77.48495755
+Kenosha County (Wisconsin),55059,2004,77.26426344
+Kewaunee County (Wisconsin),55061,2004,80.35501318
+La Crosse County (Wisconsin),55063,2004,79.09138473
+Lafayette County (Wisconsin),55065,2004,79.67826522
+Langlade County (Wisconsin),55067,2004,78.43129938
+Lincoln County (Wisconsin),55069,2004,78.56056074
+Manitowoc County (Wisconsin),55071,2004,79.29835606
+Marathon County (Wisconsin),55073,2004,80.25259465
+Marinette County (Wisconsin),55075,2004,77.88582971
+Marquette County (Wisconsin),55077,2004,77.5924879
+Menominee County (Wisconsin),55078,2004,72.45075351
+Milwaukee County (Wisconsin),55079,2004,76.14062634
+Monroe County (Wisconsin),55081,2004,77.34153172
+Oconto County (Wisconsin),55083,2004,78.55721116
+Oneida County (Wisconsin),55085,2004,78.56886279
+Outagamie County (Wisconsin),55087,2004,79.8471482
+Ozaukee County (Wisconsin),55089,2004,80.72237714
+Pepin County (Wisconsin),55091,2004,80.04740878
+Pierce County (Wisconsin),55093,2004,80.18338549
+Polk County (Wisconsin),55095,2004,78.6934869
+Portage County (Wisconsin),55097,2004,80.54423656
+Price County (Wisconsin),55099,2004,78.18096645
+Racine County (Wisconsin),55101,2004,78.07144129
+Richland County (Wisconsin),55103,2004,79.57991395
+Rock County (Wisconsin),55105,2004,77.76166693
+Rusk County (Wisconsin),55107,2004,77.96914474
+Saint Croix County (Wisconsin),55109,2004,79.87743597
+Sauk County (Wisconsin),55111,2004,78.92779827
+Sawyer County (Wisconsin),55113,2004,76.84988158
+Shawano County (Wisconsin),55115,2004,78.51880848
+Sheboygan County (Wisconsin),55117,2004,78.88069293
+Taylor County (Wisconsin),55119,2004,80.38564791
+Trempealeau County (Wisconsin),55121,2004,78.66946205
+Vernon County (Wisconsin),55123,2004,78.74506477
+Vilas County (Wisconsin),55125,2004,78.61846734
+Walworth County (Wisconsin),55127,2004,78.616164
+Washburn County (Wisconsin),55129,2004,77.85900946
+Washington County (Wisconsin),55131,2004,80.01627241
+Waukesha County (Wisconsin),55133,2004,80.19526522
+Waupaca County (Wisconsin),55135,2004,77.06158896
+Waushara County (Wisconsin),55137,2004,78.47767434
+Winnebago County (Wisconsin),55139,2004,79.32928445
+Wood County (Wisconsin),55141,2004,79.92809193
+Albany County (Wyoming),56001,2004,79.31527846
+Big Horn County (Wyoming),56003,2004,76.27834428
+Campbell County (Wyoming),56005,2004,76.70690683
+Carbon County (Wyoming),56007,2004,76.1440005
+Converse County (Wyoming),56009,2004,77.68762665
+Crook County (Wyoming),56011,2004,78.74479801
+Fremont County (Wyoming),56013,2004,74.53526183
+Goshen County (Wyoming),56015,2004,78.50967001
+Hot Springs County (Wyoming),56017,2004,75.76244391
+Johnson County (Wyoming),56019,2004,78.66727689
+Laramie County (Wyoming),56021,2004,77.18134583
+Lincoln County (Wyoming),56023,2004,78.51754795
+Natrona County (Wyoming),56025,2004,76.86138113
+Niobrara County (Wyoming),56027,2004,77.78170203
+Park County (Wyoming),56029,2004,79.03166057
+Platte County (Wyoming),56031,2004,77.5119368
+Sheridan County (Wyoming),56033,2004,77.12660266
+Sublette County (Wyoming),56035,2004,79.63893692
+Sweetwater County (Wyoming),56037,2004,76.63654329
+Teton County (Wyoming),56039,2004,82.57760356
+Uinta County (Wyoming),56041,2004,76.61393025
+Washakie County (Wyoming),56043,2004,77.94997978
+Weston County (Wyoming),56045,2004,78.1505842
