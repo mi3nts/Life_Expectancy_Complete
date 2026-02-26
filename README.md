@@ -13,4 +13,4 @@ Repository to estimate and identify factors that affect life expectancy in the U
 - Year_2010_interpolated: Similar to one_year_complete" file for the year 2010. These two files can be ignored.
 - Year_2010_regionmask: The methodology to find values of varibles in a county was done using the regionmask package. This method was not efficient when the shapefile of the county (specially small ones) could not cover the mid-point of the raster data from CAMS. This file can be igonored.
 - shapefile_sources: Word file indicating sources of shapefile
--Data: the final dataframe consisiting of environmental variables, corresponding year, fips (id to identify county) and life expectancy
+- Data: the final dataframe consisiting of environmental variables, corresponding year, fips (id to identify county) and life expectancy
