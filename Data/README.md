@@ -1,0 +1,1 @@
+This repository consists of the final dataframe consisting of the environmental variables, fips, year and corresponding life expectancy. The .pkl file can be easily opened using Pandas. The 2003_to_2010_data consists of data from 2003 to 2010 and 2011_to_2019_data consists of data from 2011 to 2019. A csv file and complete data is also uploaded in Zenodo.
